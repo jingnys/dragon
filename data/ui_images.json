@@ -279,6 +279,54 @@
    "group": "환령 얼굴",
    "size": "-",
    "bytes": 0
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_SSR.png",
+   "file": "frame_ssr.webp",
+   "label": "원형 프레임 SSR",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5672
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_SR.png",
+   "file": "frame_sr.webp",
+   "label": "원형 프레임 SR",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5710
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_RP.png",
+   "file": "frame_rp.webp",
+   "label": "원형 프레임 RP",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5758
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_R.png",
+   "file": "frame_r.webp",
+   "label": "원형 프레임 R",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5740
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_N.png",
+   "file": "frame_n.webp",
+   "label": "원형 프레임 N",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5654
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_NS.png",
+   "file": "frame_ns.webp",
+   "label": "원형 프레임 NS",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5456
   }
  ]
 }
