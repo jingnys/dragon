@@ -1,0 +1,1390 @@
+{
+"heroes": [
+{
+"id": 1701,
+"name": "아테나",
+"cls": "Guardian",
+"q": 7,
+"factions": [
+104,
+102
+],
+"role": "탱커·버퍼",
+"tier": "T0"
+},
+{
+"id": 1702,
+"name": "프로메테우스",
+"cls": "Guardian",
+"q": 7,
+"factions": [
+102,
+103
+],
+"role": "탱커·디버퍼",
+"tier": "T1"
+},
+{
+"id": 2701,
+"name": "비너스",
+"cls": "Priest",
+"q": 7,
+"factions": [
+102,
+101
+],
+"role": "힐러·서포터",
+"tier": "T0"
+},
+{
+"id": 2702,
+"name": "헬라",
+"cls": "Priest",
+"q": 7,
+"factions": [
+104,
+105
+],
+"role": "힐러·처형",
+"tier": "T1"
+},
+{
+"id": 3701,
+"name": "하데스",
+"cls": "Assassin",
+"q": 7,
+"factions": [
+103,
+105
+],
+"role": "단일 딜러·처형",
+"tier": "T0"
+},
+{
+"id": 3702,
+"name": "헤르메스",
+"cls": "Assassin",
+"q": 7,
+"factions": [
+106,
+101
+],
+"role": "광역 딜러(원소)",
+"tier": "T1"
+},
+{
+"id": 4701,
+"name": "아레스",
+"cls": "Warrior",
+"q": 7,
+"factions": [
+106,
+103
+],
+"role": "브루저·광역 딜러",
+"tier": "T0"
+},
+{
+"id": 4702,
+"name": "토르",
+"cls": "Warrior",
+"q": 7,
+"factions": [
+101,
+104
+],
+"role": "광역 딜러(감전·원소)",
+"tier": "T0"
+},
+{
+"id": 5701,
+"name": "아폴론",
+"cls": "Archer",
+"q": 7,
+"factions": [
+105,
+104
+],
+"role": "지속 딜러(표식)",
+"tier": "T1"
+},
+{
+"id": 5702,
+"name": "아르테미스",
+"cls": "Archer",
+"q": 7,
+"factions": [
+103,
+106
+],
+"role": "딜러·원거리 버퍼",
+"tier": "T0"
+},
+{
+"id": 6701,
+"name": "포세이돈",
+"cls": "Mage",
+"q": 7,
+"factions": [
+101,
+106
+],
+"role": "광역 딜러(원소·제어)",
+"tier": "T0"
+},
+{
+"id": 6702,
+"name": "로키",
+"cls": "Mage",
+"q": 7,
+"factions": [
+105,
+102
+],
+"role": "딜러·생존·제어",
+"tier": "T1"
+},
+{
+"id": 1601,
+"name": "아누비스",
+"cls": "Guardian",
+"q": 6,
+"factions": [
+105,
+101
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 1602,
+"name": "헬베르",
+"cls": "Guardian",
+"q": 6,
+"factions": [
+105,
+104
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 1603,
+"name": "폼페이",
+"cls": "Guardian",
+"q": 6,
+"factions": [
+103,
+106
+],
+"role": "힐러",
+"tier": "T1"
+},
+{
+"id": 1604,
+"name": "두발린",
+"cls": "Guardian",
+"q": 6,
+"factions": [
+102,
+101
+],
+"role": "힐러",
+"tier": "T1"
+},
+{
+"id": 1605,
+"name": "카이사르",
+"cls": "Guardian",
+"q": 6,
+"factions": [
+104,
+106
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 1606,
+"name": "살로메",
+"cls": "Guardian",
+"q": 6,
+"factions": [
+101,
+105
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 1607,
+"name": "현무",
+"cls": "Guardian",
+"q": 6,
+"factions": [
+104,
+103
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 2601,
+"name": "셰에라자드",
+"cls": "Priest",
+"q": 6,
+"factions": [
+103,
+104
+],
+"role": "힐러",
+"tier": "T1"
+},
+{
+"id": 2602,
+"name": "티타니아",
+"cls": "Priest",
+"q": 6,
+"factions": [
+102,
+101
+],
+"role": "힐러",
+"tier": "T1"
+},
+{
+"id": 2603,
+"name": "오필리아",
+"cls": "Priest",
+"q": 6,
+"factions": [
+104,
+106
+],
+"role": "서포터",
+"tier": "T1"
+},
+{
+"id": 2604,
+"name": "비비안",
+"cls": "Priest",
+"q": 6,
+"factions": [
+101,
+104
+],
+"role": "서포터",
+"tier": "T1"
+},
+{
+"id": 2605,
+"name": "시비모",
+"cls": "Priest",
+"q": 6,
+"factions": [
+105,
+102
+],
+"role": "힐러",
+"tier": "T1"
+},
+{
+"id": 2606,
+"name": "모르가나",
+"cls": "Priest",
+"q": 6,
+"factions": [
+101,
+106
+],
+"role": "힐러",
+"tier": "T1"
+},
+{
+"id": 2608,
+"name": "待翻译",
+"cls": "Priest",
+"q": 6,
+"factions": [
+102,
+103
+],
+"role": "힐러",
+"tier": "T1"
+},
+{
+"id": 3601,
+"name": "판군바오",
+"cls": "Assassin",
+"q": 6,
+"factions": [
+102,
+106
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 3602,
+"name": "지크룬트",
+"cls": "Assassin",
+"q": 6,
+"factions": [
+104,
+103
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 3603,
+"name": "백호",
+"cls": "Assassin",
+"q": 6,
+"factions": [
+102,
+105
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 3604,
+"name": "요르문간드",
+"cls": "Assassin",
+"q": 6,
+"factions": [
+104,
+106
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 3605,
+"name": "모드레드",
+"cls": "Assassin",
+"q": 6,
+"factions": [
+105,
+101
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 3606,
+"name": "자그레우스",
+"cls": "Assassin",
+"q": 6,
+"factions": [
+101,
+103
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 3607,
+"name": "린",
+"cls": "Assassin",
+"q": 6,
+"factions": [
+104,
+105
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 3608,
+"name": "릴리스",
+"cls": "Assassin",
+"q": 6,
+"factions": [
+106,
+102
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 4601,
+"name": "브륀힐드",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+104,
+105
+],
+"role": "서포터",
+"tier": "T1"
+},
+{
+"id": 4602,
+"name": "마릴리스",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+103,
+102
+],
+"role": "브루저",
+"tier": "T1"
+},
+{
+"id": 4603,
+"name": "아서",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+104,
+106
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 4604,
+"name": "미노타우로스",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+102,
+105
+],
+"role": "브루저",
+"tier": "T1"
+},
+{
+"id": 4605,
+"name": "지크프리트",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+101,
+102
+],
+"role": "브루저",
+"tier": "T1"
+},
+{
+"id": 4606,
+"name": "티르빙",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+106,
+102
+],
+"role": "브루저",
+"tier": "T1"
+},
+{
+"id": 4607,
+"name": "청룡",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+105,
+103
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 4608,
+"name": "아스모데우스",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+105,
+102
+],
+"role": "서포터",
+"tier": "T1"
+},
+{
+"id": 4609,
+"name": "안드바리",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+103,
+106
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 4610,
+"name": "히토미",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+102,
+104
+],
+"role": "브루저",
+"tier": "T1"
+},
+{
+"id": 5601,
+"name": "이프리트",
+"cls": "Archer",
+"q": 6,
+"factions": [
+103,
+101
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 5602,
+"name": "후긴과 무닌",
+"cls": "Archer",
+"q": 6,
+"factions": [
+102,
+106
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 5603,
+"name": "오리온",
+"cls": "Archer",
+"q": 6,
+"factions": [
+101,
+106
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 5604,
+"name": "메두사",
+"cls": "Archer",
+"q": 6,
+"factions": [
+106,
+105
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 5605,
+"name": "님로스",
+"cls": "Archer",
+"q": 6,
+"factions": [
+106,
+105
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 5606,
+"name": "미미르",
+"cls": "Archer",
+"q": 6,
+"factions": [
+104,
+103
+],
+"role": "탱커",
+"tier": "T1"
+},
+{
+"id": 5607,
+"name": "홍",
+"cls": "Archer",
+"q": 6,
+"factions": [
+102,
+105
+],
+"role": "서포터",
+"tier": "T1"
+},
+{
+"id": 6601,
+"name": "가브리엘",
+"cls": "Mage",
+"q": 6,
+"factions": [
+104,
+105
+],
+"role": "서포터",
+"tier": "T1"
+},
+{
+"id": 6602,
+"name": "굴베이그",
+"cls": "Mage",
+"q": 6,
+"factions": [
+105,
+101
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 6603,
+"name": "파우스트",
+"cls": "Mage",
+"q": 6,
+"factions": [
+105,
+106
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 6604,
+"name": "탈로스",
+"cls": "Mage",
+"q": 6,
+"factions": [
+103,
+102
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 6605,
+"name": "클레오파트라",
+"cls": "Mage",
+"q": 6,
+"factions": [
+105,
+103
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 6606,
+"name": "크라수스",
+"cls": "Mage",
+"q": 6,
+"factions": [
+106,
+103
+],
+"role": "서포터",
+"tier": "T1"
+},
+{
+"id": 6607,
+"name": "주작",
+"cls": "Mage",
+"q": 6,
+"factions": [
+101,
+106
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 6609,
+"name": "예카테리나",
+"cls": "Mage",
+"q": 6,
+"factions": [
+101,
+103
+],
+"role": "딜러",
+"tier": "T1"
+},
+{
+"id": 94604,
+"name": "지크문트",
+"cls": "Warrior",
+"q": 6,
+"factions": [
+101,
+102
+],
+"role": "브루저",
+"tier": "T1"
+},
+{
+"id": 1501,
+"name": "드라실",
+"cls": "Guardian",
+"q": 5,
+"factions": [
+102,
+103
+],
+"role": "탱커",
+"tier": "T2"
+},
+{
+"id": 1502,
+"name": "퐁당",
+"cls": "Guardian",
+"q": 5,
+"factions": [
+105,
+106
+],
+"role": "탱커",
+"tier": "T2"
+},
+{
+"id": 1503,
+"name": "골렘",
+"cls": "Guardian",
+"q": 5,
+"factions": [
+104,
+101
+],
+"role": "탱커",
+"tier": "T2"
+},
+{
+"id": 1504,
+"name": "헤르만",
+"cls": "Guardian",
+"q": 5,
+"factions": [
+103,
+106
+],
+"role": "탱커",
+"tier": "T2"
+},
+{
+"id": 1505,
+"name": "오베론니아",
+"cls": "Guardian",
+"q": 5,
+"factions": [
+101,
+102
+],
+"role": "탱커",
+"tier": "T2"
+},
+{
+"id": 2501,
+"name": "아타니스",
+"cls": "Priest",
+"q": 5,
+"factions": [
+106,
+103
+],
+"role": "힐러",
+"tier": "T2"
+},
+{
+"id": 2502,
+"name": "칼리굴라",
+"cls": "Priest",
+"q": 5,
+"factions": [
+102,
+105
+],
+"role": "힐러",
+"tier": "T2"
+},
+{
+"id": 2503,
+"name": "케이론",
+"cls": "Priest",
+"q": 5,
+"factions": [
+104,
+102
+],
+"role": "서포터",
+"tier": "T2"
+},
+{
+"id": 3501,
+"name": "펜리르",
+"cls": "Assassin",
+"q": 5,
+"factions": [
+101,
+103
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 3502,
+"name": "랜슬롯",
+"cls": "Assassin",
+"q": 5,
+"factions": [
+104,
+101
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 3503,
+"name": "네메시스",
+"cls": "Assassin",
+"q": 5,
+"factions": [
+103,
+106
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 3504,
+"name": "페르세우스",
+"cls": "Assassin",
+"q": 5,
+"factions": [
+106,
+101
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 4501,
+"name": "미노타우로스",
+"cls": "Warrior",
+"q": 5,
+"factions": [
+102,
+105
+],
+"role": "브루저",
+"tier": "T2"
+},
+{
+"id": 4502,
+"name": "베오울프",
+"cls": "Warrior",
+"q": 5,
+"factions": [
+105,
+103
+],
+"role": "브루저",
+"tier": "T2"
+},
+{
+"id": 4503,
+"name": "군느",
+"cls": "Warrior",
+"q": 5,
+"factions": [
+104,
+106
+],
+"role": "탱커",
+"tier": "T2"
+},
+{
+"id": 4504,
+"name": "지크프리트",
+"cls": "Warrior",
+"q": 5,
+"factions": [
+101,
+102
+],
+"role": "브루저",
+"tier": "T2"
+},
+{
+"id": 5501,
+"name": "로렐린",
+"cls": "Archer",
+"q": 5,
+"factions": [
+104,
+101
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 5502,
+"name": "반 헬싱",
+"cls": "Archer",
+"q": 5,
+"factions": [
+103,
+106
+],
+"role": "서포터",
+"tier": "T2"
+},
+{
+"id": 5503,
+"name": "메두사",
+"cls": "Archer",
+"q": 5,
+"factions": [
+106,
+105
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 6501,
+"name": "케르베로스",
+"cls": "Mage",
+"q": 5,
+"factions": [
+106,
+101
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 6502,
+"name": "멜리나",
+"cls": "Mage",
+"q": 5,
+"factions": [
+101,
+104
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 6503,
+"name": "클레오파트라",
+"cls": "Mage",
+"q": 5,
+"factions": [
+105,
+103
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 6504,
+"name": "텔페리엔",
+"cls": "Mage",
+"q": 5,
+"factions": [
+101,
+106
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 6505,
+"name": "나나리",
+"cls": "Mage",
+"q": 5,
+"factions": [
+102,
+103
+],
+"role": "힐러",
+"tier": "T2"
+},
+{
+"id": 1401,
+"name": "퐁당",
+"cls": "Guardian",
+"q": 4,
+"factions": [
+105,
+106
+],
+"role": "탱커",
+"tier": "T2"
+},
+{
+"id": 1402,
+"name": "에우리티온",
+"cls": "Guardian",
+"q": 4,
+"factions": [
+102,
+104
+],
+"role": "탱커",
+"tier": "T2"
+},
+{
+"id": 1403,
+"name": "오베론니아",
+"cls": "Guardian",
+"q": 4,
+"factions": [
+101,
+102
+],
+"role": "탱커",
+"tier": "T2"
+},
+{
+"id": 2401,
+"name": "사이렌",
+"cls": "Priest",
+"q": 4,
+"factions": [
+103,
+101
+],
+"role": "힐러",
+"tier": "T2"
+},
+{
+"id": 2402,
+"name": "플로라",
+"cls": "Priest",
+"q": 4,
+"factions": [
+102,
+104
+],
+"role": "힐러",
+"tier": "T2"
+},
+{
+"id": 3401,
+"name": "블레이드 하트",
+"cls": "Assassin",
+"q": 4,
+"factions": [
+101,
+105
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 3402,
+"name": "펜리르",
+"cls": "Assassin",
+"q": 4,
+"factions": [
+101,
+103
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 4401,
+"name": "그림니르",
+"cls": "Warrior",
+"q": 4,
+"factions": [
+102,
+103
+],
+"role": "브루저",
+"tier": "T2"
+},
+{
+"id": 4402,
+"name": "머피",
+"cls": "Warrior",
+"q": 4,
+"factions": [
+106,
+103
+],
+"role": "브루저",
+"tier": "T2"
+},
+{
+"id": 4403,
+"name": "지크프리트",
+"cls": "Warrior",
+"q": 4,
+"factions": [
+101,
+102
+],
+"role": "브루저",
+"tier": "T2"
+},
+{
+"id": 5401,
+"name": "네소스",
+"cls": "Archer",
+"q": 4,
+"factions": [
+102,
+104
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 5402,
+"name": "폴리페모스",
+"cls": "Archer",
+"q": 4,
+"factions": [
+105,
+104
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 6401,
+"name": "퍽",
+"cls": "Mage",
+"q": 4,
+"factions": [
+101,
+106
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 6402,
+"name": "클리오드나",
+"cls": "Mage",
+"q": 4,
+"factions": [
+106,
+105
+],
+"role": "딜러",
+"tier": "T2"
+},
+{
+"id": 1301,
+"name": "드워프 전사",
+"cls": "Guardian",
+"q": 3,
+"factions": [
+102,
+104
+],
+"role": "탱커",
+"tier": "T3"
+},
+{
+"id": 1302,
+"name": "미라",
+"cls": "Guardian",
+"q": 3,
+"factions": [
+105,
+103
+],
+"role": "탱커",
+"tier": "T3"
+},
+{
+"id": 2301,
+"name": "베르",
+"cls": "Priest",
+"q": 3,
+"factions": [
+101,
+106
+],
+"role": "힐러",
+"tier": "T3"
+},
+{
+"id": 2302,
+"name": "고블린 드러머",
+"cls": "Priest",
+"q": 3,
+"factions": [
+102,
+104
+],
+"role": "힐러",
+"tier": "T3"
+},
+{
+"id": 3301,
+"name": "칼춤꾼",
+"cls": "Assassin",
+"q": 3,
+"factions": [
+106,
+105
+],
+"role": "딜러",
+"tier": "T3"
+},
+{
+"id": 3302,
+"name": "멧돼지 기사",
+"cls": "Assassin",
+"q": 3,
+"factions": [
+103,
+102
+],
+"role": "딜러",
+"tier": "T3"
+},
+{
+"id": 4301,
+"name": "지크프리트",
+"cls": "Warrior",
+"q": 3,
+"factions": [
+101,
+102
+],
+"role": "브루저",
+"tier": "T3"
+},
+{
+"id": 4302,
+"name": "고블린 배틀램",
+"cls": "Warrior",
+"q": 3,
+"factions": [
+105,
+102
+],
+"role": "브루저",
+"tier": "T3"
+},
+{
+"id": 5301,
+"name": "우드 엘프 궁수",
+"cls": "Archer",
+"q": 3,
+"factions": [
+103,
+106
+],
+"role": "딜러",
+"tier": "T3"
+},
+{
+"id": 5302,
+"name": "드워프 캐넌포",
+"cls": "Archer",
+"q": 3,
+"factions": [
+104,
+106
+],
+"role": "딜러",
+"tier": "T3"
+},
+{
+"id": 6301,
+"name": "드워프 사제",
+"cls": "Mage",
+"q": 3,
+"factions": [
+101,
+104
+],
+"role": "딜러",
+"tier": "T3"
+},
+{
+"id": 6302,
+"name": "파라오",
+"cls": "Mage",
+"q": 3,
+"factions": [
+105,
+103
+],
+"role": "딜러",
+"tier": "T3"
+},
+{
+"id": 1201,
+"name": "바위 슬라임",
+"cls": "Guardian",
+"q": 2,
+"factions": [
+102
+],
+"role": "탱커",
+"tier": "T3"
+},
+{
+"id": 2201,
+"name": "바람 슬라임",
+"cls": "Priest",
+"q": 2,
+"factions": [
+104
+],
+"role": "힐러",
+"tier": "T3"
+},
+{
+"id": 3201,
+"name": "그림자 슬라임",
+"cls": "Assassin",
+"q": 2,
+"factions": [
+105
+],
+"role": "딜러",
+"tier": "T3"
+},
+{
+"id": 4201,
+"name": "불꽃 슬라임",
+"cls": "Warrior",
+"q": 2,
+"factions": [
+106
+],
+"role": "브루저",
+"tier": "T3"
+},
+{
+"id": 5201,
+"name": "번개 슬라임",
+"cls": "Archer",
+"q": 2,
+"factions": [
+103
+],
+"role": "딜러",
+"tier": "T3"
+},
+{
+"id": 6201,
+"name": "얼음 슬라임",
+"cls": "Mage",
+"q": 2,
+"factions": [
+101
+],
+"role": "딜러",
+"tier": "T3"
+}
+]
+}
