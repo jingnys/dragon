@@ -1,0 +1,124 @@
+{
+ "images": [
+  {
+   "original": "Texture2D_Emoji_qigefei_guide.png",
+   "file": "home.webp",
+   "label": "HOME",
+   "group": "하단바",
+   "size": "128x92",
+   "bytes": 4326
+  },
+  {
+   "original": "Texture2D_Emoji_Salome_dress_7016061_aoyi.png",
+   "file": "nav_salome.webp",
+   "label": "임시(살로메)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 7402
+  },
+  {
+   "original": "Texture2D_Emoji_Salome_dress_7016061_cry.png",
+   "file": "nav_salome_cry.webp",
+   "label": "임시(살로메·클릭)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 7492
+  },
+  {
+   "original": "Texture2D_Emoji_Talos_dress_7066042_aoyi.png",
+   "file": "nav_talos.webp",
+   "label": "임시(탈로스)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 6528
+  },
+  {
+   "original": "Texture2D_Emoji_Talos_dress_7066042_cry.png",
+   "file": "nav_talos_cry.webp",
+   "label": "임시(탈로스·클릭)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 6266
+  },
+  {
+   "original": "Texture2D_Emoji_Xuanwu_dress_7016071_aoyi.png",
+   "file": "nav_xuanwu.webp",
+   "label": "임시(현무)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 6990
+  },
+  {
+   "original": "Texture2D_Emoji_Xuanwu_dress_7016071_cry.png",
+   "file": "nav_xuanwu_cry.webp",
+   "label": "임시(현무·클릭)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 7176
+  },
+  {
+   "original": "Texture2D_Emoji_apollo_aoyi.png",
+   "file": "cell_apollo.webp",
+   "label": "아폴론",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 8844
+  },
+  {
+   "original": "Texture2D_Emoji_ares_aoyi.png",
+   "file": "cell_ares.webp",
+   "label": "아레스",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 10394
+  },
+  {
+   "original": "Texture2D_Emoji_thor_aoyi.png",
+   "file": "cell_thor.webp",
+   "label": "토르",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 14056
+  },
+  {
+   "original": "Texture2D_Emoji_Hela_aoyi.png",
+   "file": "cell_hela.webp",
+   "label": "헬라",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 13060
+  },
+  {
+   "original": "Texture2D_Emoji_Hermes_aoyi.png",
+   "file": "cell_hermes.webp",
+   "label": "헤르메스",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 10764
+  },
+  {
+   "original": "Texture2D_Emoji_loki_aoyi.png",
+   "file": "cell_loki.webp",
+   "label": "로키",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 12020
+  },
+  {
+   "original": "Texture2D_Emoji_zhuque_aoyi.png",
+   "file": "cell_zhuque.webp",
+   "label": "주작",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 13004
+  },
+  {
+   "original": "Texture2D_Emoji_anubisi_aoyi.png",
+   "file": "cell_anubis.webp",
+   "label": "아누비스",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 11836
+  }
+ ]
+}
