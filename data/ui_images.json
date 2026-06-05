@@ -343,6 +343,14 @@
    "group": "환령 전신",
    "size": "328x446",
    "bytes": 0
+  },
+  {
+   "original": "Sprite_common_HeroQualityBg_* / HeroQuality_* / ImgQualityTag_Icon2",
+   "file": "qbg_*/qtxt_*/ex_tag.webp",
+   "label": "등급+직업 합성 배지",
+   "group": "등급 배지",
+   "size": "-",
+   "bytes": 0
   }
  ]
 }
