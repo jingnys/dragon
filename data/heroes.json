@@ -13,7 +13,14 @@
 "tier": "T0",
 "title": "지혜의 여신",
 "origin": "그리스 신화",
-"en": "Athena"
+"en": "Athena",
+"jobDescribe": "반격 나선, 생명 연결, 광역 도발",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "175cm",
+"weight": "50kg",
+"age": ""
 },
 {
 "id": 1702,
@@ -28,7 +35,14 @@
 "tier": "T1",
 "title": "불을 훔친 신",
 "origin": "그리스 신화",
-"en": "Prometheus"
+"en": "Prometheus",
+"jobDescribe": "단일 훔치기, 치명타 카운터",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "171cm",
+"weight": "56kg",
+"age": ""
 },
 {
 "id": 2701,
@@ -43,7 +57,14 @@
 "tier": "T0",
 "title": "사랑의 여신",
 "origin": "로마 신화",
-"en": "Venus"
+"en": "Venus",
+"jobDescribe": "HP 균등화, 광역 피해 감소",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "171cm",
+"weight": "53kg",
+"age": ""
 },
 {
 "id": 2702,
@@ -58,7 +79,14 @@
 "tier": "T1",
 "title": "죽음의 여신",
 "origin": "북유럽 신화",
-"en": "Hela"
+"en": "Hela",
+"jobDescribe": "죽음의 갈고리, 공허 추방",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "178cm",
+"weight": "51kg",
+"age": ""
 },
 {
 "id": 3701,
@@ -73,7 +101,14 @@
 "tier": "T0",
 "title": "저승의 지배자",
 "origin": "그리스 신화",
-"en": "Hades"
+"en": "Hades",
+"jobDescribe": "높은 피해 증가, 연속 추격, 처단 특화",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "181 cm",
+"weight": "62 kg",
+"age": ""
 },
 {
 "id": 3702,
@@ -88,7 +123,14 @@
 "tier": "T1",
 "title": "빠른 발의 신",
 "origin": "그리스 신화",
-"en": "Hermes"
+"en": "Hermes",
+"jobDescribe": "질주하는 보드, 덮쳐오는 작열",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "162cm",
+"weight": "40kg",
+"age": ""
 },
 {
 "id": 4701,
@@ -103,7 +145,14 @@
 "tier": "T0",
 "title": "전쟁의 신",
 "origin": "그리스 신화",
-"en": "Ares"
+"en": "Ares",
+"jobDescribe": "분노 충전, 강력한 일격",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "179cm",
+"weight": "58kg",
+"age": ""
 },
 {
 "id": 4702,
@@ -118,7 +167,14 @@
 "tier": "T0",
 "title": "천둥의 신",
 "origin": "북유럽 신화",
-"en": "Thor"
+"en": "Thor",
+"jobDescribe": "천둥의 힘, 신성 강림",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "177cm",
+"weight": "60kg",
+"age": ""
 },
 {
 "id": 5701,
@@ -133,7 +189,14 @@
 "tier": "T1",
 "title": "태양신",
 "origin": "그리스 신화",
-"en": "Apollo"
+"en": "Apollo",
+"jobDescribe": "표식 중첩 피해, 광역 발사",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "176cm",
+"weight": "54kg",
+"age": ""
 },
 {
 "id": 5702,
@@ -148,7 +211,14 @@
 "tier": "T0",
 "title": "달의 여신",
 "origin": "그리스 신화",
-"en": "Artemis"
+"en": "Artemis",
+"jobDescribe": "월혼 중첩, 아군 전체 강화",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "176cm",
+"weight": "53kg",
+"age": ""
 },
 {
 "id": 6701,
@@ -163,7 +233,14 @@
 "tier": "T0",
 "title": "바다의 신",
 "origin": "그리스 신화",
-"en": "Poseidon"
+"en": "Poseidon",
+"jobDescribe": "초광역 범위, 전체 한기 부여",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "182cm",
+"weight": "68kg",
+"age": ""
 },
 {
 "id": 6702,
@@ -178,7 +255,14 @@
 "tier": "T1",
 "title": "계략의 신",
 "origin": "북유럽 신화",
-"en": "Loki"
+"en": "Loki",
+"jobDescribe": "스킬 봉인, 수월한 궁극기",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "175cm",
+"weight": "61kg",
+"age": ""
 },
 {
 "id": 1601,
@@ -193,7 +277,14 @@
 "tier": "T1",
 "title": "저승 심판자",
 "origin": "이집트 신화",
-"en": "Anubis"
+"en": "Anubis",
+"jobDescribe": "저울 부활, 최상급 탱킹",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "221cm",
+"weight": "109kg",
+"age": ""
 },
 {
 "id": 1602,
@@ -208,7 +299,14 @@
 "tier": "T1",
 "title": "타락한 발키리",
 "origin": "북유럽 신화",
-"en": "Helveil"
+"en": "Helveil",
+"jobDescribe": "치명타 저항 증가, 폭딜 카운터",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "175cm",
+"weight": "56kg",
+"age": ""
 },
 {
 "id": 1603,
@@ -223,7 +321,14 @@
 "tier": "T1",
 "title": "철혈 지휘관",
 "origin": "로마 문명",
-"en": "Pompey"
+"en": "Pompey",
+"jobDescribe": "단일 피해, 높은 회복",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "177cm",
+"weight": "57kg",
+"age": ""
 },
 {
 "id": 1604,
@@ -238,7 +343,14 @@
 "tier": "T1",
 "title": "연화의 용희",
 "origin": "기타 전설",
-"en": "Dvalin"
+"en": "Dvalin",
+"jobDescribe": "막기 시 분노 회복, 높은 회복량",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "179cm",
+"weight": "62 kg",
+"age": ""
 },
 {
 "id": 1605,
@@ -253,7 +365,14 @@
 "tier": "T1",
 "title": "승전의 황녀",
 "origin": "기타 전설",
-"en": "Caesar"
+"en": "Caesar",
+"jobDescribe": "높은 물리/마법 방어, 탄환 방어",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "173cm",
+"weight": "59kg",
+"age": ""
 },
 {
 "id": 1606,
@@ -268,7 +387,14 @@
 "tier": "T1",
 "title": "일곱 베일의 무희",
 "origin": "기타 전설",
-"en": "Salome"
+"en": "Salome",
+"jobDescribe": "높은 회피율, 광역 매혹",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "165cm",
+"weight": "42kg",
+"age": ""
 },
 {
 "id": 1607,
@@ -283,7 +409,14 @@
 "tier": "T1",
 "title": "사성수",
 "origin": "동방 신화",
-"en": "Xuanwu"
+"en": "Xuanwu",
+"jobDescribe": "음양을 다스리는 우산 · 모두를 지키는 철갑",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "169cm",
+"weight": "49kg",
+"age": ""
 },
 {
 "id": 2601,
@@ -298,7 +431,14 @@
 "tier": "T1",
 "title": "램프의 기원신",
 "origin": "아라비아 전설",
-"en": "Scheherazade"
+"en": "Scheherazade",
+"jobDescribe": "다중 시전, 만능 힐링",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "170cm",
+"weight": "0kg",
+"age": ""
 },
 {
 "id": 2602,
@@ -313,7 +453,14 @@
 "tier": "T1",
 "title": "요정의 대모",
 "origin": "유럽 민간 전설",
-"en": "Titania"
+"en": "Titania",
+"jobDescribe": "광역 치유, 디버프 해제",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "173cm",
+"weight": "53kg",
+"age": ""
 },
 {
 "id": 2603,
@@ -328,7 +475,14 @@
 "tier": "T1",
 "title": "성검 주교",
 "origin": "현대 판타지 문학",
-"en": "Ophelia"
+"en": "Ophelia",
+"jobDescribe": "광역 버프, 디버프 면역",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "169cm",
+"weight": "51kg",
+"age": ""
 },
 {
 "id": 2604,
@@ -343,7 +497,14 @@
 "tier": "T1",
 "title": "호수의 여인",
 "origin": "유럽 민간 전설",
-"en": "Vivienne"
+"en": "Vivienne",
+"jobDescribe": "아군 동행, 연속 버프",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "163cm",
+"weight": "42kg",
+"age": ""
 },
 {
 "id": 2605,
@@ -358,7 +519,14 @@
 "tier": "T1",
 "title": "반지 수호 성녀",
 "origin": "기타 전설",
-"en": "Spimo"
+"en": "Spimo",
+"jobDescribe": "소환 복제, 치유 버프",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "166cm",
+"weight": "45kg",
+"age": ""
 },
 {
 "id": 2606,
@@ -373,7 +541,14 @@
 "tier": "T1",
 "title": "별빛의 마녀",
 "origin": "유럽 민간 전설",
-"en": "Morgana"
+"en": "Morgana",
+"jobDescribe": "원소 촉진 효과, 치유 및 피해량 강화",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "172cm",
+"weight": "49kg",
+"age": ""
 },
 {
 "id": 2608,
@@ -388,7 +563,14 @@
 "tier": "T1",
 "title": "待翻译",
 "origin": "기타 전설",
-"en": ""
+"en": "",
+"jobDescribe": "待翻译",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "166cm",
+"weight": "45kg",
+"age": ""
 },
 {
 "id": 3601,
@@ -403,7 +585,14 @@
 "tier": "T1",
 "title": "태극권 마스터",
 "origin": "동방 문명",
-"en": "Pan Junbao"
+"en": "Pan Junbao",
+"jobDescribe": "기운으로 형상화, 여유로운 전투 운용",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "201cm",
+"weight": "122kg",
+"age": ""
 },
 {
 "id": 3602,
@@ -418,7 +607,14 @@
 "tier": "T1",
 "title": "빛매의 용사",
 "origin": "북유럽 신화",
-"en": "Sigurd"
+"en": "Sigurd",
+"jobDescribe": "연속 치명타, 폭발적 피해",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "160cm",
+"weight": "50kg",
+"age": ""
 },
 {
 "id": 3603,
@@ -433,7 +629,14 @@
 "tier": "T1",
 "title": "사성수",
 "origin": "동방 신화",
-"en": "White Tiger"
+"en": "White Tiger",
+"jobDescribe": "기운으로 형상화, 여유로운 전투 운용",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "161cm",
+"weight": "49kg",
+"age": ""
 },
 {
 "id": 3604,
@@ -448,7 +651,14 @@
 "tier": "T1",
 "title": "세계를 감싼 뱀",
 "origin": "북유럽 신화",
-"en": "Jormungandr"
+"en": "Jormungandr",
+"jobDescribe": "HP 감소 시 피해 증가, 무자비한 추격",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "168cm",
+"weight": "48kg",
+"age": ""
 },
 {
 "id": 3605,
@@ -463,7 +673,14 @@
 "tier": "T1",
 "title": "죽음의 기사",
 "origin": "유럽 민간 전설",
-"en": "Mordred"
+"en": "Mordred",
+"jobDescribe": "광역 해제, 희생 피해 증가",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "173cm",
+"weight": "50kg",
+"age": ""
 },
 {
 "id": 3606,
@@ -478,7 +695,14 @@
 "tier": "T1",
 "title": "저승의 공주",
 "origin": "그리스 신화",
-"en": "Zagreus"
+"en": "Zagreus",
+"jobDescribe": "광역 한기, 단일 제어",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "165cm",
+"weight": "52kg",
+"age": ""
 },
 {
 "id": 3607,
@@ -493,7 +717,14 @@
 "tier": "T1",
 "title": "무쌍의 검호",
 "origin": "기타 전설",
-"en": "Rin"
+"en": "Rin",
+"jobDescribe": "진형 파괴, 보조 피해 증가",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "168cm",
+"weight": "54kg",
+"age": ""
 },
 {
 "id": 3608,
@@ -508,7 +739,14 @@
 "tier": "T1",
 "title": "밤의 여왕",
 "origin": "메소포타미아 신화",
-"en": "Lilith"
+"en": "Lilith",
+"jobDescribe": "고통 전이, 공격 훔치기",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "166cm",
+"weight": "42kg",
+"age": ""
 },
 {
 "id": 4601,
@@ -523,7 +761,14 @@
 "tier": "T1",
 "title": "발키리",
 "origin": "북유럽 신화",
-"en": "Brynhild"
+"en": "Brynhild",
+"jobDescribe": "은총 시전, 다중 강화",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "172cm",
+"weight": "47kg",
+"age": ""
 },
 {
 "id": 4602,
@@ -538,7 +783,14 @@
 "tier": "T1",
 "title": "여섯 팔 뱀마녀",
 "origin": "인도 신화",
-"en": "Marylis"
+"en": "Marylis",
+"jobDescribe": "난무하는 검격, 지속 피해",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "210cm",
+"weight": "78kg",
+"age": ""
 },
 {
 "id": 4603,
@@ -553,7 +805,14 @@
 "tier": "T1",
 "title": "영원의 왕",
 "origin": "유럽 민간 전설",
-"en": "Arthur"
+"en": "Arthur",
+"jobDescribe": "형태 전환, 공격 방어 균형",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "180cm",
+"weight": "64kg",
+"age": ""
 },
 {
 "id": 4604,
@@ -568,7 +827,14 @@
 "tier": "T1",
 "title": "괴력 신우",
 "origin": "그리스 신화",
-"en": "Asteros"
+"en": "Asteros",
+"jobDescribe": "돌진 강타, 회전 참격",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "163cm",
+"weight": "65kg",
+"age": ""
 },
 {
 "id": 4605,
@@ -583,7 +849,14 @@
 "tier": "T1",
 "title": "드래곤 슬레이어",
 "origin": "북유럽 신화",
-"en": "Siegfried"
+"en": "Siegfried",
+"jobDescribe": "공수 겸비, 적진 돌파",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "165cm",
+"weight": "48kg",
+"age": ""
 },
 {
 "id": 4606,
@@ -598,7 +871,14 @@
 "tier": "T1",
 "title": "피를 삼키는 마검",
 "origin": "북유럽 신화",
-"en": "Tyrfing"
+"en": "Tyrfing",
+"jobDescribe": "파죽지세, 광폭 변신",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "178cm",
+"weight": "57kg",
+"age": ""
 },
 {
 "id": 4607,
@@ -613,7 +893,14 @@
 "tier": "T1",
 "title": "사성수",
 "origin": "동방 신화",
-"en": "Azure Dragon"
+"en": "Azure Dragon",
+"jobDescribe": "아군 전체 보호막, 적진 돌파",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "176cm",
+"weight": "62 kg",
+"age": ""
 },
 {
 "id": 4608,
@@ -628,7 +915,14 @@
 "tier": "T1",
 "title": "사악한 욕망의 마왕",
 "origin": "기타 전설",
-"en": "Asmodeus"
+"en": "Asmodeus",
+"jobDescribe": "악마 대군, 소환 버프",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "169cm",
+"weight": "50kg",
+"age": ""
 },
 {
 "id": 4609,
@@ -643,7 +937,14 @@
 "tier": "T1",
 "title": "단죄의 날개",
 "origin": "북유럽 신화",
-"en": "Andvari"
+"en": "Andvari",
+"jobDescribe": "보호막 중첩 및 공격 증가, 광역 띄우기",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "170cm",
+"weight": "46kg",
+"age": ""
 },
 {
 "id": 4610,
@@ -658,7 +959,14 @@
 "tier": "T1",
 "title": "난세의 마왕",
 "origin": "일본 전설",
-"en": "Hitomi"
+"en": "Hitomi",
+"jobDescribe": "능력치 공유, 전장 지배",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "173cm",
+"weight": "48kg",
+"age": ""
 },
 {
 "id": 5601,
@@ -673,7 +981,14 @@
 "tier": "T1",
 "title": "불의 악마",
 "origin": "아랍 신화",
-"en": "Ifrit"
+"en": "Ifrit",
+"jobDescribe": "광역 폭격, 지속 광란",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "159cm",
+"weight": "42kg",
+"age": ""
 },
 {
 "id": 5602,
@@ -688,7 +1003,14 @@
 "tier": "T1",
 "title": "쌍둥이 까마귀",
 "origin": "북유럽 신화",
-"en": "Huginn & Muninn"
+"en": "Huginn & Muninn",
+"jobDescribe": "상처 표식, 광역 탄환 발사",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "166cm",
+"weight": "41kg",
+"age": ""
 },
 {
 "id": 5603,
@@ -703,7 +1025,14 @@
 "tier": "T1",
 "title": "서리별 사냥꾼",
 "origin": "그리스 신화",
-"en": "Orion"
+"en": "Orion",
+"jobDescribe": "원거리 조준, 정밀 타격",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "171cm",
+"weight": "52kg",
+"age": ""
 },
 {
 "id": 5604,
@@ -718,7 +1047,14 @@
 "tier": "T1",
 "title": "뱀의 지배자",
 "origin": "그리스 신화",
-"en": "Medusa"
+"en": "Medusa",
+"jobDescribe": "맹독 중첩, 적 석화",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "190cm",
+"weight": "70kg",
+"age": ""
 },
 {
 "id": 5605,
@@ -733,7 +1069,14 @@
 "tier": "T1",
 "title": "부패한 꽃봉오리",
 "origin": "기타 전설",
-"en": "Ningrose"
+"en": "Ningrose",
+"jobDescribe": "보호막 무시, 가시 속박",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "166cm",
+"weight": "50kg",
+"age": ""
 },
 {
 "id": 5606,
@@ -748,7 +1091,14 @@
 "tier": "T1",
 "title": "지혜의 거인",
 "origin": "북유럽 신화",
-"en": "Mimir"
+"en": "Mimir",
+"jobDescribe": "고빈도 공격, 보호막 비례 피해 증가",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "172cm",
+"weight": "53kg",
+"age": ""
 },
 {
 "id": 5607,
@@ -763,7 +1113,14 @@
 "tier": "T1",
 "title": "핏빛의 검혼",
 "origin": "기타 전설",
-"en": "Jing"
+"en": "Jing",
+"jobDescribe": "높은 치명 피해, 범위 강화 제한",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "173cm",
+"weight": "51kg",
+"age": ""
 },
 {
 "id": 6601,
@@ -778,7 +1135,14 @@
 "tier": "T1",
 "title": "대천사",
 "origin": "히브리 신화",
-"en": "Gabriele"
+"en": "Gabriele",
+"jobDescribe": "지속 생존, 연속 버프",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "177cm",
+"weight": "55kg",
+"age": ""
 },
 {
 "id": 6602,
@@ -793,7 +1157,14 @@
 "tier": "T1",
 "title": "반신 리치",
 "origin": "북유럽 신화",
-"en": "Gullveig"
+"en": "Gullveig",
+"jobDescribe": "대규모 소환, 전장 장악",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "171cm",
+"weight": "50kg",
+"age": ""
 },
 {
 "id": 6603,
@@ -808,7 +1179,14 @@
 "tier": "T1",
 "title": "악마 지배자",
 "origin": "유럽 민간 전설",
-"en": "Faust"
+"en": "Faust",
+"jobDescribe": "동료 소환, 협동 전투",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "146cm",
+"weight": "31kg",
+"age": ""
 },
 {
 "id": 6604,
@@ -823,7 +1201,14 @@
 "tier": "T1",
 "title": "청동 여신",
 "origin": "그리스 신화",
-"en": "Talos"
+"en": "Talos",
+"jobDescribe": "기계 군단, 보조 전투",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "160cm",
+"weight": "52kg",
+"age": ""
 },
 {
 "id": 6605,
@@ -838,7 +1223,14 @@
 "tier": "T1",
 "title": "검은 고양이 여신",
 "origin": "이집트 문명",
-"en": "Cleopatra"
+"en": "Cleopatra",
+"jobDescribe": "대규모 소환, 전장 장악",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "168cm",
+"weight": "41kg",
+"age": ""
 },
 {
 "id": 6606,
@@ -853,7 +1245,14 @@
 "tier": "T1",
 "title": "철권의 집정관",
 "origin": "기타 전설",
-"en": "Crassus"
+"en": "Crassus",
+"jobDescribe": "떨어진 운석, 버프 해제",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "174cm",
+"weight": "56kg",
+"age": ""
 },
 {
 "id": 6607,
@@ -868,7 +1267,14 @@
 "tier": "T1",
 "title": "사성수",
 "origin": "동방 신화",
-"en": "Vermilion Bird"
+"en": "Vermilion Bird",
+"jobDescribe": "범위 점화, 열반 중생",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "174cm",
+"weight": "58kg",
+"age": ""
 },
 {
 "id": 6609,
@@ -883,7 +1289,14 @@
 "tier": "T1",
 "title": "북방의 여왕",
 "origin": "기타 전설",
-"en": ""
+"en": "",
+"jobDescribe": "빙연의 마력, 끊이지 않는 한파",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "171cm",
+"weight": "55kg",
+"age": ""
 },
 {
 "id": 94604,
@@ -898,7 +1311,14 @@
 "tier": "T1",
 "title": "",
 "origin": "북유럽 신화",
-"en": ""
+"en": "",
+"jobDescribe": "사기 상승 시 슈퍼 아머 획득, 지속 공격으로 피해",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "160cm",
+"weight": "50kg",
+"age": ""
 },
 {
 "id": 1501,
@@ -913,7 +1333,14 @@
 "tier": "T2",
 "title": "고목의 수호자",
 "origin": "북유럽 신화",
-"en": "Drasill"
+"en": "Drasill",
+"jobDescribe": "아군 전체 보호막, 가시 반사 피해",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "426cm",
+"weight": "873kg",
+"age": ""
 },
 {
 "id": 1502,
@@ -928,7 +1355,14 @@
 "tier": "T2",
 "title": "슬라임 킹",
 "origin": "현대 판타지 문학",
-"en": "Gudong"
+"en": "Gudong",
+"jobDescribe": "단일 제어, 지속 소환",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "45cm",
+"weight": "53kg",
+"age": ""
 },
 {
 "id": 1503,
@@ -943,7 +1377,14 @@
 "tier": "T2",
 "title": "고대의 골렘",
 "origin": "히브리 전설",
-"en": "Goren"
+"en": "Goren",
+"jobDescribe": "높은 물리 방어, 광역 제어",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "617cm",
+"weight": "1746kg",
+"age": ""
 },
 {
 "id": 1504,
@@ -958,7 +1399,14 @@
 "tier": "T2",
 "title": "야수의 왕",
 "origin": "게르만 문명",
-"en": "Herman"
+"en": "Herman",
+"jobDescribe": "자기 보호막 부여, 단일 제어",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "178cm",
+"weight": "60kg",
+"age": ""
 },
 {
 "id": 1505,
@@ -973,7 +1421,14 @@
 "tier": "T2",
 "title": "한여름 밤의 꿈",
 "origin": "유럽 민간 전설",
-"en": "Oberonnie"
+"en": "Oberonnie",
+"jobDescribe": "강력한 보호막, 높은 회피율",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "170cm",
+"weight": "46kg",
+"age": ""
 },
 {
 "id": 2501,
@@ -988,7 +1443,14 @@
 "tier": "T2",
 "title": "비전 마법의 지배자",
 "origin": "북유럽 신화",
-"en": "Atanith"
+"en": "Atanith",
+"jobDescribe": "주술 영역, 전체 침묵",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "176cm",
+"weight": "51kg",
+"age": ""
 },
 {
 "id": 2502,
@@ -1003,7 +1465,14 @@
 "tier": "T2",
 "title": "포식의 폭군",
 "origin": "현대 판타지 문학",
-"en": "Caligula"
+"en": "Caligula",
+"jobDescribe": "비전 마법, 치유 버프",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "256cm",
+"weight": "172kg",
+"age": ""
 },
 {
 "id": 2503,
@@ -1018,7 +1487,14 @@
 "tier": "T2",
 "title": "영웅의 스승",
 "origin": "그리스 신화",
-"en": "Chiron"
+"en": "Chiron",
+"jobDescribe": "사수 강화, 아군 전체 행운",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "227cm",
+"weight": "304kg",
+"age": ""
 },
 {
 "id": 3501,
@@ -1033,7 +1509,14 @@
 "tier": "T2",
 "title": "밤의 사냥꾼",
 "origin": "북유럽 신화",
-"en": "Fenrir"
+"en": "Fenrir",
+"jobDescribe": "강력한 폭딜, 연속 추격",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "164cm",
+"weight": "42kg",
+"age": ""
 },
 {
 "id": 3502,
@@ -1048,7 +1531,14 @@
 "tier": "T2",
 "title": "호수의 기사",
 "origin": "유럽 민간 전설",
-"en": "Lancelot"
+"en": "Lancelot",
+"jobDescribe": "적진 돌파, 적군 분열",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "186cm",
+"weight": "77kg",
+"age": ""
 },
 {
 "id": 3503,
@@ -1063,7 +1553,14 @@
 "tier": "T2",
 "title": "복수의 여신",
 "origin": "그리스 신화",
-"en": "Nemesis"
+"en": "Nemesis",
+"jobDescribe": "연속 치명타, 폭발적 피해",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "187cm",
+"weight": "63kg",
+"age": ""
 },
 {
 "id": 3504,
@@ -1078,7 +1575,14 @@
 "tier": "T2",
 "title": "향후 결정",
 "origin": "그리스 신화",
-"en": ""
+"en": "",
+"jobDescribe": "연속 치명타, 폭발적 피해",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "187cm",
+"weight": "63kg",
+"age": ""
 },
 {
 "id": 4501,
@@ -1093,7 +1597,14 @@
 "tier": "T2",
 "title": "미궁의 마왕",
 "origin": "그리스 신화",
-"en": "Asteros"
+"en": "Asteros",
+"jobDescribe": "돌진 강타, 회전 참격",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "278cm",
+"weight": "340kg",
+"age": ""
 },
 {
 "id": 4502,
@@ -1108,7 +1619,14 @@
 "tier": "T2",
 "title": "광란의 사냥꾼",
 "origin": "북유럽 신화",
-"en": "Beowulf"
+"en": "Beowulf",
+"jobDescribe": "용감무쌍, 죽음을 두려워하지 않음",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "195cm",
+"weight": "93kg",
+"age": ""
 },
 {
 "id": 4503,
@@ -1123,7 +1641,14 @@
 "tier": "T2",
 "title": "에인헤랴르",
 "origin": "북유럽 신화",
-"en": "Guna"
+"en": "Guna",
+"jobDescribe": "단일 제어, 보호막 파괴",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "175cm",
+"weight": "55kg",
+"age": ""
 },
 {
 "id": 4504,
@@ -1138,7 +1663,14 @@
 "tier": "T2",
 "title": "영웅왕",
 "origin": "북유럽 신화",
-"en": "Siegfried"
+"en": "Siegfried",
+"jobDescribe": "공수 겸비, 적진 돌파",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "165cm",
+"weight": "48kg",
+"age": ""
 },
 {
 "id": 5501,
@@ -1153,7 +1685,14 @@
 "tier": "T2",
 "title": "빛의 원소",
 "origin": "북유럽 신화",
-"en": "Lorilin"
+"en": "Lorilin",
+"jobDescribe": "연속 피해, 감전 부여",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "154cm",
+"weight": "0kg",
+"age": ""
 },
 {
 "id": 5502,
@@ -1168,7 +1707,14 @@
 "tier": "T2",
 "title": "괴물 사냥꾼",
 "origin": "유럽 민간 전설",
-"en": "Van Helsing"
+"en": "Van Helsing",
+"jobDescribe": "쇠뇌 강화, 추적 공격",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "185cm",
+"weight": "74kg",
+"age": ""
 },
 {
 "id": 5503,
@@ -1183,7 +1729,14 @@
 "tier": "T2",
 "title": "뱀머리 마녀",
 "origin": "그리스 신화",
-"en": "Medusa"
+"en": "Medusa",
+"jobDescribe": "맹독 중첩, 적 석화",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "190cm",
+"weight": "70kg",
+"age": ""
 },
 {
 "id": 6501,
@@ -1198,7 +1751,14 @@
 "tier": "T2",
 "title": "지옥의 삼두견",
 "origin": "그리스 신화",
-"en": "Cerberus"
+"en": "Cerberus",
+"jobDescribe": "지옥 불꽃, 폭발적 딜링",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "117cm",
+"weight": "96kg",
+"age": ""
 },
 {
 "id": 6502,
@@ -1213,7 +1773,14 @@
 "tier": "T2",
 "title": "화염 마녀",
 "origin": "유럽 민간 전설",
-"en": "Melina"
+"en": "Melina",
+"jobDescribe": "화염 드래곤 소환, 전장 제압",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "166cm",
+"weight": "46kg",
+"age": ""
 },
 {
 "id": 6503,
@@ -1228,7 +1795,14 @@
 "tier": "T2",
 "title": "이집트 여왕",
 "origin": "이집트 문명",
-"en": "Cleopatra"
+"en": "Cleopatra",
+"jobDescribe": "대규모 소환, 전장 장악",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "168cm",
+"weight": "41kg",
+"age": ""
 },
 {
 "id": 6504,
@@ -1243,7 +1817,14 @@
 "tier": "T2",
 "title": "어둠의 원소",
 "origin": "북유럽 신화",
-"en": "Telperion"
+"en": "Telperion",
+"jobDescribe": "공허 에너지, 적 와해",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "154cm",
+"weight": "0kg",
+"age": ""
 },
 {
 "id": 6505,
@@ -1258,7 +1839,14 @@
 "tier": "T2",
 "title": "사계의 사슴",
 "origin": "북유럽 신화",
-"en": "Nanalie"
+"en": "Nanalie",
+"jobDescribe": "천상의 연꽃, 야성의 회복",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "165cm",
+"weight": "72kg",
+"age": ""
 },
 {
 "id": 1401,
@@ -1273,7 +1861,14 @@
 "tier": "T2",
 "title": "슬라임 킹",
 "origin": "현대 판타지 문학",
-"en": "Gudong"
+"en": "Gudong",
+"jobDescribe": "단일 제어, 지속 소환",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "45cm",
+"weight": "53kg",
+"age": ""
 },
 {
 "id": 1402,
@@ -1288,7 +1883,14 @@
 "tier": "T2",
 "title": "황야의 약탈자",
 "origin": "그리스 신화",
-"en": "Eurytion"
+"en": "Eurytion",
+"jobDescribe": "용맹 돌진, 적진 돌파",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "223cm",
+"weight": "305kg",
+"age": ""
 },
 {
 "id": 1403,
@@ -1303,7 +1905,14 @@
 "tier": "T2",
 "title": "숲의 영주",
 "origin": "유럽 민간 전설",
-"en": "Oberonnie"
+"en": "Oberonnie",
+"jobDescribe": "강력한 보호막, 높은 회피율",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "170cm",
+"weight": "46kg",
+"age": ""
 },
 {
 "id": 2401,
@@ -1318,7 +1927,14 @@
 "tier": "T2",
 "title": "바다의 가희",
 "origin": "그리스 신화",
-"en": "Siren"
+"en": "Siren",
+"jobDescribe": "현악 연주, 아군 치유",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "162cm",
+"weight": "53kg",
+"age": ""
 },
 {
 "id": 2402,
@@ -1333,7 +1949,14 @@
 "tier": "T2",
 "title": "봄꽃의 요정",
 "origin": "로마 신화",
-"en": "Flora"
+"en": "Flora",
+"jobDescribe": "단일 치유, 아군 보호",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "94cm",
+"weight": "23kg",
+"age": ""
 },
 {
 "id": 3401,
@@ -1348,7 +1971,14 @@
 "tier": "T2",
 "title": "그림자 암살자",
 "origin": "일본 전설",
-"en": "Bladeheart"
+"en": "Bladeheart",
+"jobDescribe": "단일 피해, 후방 제압",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "164cm",
+"weight": "44kg",
+"age": ""
 },
 {
 "id": 3402,
@@ -1363,7 +1993,14 @@
 "tier": "T2",
 "title": "달밤 맹수",
 "origin": "현대 판타지 문학",
-"en": "Fenrir"
+"en": "Fenrir",
+"jobDescribe": "강력한 폭딜, 연속 추격",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "199cm",
+"weight": "108kg",
+"age": ""
 },
 {
 "id": 4401,
@@ -1378,7 +2015,14 @@
 "tier": "T2",
 "title": "죽음을 찾는 자",
 "origin": "북유럽 신화",
-"en": "Grimnir"
+"en": "Grimnir",
+"jobDescribe": "용감무쌍, 죽음을 두려워하지 않음",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "159cm",
+"weight": "91kg",
+"age": ""
 },
 {
 "id": 4402,
@@ -1393,7 +2037,14 @@
 "tier": "T2",
 "title": "계약의 악마",
 "origin": "히브리 신화",
-"en": "Murphy"
+"en": "Murphy",
+"jobDescribe": "장난기 발동, 적 방해",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "92cm",
+"weight": "37kg",
+"age": ""
 },
 {
 "id": 4403,
@@ -1408,7 +2059,14 @@
 "tier": "T2",
 "title": "전장의 공주",
 "origin": "북유럽 신화",
-"en": "Siegfried"
+"en": "Siegfried",
+"jobDescribe": "공수 겸비, 적진 돌파",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "165cm",
+"weight": "48kg",
+"age": ""
 },
 {
 "id": 5401,
@@ -1423,7 +2081,14 @@
 "tier": "T2",
 "title": "황야의 사냥꾼",
 "origin": "그리스 신화",
-"en": "Nessus"
+"en": "Nessus",
+"jobDescribe": "HP 소모, 격혈의 창",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "221cm",
+"weight": "301kg",
+"age": ""
 },
 {
 "id": 5402,
@@ -1438,7 +2103,14 @@
 "tier": "T2",
 "title": "외눈 거인",
 "origin": "그리스 신화",
-"en": "Polyphemus"
+"en": "Polyphemus",
+"jobDescribe": "거암 투척, 적군 분쇄",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "393cm",
+"weight": "563kg",
+"age": ""
 },
 {
 "id": 6401,
@@ -1453,7 +2125,14 @@
 "tier": "T2",
 "title": "말썽꾸러기 패밀리어",
 "origin": "현대 판타지 문학",
-"en": "Buck"
+"en": "Buck",
+"jobDescribe": "화염 마법, 적에게 점화 부여",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "89cm",
+"weight": "36kg",
+"age": ""
 },
 {
 "id": 6402,
@@ -1468,7 +2147,14 @@
 "tier": "T2",
 "title": "떠도는 유령",
 "origin": "유럽 민간 전설",
-"en": "Kleina"
+"en": "Kleina",
+"jobDescribe": "원혼 조종, 전투 개시 침묵",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "160cm",
+"weight": "0kg",
+"age": ""
 },
 {
 "id": 1301,
@@ -1483,7 +2169,14 @@
 "tier": "T3",
 "title": "",
 "origin": "북유럽 신화",
-"en": "Dwarf Warrior"
+"en": "Dwarf Warrior",
+"jobDescribe": "마법 저항 증가, 적의 공격 방어",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "147cm",
+"weight": "86kg",
+"age": ""
 },
 {
 "id": 1302,
@@ -1498,7 +2191,14 @@
 "tier": "T3",
 "title": "",
 "origin": "이집트 문명",
-"en": "Mummy"
+"en": "Mummy",
+"jobDescribe": "HP 증가, 저주 부여",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "135cm",
+"weight": "35kg",
+"age": ""
 },
 {
 "id": 2301,
@@ -1513,7 +2213,14 @@
 "tier": "T3",
 "title": "길잡이 요정",
 "origin": "북유럽 신화",
-"en": "Viel"
+"en": "Viel",
+"jobDescribe": "지속 치유, 아군 보호",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "132cm",
+"weight": "32kg",
+"age": ""
 },
 {
 "id": 2302,
@@ -1528,7 +2235,14 @@
 "tier": "T3",
 "title": "",
 "origin": "현대 판타지 문학",
-"en": "Goblin War Drummer"
+"en": "Goblin War Drummer",
+"jobDescribe": "북소리 유지, 아군 사기 진작",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "85cm",
+"weight": "32kg",
+"age": ""
 },
 {
 "id": 3301,
@@ -1543,7 +2257,14 @@
 "tier": "T3",
 "title": "",
 "origin": "북유럽 신화",
-"en": "Sword Dancer"
+"en": "Sword Dancer",
+"jobDescribe": "표식 부여, 타깃 처치",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "160cm",
+"weight": "50kg",
+"age": ""
 },
 {
 "id": 3302,
@@ -1558,7 +2279,14 @@
 "tier": "T3",
 "title": "",
 "origin": "현대 판타지 문학",
-"en": "Boar Knight"
+"en": "Boar Knight",
+"jobDescribe": "진지함과 장난기를 오가는 성격",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "182cm",
+"weight": "63kg",
+"age": ""
 },
 {
 "id": 4301,
@@ -1573,7 +2301,14 @@
 "tier": "T3",
 "title": "전장의 공주",
 "origin": "북유럽 신화",
-"en": "Siegfried"
+"en": "Siegfried",
+"jobDescribe": "공수 겸비, 적진 돌파",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "165cm",
+"weight": "48kg",
+"age": ""
 },
 {
 "id": 4302,
@@ -1588,7 +2323,14 @@
 "tier": "T3",
 "title": "",
 "origin": "현대 판타지 문학",
-"en": "Goblin Battering Ram"
+"en": "Goblin Battering Ram",
+"jobDescribe": "형제 협공, 망치 타격",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "84cm",
+"weight": "33kg",
+"age": ""
 },
 {
 "id": 5301,
@@ -1603,7 +2345,14 @@
 "tier": "T3",
 "title": "",
 "origin": "북유럽 신화",
-"en": "Wood Elf Archer"
+"en": "Wood Elf Archer",
+"jobDescribe": "단일 피해, 공격 속도 증가",
+"gender": 2,
+"race": "",
+"cv": "",
+"height": "146cm",
+"weight": "40kg",
+"age": ""
 },
 {
 "id": 5302,
@@ -1618,7 +2367,14 @@
 "tier": "T3",
 "title": "",
 "origin": "북유럽 신화",
-"en": "Dwarven Cannoneer"
+"en": "Dwarven Cannoneer",
+"jobDescribe": "포탄 발사, 무작위 폭격",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "147cm",
+"weight": "85kg",
+"age": ""
 },
 {
 "id": 6301,
@@ -1633,7 +2389,14 @@
 "tier": "T3",
 "title": "",
 "origin": "북유럽 신화",
-"en": "Dwarven Sage"
+"en": "Dwarven Sage",
+"jobDescribe": "얼음 마법, 적 이속 감소",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "146cm",
+"weight": "82kg",
+"age": ""
 },
 {
 "id": 6302,
@@ -1648,7 +2411,14 @@
 "tier": "T3",
 "title": "",
 "origin": "이집트 문명",
-"en": "Pharaoh"
+"en": "Pharaoh",
+"jobDescribe": "HP 흡수, 저주 부여",
+"gender": 1,
+"race": "",
+"cv": "",
+"height": "136cm",
+"weight": "36kg",
+"age": ""
 },
 {
 "id": 1201,
@@ -1661,8 +2431,15 @@
 "role": "탱커",
 "tier": "T3",
 "title": "",
-"origin": "?",
-"en": "Rock Slime"
+"origin": "",
+"en": "Rock Slime",
+"jobDescribe": "단일 보호막",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "",
+"weight": "",
+"age": ""
 },
 {
 "id": 2201,
@@ -1675,8 +2452,15 @@
 "role": "힐러",
 "tier": "T3",
 "title": "",
-"origin": "?",
-"en": "Breeze Slime"
+"origin": "",
+"en": "Breeze Slime",
+"jobDescribe": "단일 회복",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "",
+"weight": "",
+"age": ""
 },
 {
 "id": 3201,
@@ -1689,8 +2473,15 @@
 "role": "딜러",
 "tier": "T3",
 "title": "",
-"origin": "?",
-"en": "Shadow Slime"
+"origin": "",
+"en": "Shadow Slime",
+"jobDescribe": "단일 피해",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "",
+"weight": "",
+"age": ""
 },
 {
 "id": 4201,
@@ -1703,8 +2494,15 @@
 "role": "브루저",
 "tier": "T3",
 "title": "",
-"origin": "?",
-"en": "Flame Slime"
+"origin": "",
+"en": "Flame Slime",
+"jobDescribe": "자폭 피해",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "",
+"weight": "",
+"age": ""
 },
 {
 "id": 5201,
@@ -1717,8 +2515,15 @@
 "role": "딜러",
 "tier": "T3",
 "title": "",
-"origin": "?",
-"en": "Lightning Slime"
+"origin": "",
+"en": "Lightning Slime",
+"jobDescribe": "단일 피해",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "",
+"weight": "",
+"age": ""
 },
 {
 "id": 6201,
@@ -1731,8 +2536,15 @@
 "role": "딜러",
 "tier": "T3",
 "title": "",
-"origin": "?",
-"en": "Ice Slime"
+"origin": "",
+"en": "Ice Slime",
+"jobDescribe": "단일 피해",
+"gender": 0,
+"race": "",
+"cv": "",
+"height": "",
+"weight": "",
+"age": ""
 }
 ]
 }
