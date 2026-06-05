@@ -327,6 +327,22 @@
    "group": "등급 프레임",
    "size": "120x119",
    "bytes": 5456
+  },
+  {
+   "original": "Sprite_BigImg_HeroDress_Frame_custom.png",
+   "file": "card_frame.webp",
+   "label": "카드 프레임",
+   "group": "상세 장식",
+   "size": "272x296",
+   "bytes": 5140
+  },
+  {
+   "original": "Texture2D_card_hero_<dress>.webp",
+   "file": "art/<id>.webp",
+   "label": "환령 전신 ×114",
+   "group": "환령 전신",
+   "size": "328x446",
+   "bytes": 0
   }
  ]
 }
