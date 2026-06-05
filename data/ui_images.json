@@ -119,6 +119,166 @@
    "group": "메인 셀",
    "size": "220x220",
    "bytes": 11836
+  },
+  {
+   "original": "Sprite_HeroQualitySSR.png",
+   "file": "q_ur.webp",
+   "label": "등급 UR",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1418
+  },
+  {
+   "original": "Sprite_HeroQualitySRPlus.png",
+   "file": "q_ssrplus.webp",
+   "label": "등급 SSR+",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 2012
+  },
+  {
+   "original": "Sprite_HeroQualitySR.png",
+   "file": "q_ssr.webp",
+   "label": "등급 SSR",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1888
+  },
+  {
+   "original": "Sprite_HeroQualityRP.png",
+   "file": "q_sr.webp",
+   "label": "등급 SR",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1572
+  },
+  {
+   "original": "Sprite_HeroQualityR.png",
+   "file": "q_r.webp",
+   "label": "등급 R",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1392
+  },
+  {
+   "original": "Sprite_HeroQualityN.png",
+   "file": "q_n.webp",
+   "label": "등급 N",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1276
+  },
+  {
+   "original": "Sprite_HeroQualityNS.png",
+   "file": "q_c.webp",
+   "label": "등급 C",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1062
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_1.png",
+   "file": "job1.webp",
+   "label": "직업 수호자",
+   "group": "직업",
+   "size": "62x72",
+   "bytes": 4606
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_2.png",
+   "file": "job2.webp",
+   "label": "직업 사제",
+   "group": "직업",
+   "size": "72x72",
+   "bytes": 4586
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_3.png",
+   "file": "job3.webp",
+   "label": "직업 암살자",
+   "group": "직업",
+   "size": "72x72",
+   "bytes": 4776
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_4.png",
+   "file": "job4.webp",
+   "label": "직업 전사",
+   "group": "직업",
+   "size": "70x72",
+   "bytes": 3988
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_5.png",
+   "file": "job5.webp",
+   "label": "직업 궁수",
+   "group": "직업",
+   "size": "70x72",
+   "bytes": 4708
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_6.png",
+   "file": "job6.webp",
+   "label": "직업 마법사",
+   "group": "직업",
+   "size": "72x71",
+   "bytes": 4392
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_yuansu.png",
+   "file": "fac_101.webp",
+   "label": "진영 원소의 울림",
+   "group": "진영",
+   "size": "64x64",
+   "bytes": 2214
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_buqu.png",
+   "file": "fac_102.webp",
+   "label": "진영 광야의 영혼",
+   "group": "진영",
+   "size": "64x63",
+   "bytes": 2400
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_aoshu.png",
+   "file": "fac_103.webp",
+   "label": "진영 비전의 지혜",
+   "group": "진영",
+   "size": "64x64",
+   "bytes": 1974
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_xianzhen.png",
+   "file": "fac_104.webp",
+   "label": "진영 성당의 영광",
+   "group": "진영",
+   "size": "64x64",
+   "bytes": 2540
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_bian.png",
+   "file": "fac_105.webp",
+   "label": "진영 피안의 재림",
+   "group": "진영",
+   "size": "64x64",
+   "bytes": 2272
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_mofa.png",
+   "file": "fac_106.webp",
+   "label": "진영 환영 그림자",
+   "group": "진영",
+   "size": "64x64",
+   "bytes": 2040
+  },
+  {
+   "original": "Sprite_icon_hero_<id>.webp",
+   "file": "faces/<id>.webp",
+   "label": "환령 얼굴 ×115",
+   "group": "환령 얼굴",
+   "size": "-",
+   "bytes": 0
   }
  ]
 }
