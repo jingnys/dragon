@@ -1,1 +1,1 @@
-{"battle": [{"name": "원소의 힘", "type": "강화 1", "desc": "전투 중 자신의 HP {0}%가 증가한다."}, {"name": "바람의 치유", "type": "강화 2", "desc": "단일 목표에게 {0}+자신의 최대 HP {1}%의 HP를 회복한다."}], "stars": []}
+{"battle": [{"name": "원소의 힘", "type": "강화 1", "desc": "전투 중 자신의 HP {0}%가 증가한다.", "icon": "skill/Sprite_skillicon_22011.webp"}, {"name": "바람의 치유", "type": "강화 2", "desc": "단일 목표에게 {0}+자신의 최대 HP {1}%의 HP를 회복한다.", "icon": "skill/Sprite_skillicon_22012.webp"}], "stars": []}

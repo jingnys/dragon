@@ -1,1 +1,1 @@
-{"battle": [{"name": "원소의 힘", "type": "강화 1", "desc": "자신의 피해 감소 {0}%가 증가한다."}, {"name": "경화", "type": "강화 2", "desc": "자신에게 최대 HP의 {0}% 보호막을 제공하며, 6초 동안 지속된다."}], "stars": []}
+{"battle": [{"name": "원소의 힘", "type": "강화 1", "desc": "자신의 피해 감소 {0}%가 증가한다.", "icon": "skill/Sprite_skillicon_12011.webp"}, {"name": "경화", "type": "강화 2", "desc": "자신에게 최대 HP의 {0}% 보호막을 제공하며, 6초 동안 지속된다.", "icon": "skill/Sprite_skillicon_12012.webp"}], "stars": []}

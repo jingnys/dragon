@@ -1,1 +1,1 @@
-{"battle": [{"name": "원소의 힘", "type": "강화 1", "desc": "자신의 치명타를 {0} 증가한다."}, {"name": "그림자 기습", "type": "강화 2", "desc": "단일 목표에게 자신의 공격 {0}% 물리 피해를 가한다."}], "stars": []}
+{"battle": [{"name": "원소의 힘", "type": "강화 1", "desc": "자신의 치명타를 {0} 증가한다.", "icon": "skill/Sprite_skillicon_32011.webp"}, {"name": "그림자 기습", "type": "강화 2", "desc": "단일 목표에게 자신의 공격 {0}% 물리 피해를 가한다.", "icon": "skill/Sprite_skillicon_32012.webp"}], "stars": []}
