@@ -1,1148 +1,2387 @@
 [
 {
 "server": "台服",
-"date": "2025-12-30",
 "start": "2025-01-01",
 "end": "2025-01-15",
 "base": "신규",
 "kind": "환령",
 "name": "繁星魔女",
-"title": "【公告】12月31日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251230/7651.html",
 "nameKo": "별빛의마녀"
 },
 {
 "server": "台服",
-"date": "2025-12-30",
 "start": "2025-01-01",
 "end": "2025-01-08",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】12月31日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251230/7651.html"
+"name": "迅魔光環",
+"nameKo": "신속한마법오라"
 },
 {
 "server": "台服",
-"date": "2025-01-15",
+"start": "2025-01-01",
+"end": "2025-01-08",
+"base": "신규",
+"kind": "마법",
+"name": "擋吸光環",
+"nameKo": "막기흡수오라"
+},
+{
+"server": "台服",
+"start": "2025-01-01",
+"end": "2025-01-08",
+"base": "신규",
+"kind": "마법",
+"name": "滯時咆哮(幻境 )",
+"nameKo": "정체의포효"
+},
+{
+"server": "台服",
+"start": "2025-01-01",
+"end": "2025-01-08",
+"base": "신규",
+"kind": "마법",
+"name": "擾枝疲敵(幻境)",
+"nameKo": "교란"
+},
+{
+"server": "台服",
 "start": "2025-01-16",
 "end": "2025-01-30",
 "base": "신규",
 "kind": "환령",
 "name": "墮落女武神",
-"title": "【公告】01月16日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250115/6580.html",
 "nameKo": "타락한발키리"
 },
 {
 "server": "台服",
-"date": "2025-01-22",
 "start": "2025-01-23",
 "end": "2025-02-06",
 "base": "신규",
 "kind": "환령",
 "name": "半神巫妖",
-"title": "【公告】01月23日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250122/6605.html",
 "nameKo": "반신리치"
 },
 {
 "server": "台服",
-"date": "2025-01-22",
+"start": "2025-01-23",
+"end": "2025-01-30",
+"base": "신규",
+"kind": "아티팩트",
+"name": "宙斯的雷霆",
+"nameKo": "제우스벼락"
+},
+{
+"server": "台服",
 "start": "2025-01-30",
 "end": "2025-02-13",
 "base": "신규",
 "kind": "환령",
 "name": "妖精仙后",
-"title": "【公告】01月23日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250122/6605.html",
 "nameKo": "요정의대모"
 },
 {
 "server": "台服",
-"date": "2025-02-05",
 "start": "2025-02-06",
 "end": "2025-02-20",
 "base": "신규",
 "kind": "환령",
 "name": "雙生鴉靈",
-"title": "【公告】02月06日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250205/6631.html",
 "nameKo": "쌍둥이까마귀"
 },
 {
 "server": "台服",
-"date": "2025-02-12",
 "start": "2025-02-13",
 "end": "2025-02-27",
 "base": "신규",
 "kind": "환령",
 "name": "大天使",
-"title": "【公告】02月13日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250212/6635.html",
 "nameKo": "대천사"
 },
 {
 "server": "台服",
-"date": "2025-02-18",
 "start": "2025-02-20",
 "end": "2025-03-06",
 "base": "신규",
 "kind": "환령",
 "name": "冥界判官",
-"title": "【公告】02月19日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250218/6664.html",
 "nameKo": "저승심판자"
 },
 {
 "server": "台服",
-"date": "2025-02-18",
-"start": "2025-02-20",
-"end": "2025-02-27",
-"base": "신규",
-"kind": "마법",
-"name": "마법 UP",
-"title": "【公告】02月19日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250218/6664.html"
-},
-{
-"server": "台服",
-"date": "2025-02-26",
 "start": "2025-02-27",
 "end": "2025-03-13",
 "base": "신규",
 "kind": "환령",
 "name": "噬血魔劍",
-"title": "【公告】02月26日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250226/6675.html",
 "nameKo": "피를삼키는마검"
 },
 {
 "server": "台服",
-"date": "2025-03-05",
 "start": "2025-03-06",
 "end": "2025-03-20",
 "base": "복각",
 "kind": "환령",
 "name": "炎魔",
-"title": "【公告】03月05日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250305/6701.html",
 "nameKo": "불의악마"
 },
 {
 "server": "台服",
-"date": "2025-03-12",
-"start": "2025-03-12",
-"end": "",
+"start": "2025-03-06",
+"end": "2025-03-13",
 "base": "신규",
-"kind": "환령",
-"name": "聖劍主教",
-"title": "【公告】03月12日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250312/6718.html",
-"nameKo": "성검주교"
+"kind": "아티팩트",
+"name": "朗基努斯之槍",
+"nameKo": "롱기누스의창"
 },
 {
 "server": "台服",
-"date": "2025-03-19",
 "start": "2025-03-20",
 "end": "2025-04-03",
 "base": "복각",
 "kind": "환령",
 "name": "塵世巨蟒‧耶夢加得",
-"title": "【公告】03月19日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250319/6744.html",
-"nameKo": "세계를감싼뱀"
+"nameKo": "요르문간드"
 },
 {
 "server": "台服",
-"date": "2025-03-19",
 "start": "2025-03-20",
 "end": "2025-03-27",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】03月19日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250319/6744.html"
+"name": "攻吸光環",
+"nameKo": "흡혈돌격오라"
 },
 {
 "server": "台服",
-"date": "2025-03-25",
-"start": "2025-03-25",
-"end": "",
+"start": "2025-03-20",
+"end": "2025-03-27",
 "base": "신규",
-"kind": "환령",
-"name": "鐵血統帥",
-"title": "【公告】03月26日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250325/6777.html",
-"nameKo": "철혈지휘관"
+"kind": "마법",
+"name": "魔擋光環",
+"nameKo": "마법막기오라"
 },
 {
 "server": "台服",
-"date": "2025-04-01",
+"start": "2025-03-20",
+"end": "2025-03-27",
+"base": "신규",
+"kind": "마법",
+"name": "制暴咆哮",
+"nameKo": "저항의포효"
+},
+{
+"server": "台服",
+"start": "2025-03-20",
+"end": "2025-03-27",
+"base": "신규",
+"kind": "마법",
+"name": "弱點懲戒",
+"nameKo": "약점의징계"
+},
+{
+"server": "台服",
 "start": "2025-04-03",
 "end": "2025-04-17",
 "base": "신규",
 "kind": "환령",
 "name": "六臂蛇魔",
-"title": "【公告】04月02日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250401/6802.html",
 "nameKo": "여섯팔뱀마녀"
 },
 {
 "server": "台服",
-"date": "2025-04-09",
+"start": "2025-04-03",
+"end": "2025-04-10",
+"base": "신규",
+"kind": "아티팩트",
+"name": "海姆達爾的號角",
+"nameKo": "헤임달의뿔나팔"
+},
+{
+"server": "台服",
 "start": "2025-04-10",
 "end": "2025-04-24",
 "base": "신규",
 "kind": "환령",
 "name": "惡魔支配者",
-"title": "【公告】04月09日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250409/6824.html",
 "nameKo": "악마지배자"
 },
 {
 "server": "台服",
-"date": "2025-04-16",
 "start": "2025-04-17",
 "end": "2025-05-01",
 "base": "신규",
 "kind": "환령",
 "name": "墮落女武神",
-"title": "【公告】04月16日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250416/6842.html",
 "nameKo": "타락한발키리"
 },
 {
 "server": "台服",
-"date": "2025-04-16",
-"start": "2025-04-17",
-"end": "2025-04-24",
-"base": "신규",
-"kind": "마물",
-"name": "마물 UP",
-"title": "【公告】04月16日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250416/6842.html"
-},
-{
-"server": "台服",
-"date": "2025-04-23",
 "start": "2025-04-24",
 "end": "2025-05-08",
 "base": "신규",
 "kind": "환령",
 "name": "死亡騎士",
-"title": "【公告】04月23日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250423/6861.html",
 "nameKo": "죽음의기사"
 },
 {
 "server": "台服",
-"date": "2025-04-29",
+"start": "2025-04-24",
+"end": "2025-05-01",
+"base": "신규",
+"kind": "아티팩트",
+"name": "朗基努斯之槍",
+"nameKo": "롱기누스의창"
+},
+{
+"server": "台服",
 "start": "2025-05-01",
 "end": "2025-05-08",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】04月30日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250429/6891.html"
+"name": "魂佑咆哮",
+"nameKo": "수호의포효"
 },
 {
 "server": "台服",
-"date": "2025-05-05",
-"start": "2025-05-08",
-"end": "2025-05-15",
+"start": "2025-05-01",
+"end": "2025-05-08",
 "base": "신규",
-"kind": "아티팩트",
-"name": "아티팩트 UP",
-"title": "【公告】05月06日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250505/6913.html"
+"kind": "마법",
+"name": "百骸咆哮",
+"nameKo": "백골의포효"
 },
 {
 "server": "台服",
-"date": "2025-05-13",
+"start": "2025-05-01",
+"end": "2025-05-08",
+"base": "신규",
+"kind": "마법",
+"name": "靈盾轉生",
+"nameKo": "영혼방패환생"
+},
+{
+"server": "台服",
 "start": "2025-05-15",
 "end": "2025-05-29",
 "base": "신규",
 "kind": "환령",
 "name": "女武神",
-"title": "【公告】05月14日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250513/6960.html",
 "nameKo": "발키리"
 },
 {
 "server": "台服",
-"date": "2025-05-13",
 "start": "2025-05-15",
 "end": "2025-05-22",
 "base": "신규",
 "kind": "마물",
-"name": "마물 UP",
-"title": "【公告】05月14日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250513/6960.html"
+"name": "殭屍新娘",
+"nameKo": "좀비 신부"
 },
 {
 "server": "台服",
-"date": "2025-05-29",
+"start": "2025-05-15",
+"end": "2025-05-22",
+"base": "신규",
+"kind": "마물",
+"name": "斗笠劍客",
+"nameKo": "삿갓검객"
+},
+{
+"server": "台服",
+"start": "2025-05-22",
+"end": "2025-05-29",
+"base": "신규",
+"kind": "아티팩트",
+"name": "奧林匹斯聖火",
+"nameKo": "올림포스성화"
+},
+{
+"server": "台服",
 "start": "2025-05-29",
 "end": "2025-06-12",
 "base": "신규",
 "kind": "환령",
 "name": "湖中仙女",
-"title": "【公告】05月29日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250529/7014.html",
 "nameKo": "호수의여인"
 },
 {
 "server": "台服",
-"date": "2025-05-29",
 "start": "2025-05-29",
-"end": "2025-06-09",
-"base": "신규",
-"kind": "마법",
-"name": "마법 UP",
-"title": "【公告】05月29日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250529/7014.html"
-},
-{
-"server": "台服",
-"date": "2025-06-04",
-"start": "2025-06-05",
 "end": "2025-06-12",
-"base": "신규",
-"kind": "마물",
-"name": "마물 UP",
-"title": "【公告】06月04日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250604/7028.html"
+"base": "복각",
+"kind": "환령",
+"name": "太陽神",
+"nameKo": "태양신"
 },
 {
 "server": "台服",
-"date": "2025-06-11",
+"start": "2025-05-29",
+"end": "2025-06-12",
+"base": "복각",
+"kind": "환령",
+"name": "冥府之王",
+"nameKo": "저승의지배자"
+},
+{
+"server": "台服",
 "start": "2025-06-12",
 "end": "2025-06-26",
 "base": "신규",
 "kind": "환령",
 "name": "霜星獵手",
-"title": "【公告】06月11日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250611/7062.html",
 "nameKo": "서리별사냥꾼"
 },
 {
 "server": "台服",
-"date": "2025-06-17",
+"start": "2025-06-12",
+"end": "2025-06-26",
+"base": "복각",
+"kind": "환령",
+"name": "智慧女神",
+"nameKo": "지혜의여신"
+},
+{
+"server": "台服",
+"start": "2025-06-12",
+"end": "2025-06-26",
+"base": "복각",
+"kind": "환령",
+"name": "太陽神",
+"nameKo": "태양신"
+},
+{
+"server": "台服",
+"start": "2025-06-12",
+"end": "2025-06-19",
+"base": "신규",
+"kind": "아티팩트",
+"name": "海姆達爾的號角",
+"nameKo": "헤임달의뿔나팔"
+},
+{
+"server": "台服",
 "start": "2025-06-19",
 "end": "2025-06-26",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】06月18日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250617/7076.html"
+"name": "暴速光環",
+"nameKo": "질풍의오라"
 },
 {
 "server": "台服",
-"date": "2025-06-25",
+"start": "2025-06-19",
+"end": "2025-06-26",
+"base": "신규",
+"kind": "마법",
+"name": "閃擋光環",
+"nameKo": "철옹성의오라"
+},
+{
+"server": "台服",
+"start": "2025-06-19",
+"end": "2025-06-26",
+"base": "신규",
+"kind": "마법",
+"name": "蓄能咆哮(元素專屬 )",
+"nameKo": "응축된포효"
+},
+{
+"server": "台服",
+"start": "2025-06-19",
+"end": "2025-06-26",
+"base": "신규",
+"kind": "마법",
+"name": "凜冬威壓(元素專屬)",
+"nameKo": "혹한의위압"
+},
+{
+"server": "台服",
+"start": "2025-06-26",
+"end": "2025-07-10",
+"base": "복각",
+"kind": "환령",
+"name": "愛神",
+"nameKo": "사랑의여신"
+},
+{
+"server": "台服",
+"start": "2025-06-26",
+"end": "2025-07-10",
+"base": "복각",
+"kind": "환령",
+"name": "冥府之王",
+"nameKo": "저승의지배자"
+},
+{
+"server": "台服",
 "start": "2025-06-26",
 "end": "2025-07-03",
-"base": "신규",
-"kind": "아티팩트",
-"name": "아티팩트 UP",
-"title": "【公告】06月25日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250625/7101.html"
+"base": "복각",
+"kind": "환령",
+"name": "大天使‧加百列",
+"nameKo": "가브리엘"
 },
 {
 "server": "台服",
-"date": "2025-07-01",
+"start": "2025-06-26",
+"end": "2025-07-03",
+"base": "복각",
+"kind": "환령",
+"name": "塵世巨蟒‧耶夢加得",
+"nameKo": "요르문간드"
+},
+{
+"server": "台服",
 "start": "2025-07-03",
 "end": "2025-07-17",
 "base": "신규",
 "kind": "환령",
 "name": "鍛火龍姬",
-"title": "【公告】07月02日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250701/7124.html",
 "nameKo": "연화의용희"
 },
 {
 "server": "台服",
-"date": "2025-07-01",
 "start": "2025-07-03",
 "end": "2025-07-10",
 "base": "신규",
 "kind": "마물",
-"name": "마물 UP",
-"title": "【公告】07月02日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250701/7124.html"
+"name": "閃靈雙生",
+"nameKo": "샤이닝트윈스"
 },
 {
 "server": "台服",
-"date": "2025-07-08",
+"start": "2025-07-03",
+"end": "2025-07-10",
+"base": "신규",
+"kind": "마물",
+"name": "回魂小丑",
+"nameKo": "부활한피에로"
+},
+{
+"server": "台服",
+"start": "2025-07-03",
+"end": "2025-07-10",
+"base": "신규",
+"kind": "마물",
+"name": "竹生少女",
+"nameKo": "대나무공주"
+},
+{
+"server": "台服",
+"start": "2025-07-10",
+"end": "2025-07-24",
+"base": "복각",
+"kind": "환령",
+"name": "智慧女神",
+"nameKo": "지혜의여신"
+},
+{
+"server": "台服",
+"start": "2025-07-10",
+"end": "2025-07-24",
+"base": "복각",
+"kind": "환령",
+"name": "太陽神",
+"nameKo": "태양신"
+},
+{
+"server": "台服",
 "start": "2025-07-10",
 "end": "2025-07-17",
 "base": "신규",
 "kind": "아티팩트",
-"name": "아티팩트 UP",
-"title": "【公告】07月08日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250708/7142.html"
+"name": "海神三叉戟",
+"nameKo": "포세이돈삼지창"
 },
 {
 "server": "台服",
-"date": "2025-07-14",
 "start": "2025-07-17",
 "end": "2025-07-31",
 "base": "신규",
 "kind": "환령",
 "name": "緋刃劍魂",
-"title": "【公告】07月15日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250714/7167.html",
 "nameKo": "핏빛의검혼"
 },
 {
 "server": "台服",
-"date": "2025-07-14",
 "start": "2025-07-17",
 "end": "2025-07-24",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】07月15日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250714/7167.html"
+"name": "魂佑咆哮",
+"nameKo": "수호의포효"
 },
 {
 "server": "台服",
-"date": "2025-07-21",
-"start": "2025-07-24",
-"end": "2025-07-31",
+"start": "2025-07-17",
+"end": "2025-07-24",
 "base": "신규",
-"kind": "마물",
-"name": "마물 UP",
-"title": "【公告】07月22日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250721/7190.html"
+"kind": "마법",
+"name": "百骸咆哮",
+"nameKo": "백골의포효"
 },
 {
 "server": "台服",
-"date": "2025-07-30",
+"start": "2025-07-17",
+"end": "2025-07-24",
+"base": "신규",
+"kind": "마법",
+"name": "靈盾轉生",
+"nameKo": "영혼방패환생"
+},
+{
+"server": "台服",
+"start": "2025-07-24",
+"end": "2025-08-07",
+"base": "복각",
+"kind": "환령",
+"name": "愛神",
+"nameKo": "사랑의여신"
+},
+{
+"server": "台服",
+"start": "2025-07-24",
+"end": "2025-08-07",
+"base": "복각",
+"kind": "환령",
+"name": "冥府之王",
+"nameKo": "저승의지배자"
+},
+{
+"server": "台服",
 "start": "2025-07-31",
 "end": "2025-08-14",
 "base": "신규",
 "kind": "환령",
 "name": "青銅神姬",
-"title": "【公告】07月30日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250730/7214.html",
 "nameKo": "청동여신"
 },
 {
 "server": "台服",
-"date": "2025-08-06",
+"start": "2025-07-31",
+"end": "2025-08-07",
+"base": "신규",
+"kind": "아티팩트",
+"name": "奧林匹斯聖火",
+"nameKo": "올림포스성화"
+},
+{
+"server": "台服",
+"start": "2025-08-07",
+"end": "2025-08-21",
+"base": "복각",
+"kind": "환령",
+"name": "雷神",
+"nameKo": "천둥의신"
+},
+{
+"server": "台服",
+"start": "2025-08-07",
+"end": "2025-08-21",
+"base": "복각",
+"kind": "환령",
+"name": "太陽神",
+"nameKo": "태양신"
+},
+{
+"server": "台服",
 "start": "2025-08-07",
 "end": "2025-08-14",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】08月07日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250806/7232.html"
+"name": "奧中光環",
+"nameKo": "궁극명중오라"
 },
 {
 "server": "台服",
-"date": "2025-08-12",
+"start": "2025-08-07",
+"end": "2025-08-14",
+"base": "신규",
+"kind": "마법",
+"name": "盾抗光環",
+"nameKo": "보호막저항오라"
+},
+{
+"server": "台服",
+"start": "2025-08-07",
+"end": "2025-08-14",
+"base": "신규",
+"kind": "마법",
+"name": "奧能咆哮(奧術專屬 )",
+"nameKo": "궁극의포효"
+},
+{
+"server": "台服",
+"start": "2025-08-07",
+"end": "2025-08-14",
+"base": "신규",
+"kind": "마법",
+"name": "祕法之佑(奧術專屬)",
+"nameKo": "비술의 가호"
+},
+{
+"server": "台服",
 "start": "2025-08-14",
 "end": "2025-08-28",
 "base": "신규",
 "kind": "환령",
 "name": "幽冥公主",
-"title": "【公告】08月12日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250812/7252.html",
 "nameKo": "저승의공주"
 },
 {
 "server": "台服",
-"date": "2025-08-12",
 "start": "2025-08-14",
 "end": "2025-08-21",
 "base": "신규",
 "kind": "마물",
-"name": "마물 UP",
-"title": "【公告】08月12日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250812/7252.html"
+"name": "阿爾菲斯河神",
+"nameKo": "알페이오스강신"
 },
 {
 "server": "台服",
-"date": "2025-08-27",
+"start": "2025-08-14",
+"end": "2025-08-21",
+"base": "신규",
+"kind": "마물",
+"name": "尼米亞巨獅",
+"nameKo": "네메아의사자"
+},
+{
+"server": "台服",
+"start": "2025-08-14",
+"end": "2025-08-21",
+"base": "신규",
+"kind": "마물",
+"name": "亞馬遜女戰士",
+"nameKo": "아마존여전사"
+},
+{
+"server": "台服",
+"start": "2025-08-21",
+"end": "2025-08-28",
+"base": "신규",
+"kind": "아티팩트",
+"name": "邱比特之箭",
+"nameKo": "큐피드의 화살"
+},
+{
+"server": "台服",
 "start": "2025-08-28",
 "end": "2025-09-11",
 "base": "신규",
 "kind": "환령",
 "name": "四聖青龍",
-"title": "【公告】08月27日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250827/7298.html",
 "nameKo": "사성수"
 },
 {
 "server": "台服",
-"date": "2025-08-27",
 "start": "2025-08-28",
 "end": "2025-09-04",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】08月27日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250827/7298.html"
+"name": "暴速光環",
+"nameKo": "질풍의오라"
 },
 {
 "server": "台服",
-"date": "2025-09-02",
+"start": "2025-08-28",
+"end": "2025-09-04",
+"base": "신규",
+"kind": "마법",
+"name": "閃擋光環",
+"nameKo": "철옹성의오라"
+},
+{
+"server": "台服",
+"start": "2025-08-28",
+"end": "2025-09-04",
+"base": "신규",
+"kind": "마법",
+"name": "蓄能咆哮(元素 )",
+"nameKo": "응축된포효"
+},
+{
+"server": "台服",
+"start": "2025-08-28",
+"end": "2025-09-04",
+"base": "신규",
+"kind": "마법",
+"name": "凜冬威壓(元素)",
+"nameKo": "혹한의위압"
+},
+{
+"server": "台服",
+"start": "2025-09-04",
+"end": "2025-09-18",
+"base": "복각",
+"kind": "환령",
+"name": "智慧女神",
+"nameKo": "지혜의여신"
+},
+{
+"server": "台服",
+"start": "2025-09-04",
+"end": "2025-09-18",
+"base": "복각",
+"kind": "환령",
+"name": "戰神",
+"nameKo": "전쟁의신"
+},
+{
+"server": "台服",
 "start": "2025-09-04",
 "end": "2025-09-11",
-"base": "신규",
-"kind": "마물",
-"name": "마물 UP",
-"title": "【公告】09月03日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250902/7315.html"
+"base": "복각",
+"kind": "환령",
+"name": "湖中仙女‧薇薇安",
+"nameKo": "비비안"
 },
 {
 "server": "台服",
-"date": "2025-09-09",
+"start": "2025-09-04",
+"end": "2025-09-11",
+"base": "복각",
+"kind": "환령",
+"name": "霜星獵手‧俄里翁",
+"nameKo": "오리온"
+},
+{
+"server": "台服",
+"start": "2025-09-04",
+"end": "2025-09-11",
+"base": "복각",
+"kind": "환령",
+"name": "緞火龍姬‧杜瓦林",
+"nameKo": "두발린"
+},
+{
+"server": "台服",
 "start": "2025-09-11",
 "end": "2025-09-25",
 "base": "신규",
 "kind": "환령",
 "name": "護戒聖女",
-"title": "【公告】09月10日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250909/7334.html",
 "nameKo": "반지수호성녀"
 },
 {
 "server": "台服",
-"date": "2025-09-17",
+"start": "2025-09-11",
+"end": "2025-09-18",
+"base": "신규",
+"kind": "아티팩트",
+"name": "海神三叉戟",
+"nameKo": "포세이돈삼지창"
+},
+{
+"server": "台服",
+"start": "2025-09-18",
+"end": "2025-10-02",
+"base": "복각",
+"kind": "환령",
+"name": "詭計之神‧洛基 ！",
+"nameKo": "계략의신"
+},
+{
+"server": "台服",
+"start": "2025-09-18",
+"end": "2025-10-02",
+"base": "복각",
+"kind": "환령",
+"name": "冥府之王",
+"nameKo": "저승의지배자"
+},
+{
+"server": "台服",
 "start": "2025-09-18",
 "end": "2025-09-25",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】09月17日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250917/7358.html"
+"name": "速擊光環",
+"nameKo": "속공오라"
 },
 {
 "server": "台服",
-"date": "2025-09-24",
+"start": "2025-09-18",
+"end": "2025-09-25",
+"base": "신규",
+"kind": "마법",
+"name": "盾療光環",
+"nameKo": "방패치유오라"
+},
+{
+"server": "台服",
+"start": "2025-09-18",
+"end": "2025-09-25",
+"base": "신규",
+"kind": "마법",
+"name": "振奮咆哮(曠野專屬 )",
+"nameKo": "고무의포효"
+},
+{
+"server": "台服",
+"start": "2025-09-18",
+"end": "2025-09-25",
+"base": "신규",
+"kind": "마법",
+"name": "憤怒連擊(曠野專屬)",
+"nameKo": "분노연타"
+},
+{
+"server": "台服",
 "start": "2025-09-25",
 "end": "2025-10-09",
 "base": "신규",
 "kind": "환령",
 "name": "凱旋皇女",
-"title": "【公告】09月24日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250924/7378.html",
 "nameKo": "승전의황녀"
 },
 {
 "server": "台服",
-"date": "2025-09-24",
 "start": "2025-09-25",
 "end": "2025-10-02",
 "base": "신규",
 "kind": "마물",
-"name": "마물 UP",
-"title": "【公告】09月24日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250924/7378.html"
+"name": "克里特公牛",
+"nameKo": "크레타황소"
 },
 {
 "server": "台服",
-"date": "2025-09-30",
+"start": "2025-09-25",
+"end": "2025-10-02",
+"base": "신규",
+"kind": "마물",
+"name": "歌劇魅影",
+"nameKo": "오페라의유령"
+},
+{
+"server": "台服",
+"start": "2025-09-25",
+"end": "2025-10-02",
+"base": "신규",
+"kind": "마물",
+"name": "鐘樓怪人",
+"nameKo": "노트르담의곱추"
+},
+{
+"server": "台服",
+"start": "2025-10-02",
+"end": "2025-10-16",
+"base": "복각",
+"kind": "환령",
+"name": "智慧女神",
+"nameKo": "지혜의여신"
+},
+{
+"server": "台服",
+"start": "2025-10-02",
+"end": "2025-10-16",
+"base": "복각",
+"kind": "환령",
+"name": "愛神",
+"nameKo": "사랑의여신"
+},
+{
+"server": "台服",
 "start": "2025-10-02",
 "end": "2025-10-09",
 "base": "신규",
 "kind": "아티팩트",
-"name": "아티팩트 UP",
-"title": "【公告】10月01日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250930/7396.html"
+"name": "阿努比斯天秤",
+"nameKo": "아누비스저울"
 },
 {
 "server": "台服",
-"date": "2025-10-07",
 "start": "2025-10-09",
 "end": "2025-10-23",
 "base": "신규",
 "kind": "환령",
 "name": "腐敗花蕾",
-"title": "【公告】10月08日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251007/7408.html",
 "nameKo": "부패한꽃봉오리"
 },
 {
 "server": "台服",
-"date": "2025-10-07",
 "start": "2025-10-09",
 "end": "2025-10-16",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】10月08日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251007/7408.html"
+"name": "奧中光環",
+"nameKo": "궁극명중오라"
 },
 {
 "server": "台服",
-"date": "2025-10-15",
-"start": "2025-10-16",
-"end": "2025-10-23",
+"start": "2025-10-09",
+"end": "2025-10-16",
 "base": "신규",
-"kind": "마물",
-"name": "마물 UP",
-"title": "【公告】10月15日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251015/7432.html"
+"kind": "마법",
+"name": "盾抗光環",
+"nameKo": "보호막저항오라"
 },
 {
 "server": "台服",
-"date": "2025-10-15",
+"start": "2025-10-09",
+"end": "2025-10-16",
+"base": "신규",
+"kind": "마법",
+"name": "奧能咆哮(奧術 )",
+"nameKo": "궁극의포효"
+},
+{
+"server": "台服",
+"start": "2025-10-09",
+"end": "2025-10-16",
+"base": "신규",
+"kind": "마법",
+"name": "祕法之佑(奧術)",
+"nameKo": "비술의 가호"
+},
+{
+"server": "台服",
+"start": "2025-10-16",
+"end": "2025-10-30",
+"base": "복각",
+"kind": "환령",
+"name": "戰神",
+"nameKo": "전쟁의신"
+},
+{
+"server": "台服",
+"start": "2025-10-16",
+"end": "2025-10-30",
+"base": "복각",
+"kind": "환령",
+"name": "太陽神",
+"nameKo": "태양신"
+},
+{
+"server": "台服",
 "start": "2025-10-16",
 "end": "2025-10-23",
+"base": "복각",
+"kind": "환령",
+"name": "青銅神姬‧塔蘿絲",
+"nameKo": "탈로스"
+},
+{
+"server": "台服",
+"start": "2025-10-16",
+"end": "2025-10-23",
+"base": "복각",
+"kind": "환령",
+"name": "炎魔‧伊芙利特",
+"nameKo": "이프리트"
+},
+{
+"server": "台服",
+"start": "2025-10-16",
+"end": "2025-10-23",
+"base": "복각",
+"kind": "환령",
+"name": "六臂蛇魔‧瑪麗莉絲",
+"nameKo": "마릴리스"
+},
+{
+"server": "台服",
+"start": "2025-10-16",
+"end": "2025-10-30",
 "base": "신규",
 "kind": "보구",
-"name": "【虎符】 ★★ 限定煉製",
-"title": "【公告】10月15日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251015/7432.html",
-"nameKo": "호부"
+"name": "전용 보구",
+"nameKo": ""
 },
 {
 "server": "台服",
-"date": "2025-10-21",
 "start": "2025-10-23",
 "end": "2025-11-06",
 "base": "신규",
 "kind": "환령",
 "name": "四聖朱雀",
-"title": "【公告】10月22日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251021/7449.html",
 "nameKo": "사성수"
 },
 {
 "server": "台服",
-"date": "2025-10-28",
+"start": "2025-10-23",
+"end": "2025-10-30",
+"base": "신규",
+"kind": "아티팩트",
+"name": "邱比特之箭",
+"nameKo": "큐피드의 화살"
+},
+{
+"server": "台服",
+"start": "2025-10-30",
+"end": "2025-11-13",
+"base": "복각",
+"kind": "환령",
+"name": "月亮女神",
+"nameKo": "달의여신"
+},
+{
+"server": "台服",
+"start": "2025-10-30",
+"end": "2025-11-13",
+"base": "복각",
+"kind": "환령",
+"name": "冥府之王",
+"nameKo": "저승의지배자"
+},
+{
+"server": "台服",
 "start": "2025-10-30",
 "end": "2025-11-06",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】10月29日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251028/7472.html"
+"name": "迅魔光環",
+"nameKo": "신속한마법오라"
 },
 {
 "server": "台服",
-"date": "2025-11-05",
+"start": "2025-10-30",
+"end": "2025-11-06",
+"base": "신규",
+"kind": "마법",
+"name": "擋吸光環",
+"nameKo": "막기흡수오라"
+},
+{
+"server": "台服",
+"start": "2025-10-30",
+"end": "2025-11-06",
+"base": "신규",
+"kind": "마법",
+"name": "滯時咆哮(幻境專屬 )",
+"nameKo": "정체의포효"
+},
+{
+"server": "台服",
+"start": "2025-10-30",
+"end": "2025-11-06",
+"base": "신규",
+"kind": "마법",
+"name": "擾枝疲敵(幻境專屬)",
+"nameKo": "교란"
+},
+{
+"server": "台服",
 "start": "2025-11-06",
 "end": "2025-11-20",
 "base": "신규",
 "kind": "환령",
 "name": "惡欲魔王",
-"title": "【公告】11月5日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251105/7501.html",
 "nameKo": "사악한욕망의마왕"
 },
 {
 "server": "台服",
-"date": "2025-11-05",
 "start": "2025-11-06",
 "end": "2025-11-13",
 "base": "신규",
 "kind": "마물",
-"name": "마물 UP",
-"title": "【公告】11月5日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251105/7501.html"
+"name": "巫術棋國王",
+"nameKo": "마도체스킹"
 },
 {
 "server": "台服",
-"date": "2025-11-12",
+"start": "2025-11-06",
+"end": "2025-11-13",
+"base": "신규",
+"kind": "마물",
+"name": "巫術棋戰車",
+"nameKo": "마도체스룩"
+},
+{
+"server": "台服",
+"start": "2025-11-06",
+"end": "2025-11-13",
+"base": "신규",
+"kind": "마물",
+"name": "茶會瓷壺",
+"nameKo": "티파티주전자"
+},
+{
+"server": "台服",
+"start": "2025-11-13",
+"end": "2025-11-27",
+"base": "복각",
+"kind": "환령",
+"name": "智慧女神",
+"nameKo": "지혜의여신"
+},
+{
+"server": "台服",
+"start": "2025-11-13",
+"end": "2025-11-27",
+"base": "복각",
+"kind": "환령",
+"name": "月亮女神",
+"nameKo": "달의여신"
+},
+{
+"server": "台服",
 "start": "2025-11-13",
 "end": "2025-11-20",
 "base": "신규",
 "kind": "아티팩트",
-"name": "아티팩트 UP",
-"title": "【公告】11月12日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251112/7518.html"
+"name": "捕夢網",
+"nameKo": "드림캐처"
 },
 {
 "server": "台服",
-"date": "2025-11-18",
 "start": "2025-11-20",
 "end": "2025-12-04",
 "base": "신규",
 "kind": "환령",
 "name": "智慧巨人",
-"title": "【公告】11月19日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251118/7536.html",
 "nameKo": "지혜의거인"
 },
 {
 "server": "台服",
-"date": "2025-11-18",
 "start": "2025-11-20",
 "end": "2025-11-27",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】11月19日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251118/7536.html"
+"name": "速擊光環",
+"nameKo": "속공오라"
 },
 {
 "server": "台服",
-"date": "2025-11-25",
+"start": "2025-11-20",
+"end": "2025-11-27",
+"base": "신규",
+"kind": "마법",
+"name": "盾療光環",
+"nameKo": "방패치유오라"
+},
+{
+"server": "台服",
+"start": "2025-11-20",
+"end": "2025-11-27",
+"base": "신규",
+"kind": "마법",
+"name": "振奮咆哮(曠野 )",
+"nameKo": "고무의포효"
+},
+{
+"server": "台服",
+"start": "2025-11-20",
+"end": "2025-11-27",
+"base": "신규",
+"kind": "마법",
+"name": "憤怒連擊(曠野)",
+"nameKo": "분노연타"
+},
+{
+"server": "台服",
+"start": "2025-11-27",
+"end": "2025-12-11",
+"base": "복각",
+"kind": "환령",
+"name": "冥府之王",
+"nameKo": "저승의지배자"
+},
+{
+"server": "台服",
+"start": "2025-11-27",
+"end": "2025-12-11",
+"base": "복각",
+"kind": "환령",
+"name": "戰神",
+"nameKo": "전쟁의신"
+},
+{
+"server": "台服",
+"start": "2025-11-27",
+"end": "2025-12-11",
+"base": "복각",
+"kind": "환령",
+"name": "太陽神",
+"nameKo": "태양신"
+},
+{
+"server": "台服",
 "start": "2025-11-27",
 "end": "2025-12-04",
-"base": "신규",
-"kind": "마물",
-"name": "마물 UP",
-"title": "【公告】11月26日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251125/7556.html"
+"base": "복각",
+"kind": "환령",
+"name": "大天使‧加百列",
+"nameKo": "가브리엘"
 },
 {
 "server": "台服",
-"date": "2025-11-25",
+"start": "2025-11-27",
+"end": "2025-12-04",
+"base": "복각",
+"kind": "환령",
+"name": "緋刃劍魂‧荊",
+"nameKo": "홍"
+},
+{
+"server": "台服",
+"start": "2025-11-27",
+"end": "2025-12-04",
+"base": "복각",
+"kind": "환령",
+"name": "嗜血魔劍‧提爾鋒",
+"nameKo": "티르빙"
+},
+{
+"server": "台服",
 "start": "2025-11-27",
 "end": "2025-12-11",
 "base": "신규",
 "kind": "보구",
-"name": "【裁決巨斧】 ★★新一期傳說神話召喚",
-"title": "【公告】11月26日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251125/7556.html",
-"nameKo": "심판의도끼"
+"name": "전용 보구",
+"nameKo": ""
 },
 {
 "server": "台服",
-"date": "2025-12-02",
 "start": "2025-12-04",
 "end": "2025-12-18",
 "base": "신규",
 "kind": "환령",
 "name": "鐵腕執政官",
-"title": "【公告】12月3日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251202/7576.html",
 "nameKo": "철권의집정관"
 },
 {
 "server": "台服",
-"date": "2025-12-09",
+"start": "2025-12-04",
+"end": "2025-12-11",
+"base": "신규",
+"kind": "아티팩트",
+"name": "阿努比斯天秤",
+"nameKo": "아누비스저울"
+},
+{
+"server": "台服",
+"start": "2025-12-11",
+"end": "2025-12-25",
+"base": "복각",
+"kind": "환령",
+"name": "盜火之神",
+"nameKo": "불을훔친신"
+},
+{
+"server": "台服",
+"start": "2025-12-11",
+"end": "2025-12-25",
+"base": "복각",
+"kind": "환령",
+"name": "愛神",
+"nameKo": "사랑의여신"
+},
+{
+"server": "台服",
+"start": "2025-12-11",
+"end": "2025-12-25",
+"base": "복각",
+"kind": "환령",
+"name": "冥府之王",
+"nameKo": "저승의지배자"
+},
+{
+"server": "台服",
 "start": "2025-12-11",
 "end": "2025-12-18",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】12月10日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251209/7604.html"
+"name": "暴破光環",
+"nameKo": "치명·관통오라"
 },
 {
 "server": "台服",
-"date": "2025-01-09",
+"start": "2025-12-11",
+"end": "2025-12-18",
+"base": "신규",
+"kind": "마법",
+"name": "抗閃光環",
+"nameKo": "저항·회피오라"
+},
+{
+"server": "台服",
+"start": "2025-12-11",
+"end": "2025-12-18",
+"base": "신규",
+"kind": "마법",
+"name": "聖盾咆哮(聖堂專屬 )",
+"nameKo": "방패의포효"
+},
+{
+"server": "台服",
+"start": "2025-12-11",
+"end": "2025-12-18",
+"base": "신규",
+"kind": "마법",
+"name": "聖光盾擊(聖堂專屬)",
+"nameKo": "성광의방패강타"
+},
+{
+"server": "台服",
 "start": "2025-12-18",
 "end": "2026-01-01",
 "base": "신규",
 "kind": "환령",
 "name": "無雙劍豪",
-"title": "【首頁】最新維護公告",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250109/6834.html",
 "nameKo": "무쌍의검호"
 },
 {
 "server": "台服",
-"date": "2025-01-09",
 "start": "2025-12-18",
 "end": "2025-12-25",
 "base": "신규",
 "kind": "마물",
-"name": "마물 UP",
-"title": "【首頁】最新維護公告",
-"url": "https://sod.game-beans.com/jx/sodNotice/20250109/6834.html"
+"name": "巨棘龍",
+"nameKo": "거대검룡"
 },
 {
 "server": "台服",
-"date": "2025-12-23",
+"start": "2025-12-18",
+"end": "2025-12-25",
+"base": "신규",
+"kind": "마물",
+"name": "參天龍",
+"nameKo": "참천거룡"
+},
+{
+"server": "台服",
+"start": "2025-12-18",
+"end": "2025-12-25",
+"base": "신규",
+"kind": "마물",
+"name": "雷霆劍龍",
+"nameKo": "번개검룡"
+},
+{
+"server": "台服",
+"start": "2025-12-25",
+"end": "2026-01-08",
+"base": "복각",
+"kind": "환령",
+"name": "盜火之神",
+"nameKo": "불을훔친신"
+},
+{
+"server": "台服",
+"start": "2025-12-25",
+"end": "2026-01-08",
+"base": "복각",
+"kind": "환령",
+"name": "愛神",
+"nameKo": "사랑의여신"
+},
+{
+"server": "台服",
+"start": "2025-12-25",
+"end": "2026-01-08",
+"base": "복각",
+"kind": "환령",
+"name": "戰神",
+"nameKo": "전쟁의신"
+},
+{
+"server": "台服",
+"start": "2025-12-25",
+"end": "2026-01-01",
+"base": "복각",
+"kind": "환령",
+"name": "四聖‧青龍",
+"nameKo": "청룡"
+},
+{
+"server": "台服",
+"start": "2025-12-25",
+"end": "2026-01-01",
+"base": "복각",
+"kind": "환령",
+"name": "凱旋皇女‧凱薩",
+"nameKo": "승전의황녀"
+},
+{
+"server": "台服",
+"start": "2025-12-25",
+"end": "2026-01-01",
+"base": "복각",
+"kind": "환령",
+"name": "幽冥公主‧扎格柔絲",
+"nameKo": "자그레우스"
+},
+{
+"server": "台服",
 "start": "2025-12-25",
 "end": "2026-01-01",
 "base": "신규",
 "kind": "아티팩트",
-"name": "아티팩트 UP",
-"title": "【公告】12月24日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20251223/7638.html"
+"name": "死靈之書",
+"nameKo": "네크로노미콘"
 },
 {
 "server": "台服",
-"date": "2026-01-07",
+"start": "2026-01-08",
+"end": "2026-01-22",
+"base": "복각",
+"kind": "환령",
+"name": "智慧女神",
+"nameKo": "지혜의여신"
+},
+{
+"server": "台服",
+"start": "2026-01-08",
+"end": "2026-01-22",
+"base": "복각",
+"kind": "환령",
+"name": "冥府之王",
+"nameKo": "저승의지배자"
+},
+{
+"server": "台服",
+"start": "2026-01-08",
+"end": "2026-01-22",
+"base": "복각",
+"kind": "환령",
+"name": "太陽 神",
+"nameKo": "태양신"
+},
+{
+"server": "台服",
 "start": "2026-01-08",
 "end": "2026-01-15",
-"base": "신규",
-"kind": "마물",
-"name": "마물 UP",
-"title": "【公告】1月7日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260107/7670.html"
+"base": "복각",
+"kind": "환령",
+"name": "緋刃劍魂‧荊",
+"nameKo": "홍"
 },
 {
 "server": "台服",
-"date": "2026-01-13",
+"start": "2026-01-08",
+"end": "2026-01-15",
+"base": "복각",
+"kind": "환령",
+"name": "惡魔支配者‧浮士德",
+"nameKo": "파우스트"
+},
+{
+"server": "台服",
+"start": "2026-01-08",
+"end": "2026-01-22",
+"base": "신규",
+"kind": "보구",
+"name": "전용 보구",
+"nameKo": ""
+},
+{
+"server": "台服",
 "start": "2026-01-15",
 "end": "2026-01-29",
 "base": "신규",
 "kind": "환령",
 "name": "七紗舞孃",
-"title": "【公告】1月14日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260113/7690.html",
 "nameKo": "일곱베일의무희"
 },
 {
 "server": "台服",
-"date": "2026-01-20",
+"start": "2026-01-15",
+"end": "2026-01-22",
+"base": "신규",
+"kind": "아티팩트",
+"name": "捕夢網",
+"nameKo": "드림캐처"
+},
+{
+"server": "台服",
+"start": "2026-01-22",
+"end": "2026-02-05",
+"base": "복각",
+"kind": "환령",
+"name": "死亡女神 ‧海拉 ！",
+"nameKo": "죽음의여신"
+},
+{
+"server": "台服",
+"start": "2026-01-22",
+"end": "2026-02-05",
+"base": "복각",
+"kind": "환령",
+"name": "盜火之神",
+"nameKo": "불을훔친신"
+},
+{
+"server": "台服",
+"start": "2026-01-22",
+"end": "2026-02-05",
+"base": "복각",
+"kind": "환령",
+"name": "雷神",
+"nameKo": "천둥의신"
+},
+{
+"server": "台服",
 "start": "2026-01-22",
 "end": "2026-01-29",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】1月21日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260120/7708.html"
+"name": "物魔光環",
+"nameKo": "물리·마법오라"
 },
 {
 "server": "台服",
-"date": "2026-01-27",
+"start": "2026-01-22",
+"end": "2026-01-29",
+"base": "신규",
+"kind": "마법",
+"name": "盾擋光環",
+"nameKo": "방패·막기오라"
+},
+{
+"server": "台服",
+"start": "2026-01-22",
+"end": "2026-01-29",
+"base": "신규",
+"kind": "마법",
+"name": "魂承咆哮(彼岸專屬 )",
+"nameKo": "계승의포효"
+},
+{
+"server": "台服",
 "start": "2026-01-29",
 "end": "2026-02-12",
 "base": "신규",
 "kind": "환령",
 "name": "斷罪之翼",
-"title": "【公告】1月28日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260127/7725.html",
 "nameKo": "단죄의날개"
 },
 {
 "server": "台服",
-"date": "2026-01-27",
 "start": "2026-01-29",
 "end": "2026-02-05",
 "base": "신규",
 "kind": "마물",
-"name": "마물 UP",
-"title": "【公告】1月28日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260127/7725.html"
+"name": "金剛猿",
+"nameKo": "금강원숭이"
 },
 {
 "server": "台服",
-"date": "2026-02-04",
+"start": "2026-01-29",
+"end": "2026-02-05",
+"base": "신규",
+"kind": "마물",
+"name": "大百足",
+"nameKo": "오오무카데"
+},
+{
+"server": "台服",
+"start": "2026-01-29",
+"end": "2026-02-05",
+"base": "신규",
+"kind": "마물",
+"name": "妖天狗",
+"nameKo": "텐구"
+},
+{
+"server": "台服",
 "start": "2026-02-05",
 "end": "2026-02-12",
 "base": "신규",
 "kind": "아티팩트",
-"name": "아티팩트 UP",
-"title": "【公告】2月4日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260204/7743.html"
+"name": "金剛杵",
+"nameKo": "바즈라"
 },
 {
 "server": "台服",
-"date": "2026-02-10",
 "start": "2026-02-12",
 "end": "2026-02-26",
 "base": "신규",
 "kind": "환령",
 "name": "永夜女王",
-"title": "【公告】2月11日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260210/7761.html",
 "nameKo": "밤의여왕"
 },
 {
 "server": "台服",
-"date": "2026-02-10",
 "start": "2026-02-12",
 "end": "2026-02-19",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】2月11日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260210/7761.html"
+"name": "暴破光環",
+"nameKo": "치명·관통오라"
 },
 {
 "server": "台服",
-"date": "2026-02-17",
+"start": "2026-02-12",
+"end": "2026-02-19",
+"base": "신규",
+"kind": "마법",
+"name": "抗閃光環",
+"nameKo": "저항·회피오라"
+},
+{
+"server": "台服",
+"start": "2026-02-12",
+"end": "2026-02-19",
+"base": "신규",
+"kind": "마법",
+"name": "聖盾咆哮(聖堂 )",
+"nameKo": "방패의포효"
+},
+{
+"server": "台服",
+"start": "2026-02-12",
+"end": "2026-02-19",
+"base": "신규",
+"kind": "마법",
+"name": "聖光盾擊(聖堂)",
+"nameKo": "성광의방패강타"
+},
+{
+"server": "台服",
+"start": "2026-02-16",
+"end": "2026-02-26",
+"base": "복각",
+"kind": "환령",
+"name": "智慧巨人‧密米爾",
+"nameKo": "미미르"
+},
+{
+"server": "台服",
+"start": "2026-02-16",
+"end": "2026-02-26",
+"base": "복각",
+"kind": "환령",
+"name": "腐敗花蕾‧寧蘿絲",
+"nameKo": "님로스"
+},
+{
+"server": "台服",
+"start": "2026-02-16",
+"end": "2026-02-26",
+"base": "복각",
+"kind": "환령",
+"name": "青銅神姬‧塔蘿絲",
+"nameKo": "탈로스"
+},
+{
+"server": "台服",
+"start": "2026-02-19",
+"end": "2026-03-05",
+"base": "복각",
+"kind": "환령",
+"name": "智慧女神",
+"nameKo": "지혜의여신"
+},
+{
+"server": "台服",
+"start": "2026-02-19",
+"end": "2026-03-05",
+"base": "복각",
+"kind": "환령",
+"name": "愛神",
+"nameKo": "사랑의여신"
+},
+{
+"server": "台服",
+"start": "2026-02-19",
+"end": "2026-03-05",
+"base": "복각",
+"kind": "환령",
+"name": "太陽神",
+"nameKo": "태양신"
+},
+{
+"server": "台服",
+"start": "2026-02-19",
+"end": "2026-02-26",
+"base": "복각",
+"kind": "환령",
+"name": "四聖‧青龍",
+"nameKo": "청룡"
+},
+{
+"server": "台服",
+"start": "2026-02-19",
+"end": "2026-02-26",
+"base": "복각",
+"kind": "환령",
+"name": "湖中仙女‧薇薇安",
+"nameKo": "비비안"
+},
+{
+"server": "台服",
 "start": "2026-02-19",
 "end": "2026-02-26",
 "base": "신규",
-"kind": "마물",
-"name": "마물 UP",
-"title": "【公告】2月18日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260217/7780.html"
+"kind": "보구",
+"name": "전용 보구",
+"nameKo": ""
 },
 {
 "server": "台服",
-"date": "2026-02-24",
 "start": "2026-02-26",
 "end": "2026-03-12",
 "base": "신규",
 "kind": "환령",
 "name": "亂世魔王",
-"title": "【公告】2月25日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260224/7784.html",
 "nameKo": "난세의마왕"
 },
 {
 "server": "台服",
-"date": "2026-03-04",
+"start": "2026-02-26",
+"end": "2026-03-05",
+"base": "신규",
+"kind": "아티팩트",
+"name": "死靈之書",
+"nameKo": "네크로노미콘"
+},
+{
+"server": "台服",
+"start": "2026-03-05",
+"end": "2026-03-19",
+"base": "복각",
+"kind": "환령",
+"name": "盜火之神",
+"nameKo": "불을훔친신"
+},
+{
+"server": "台服",
+"start": "2026-03-05",
+"end": "2026-03-19",
+"base": "복각",
+"kind": "환령",
+"name": "捷足之神",
+"nameKo": "빠른발의신"
+},
+{
+"server": "台服",
+"start": "2026-03-05",
+"end": "2026-03-19",
+"base": "복각",
+"kind": "환령",
+"name": "雷神",
+"nameKo": "천둥의신"
+},
+{
+"server": "台服",
 "start": "2026-03-05",
 "end": "2026-03-12",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】3月4日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260304/7800.html"
+"name": "奧魔光環",
+"nameKo": "궁극·마법오라"
 },
 {
 "server": "台服",
-"date": "2026-03-11",
+"start": "2026-03-05",
+"end": "2026-03-12",
+"base": "신규",
+"kind": "마법",
+"name": "閃療光環",
+"nameKo": "회피·치유오라"
+},
+{
+"server": "台服",
+"start": "2026-03-05",
+"end": "2026-03-12",
+"base": "신규",
+"kind": "마법",
+"name": "瓦解咆哮",
+"nameKo": "붕괴의포효"
+},
+{
+"server": "台服",
+"start": "2026-03-05",
+"end": "2026-03-12",
+"base": "신규",
+"kind": "마법",
+"name": "疾雷幻身",
+"nameKo": "질뢰의환영"
+},
+{
+"server": "台服",
 "start": "2026-03-12",
 "end": "2026-03-26",
 "base": "신규",
 "kind": "환령",
 "name": "北境女王",
-"title": "【公告】3月11日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260311/7822.html",
 "nameKo": "북방의여왕"
 },
 {
 "server": "台服",
-"date": "2026-03-11",
 "start": "2026-03-12",
 "end": "2026-03-19",
 "base": "신규",
 "kind": "마물",
-"name": "마물 UP",
-"title": "【公告】3月11日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260311/7822.html"
+"name": "往生神裔",
+"nameKo": "왕생신족"
 },
 {
 "server": "台服",
-"date": "2026-03-17",
+"start": "2026-03-12",
+"end": "2026-03-19",
+"base": "신규",
+"kind": "마물",
+"name": "尼祿神裔",
+"nameKo": "나일신족"
+},
+{
+"server": "台服",
+"start": "2026-03-12",
+"end": "2026-03-19",
+"base": "신규",
+"kind": "마물",
+"name": "黃沙神裔",
+"nameKo": "사막신족"
+},
+{
+"server": "台服",
+"start": "2026-03-19",
+"end": "2026-04-02",
+"base": "복각",
+"kind": "환령",
+"name": "死亡女神",
+"nameKo": "죽음의여신"
+},
+{
+"server": "台服",
+"start": "2026-03-19",
+"end": "2026-04-02",
+"base": "복각",
+"kind": "환령",
+"name": "捷足之神",
+"nameKo": "빠른발의신"
+},
+{
+"server": "台服",
+"start": "2026-03-19",
+"end": "2026-04-02",
+"base": "복각",
+"kind": "환령",
+"name": "戰神",
+"nameKo": "전쟁의신"
+},
+{
+"server": "台服",
+"start": "2026-03-19",
+"end": "2026-03-26",
+"base": "복각",
+"kind": "환령",
+"name": "無雙劍豪‧凜",
+"nameKo": "린"
+},
+{
+"server": "台服",
+"start": "2026-03-19",
+"end": "2026-03-26",
+"base": "복각",
+"kind": "환령",
+"name": "鐵腕執政官‧克拉蘇",
+"nameKo": "크라수스"
+},
+{
+"server": "台服",
+"start": "2026-03-19",
+"end": "2026-03-26",
+"base": "복각",
+"kind": "환령",
+"name": "惡欲魔王‧阿斯莫德",
+"nameKo": "아스모데우스"
+},
+{
+"server": "台服",
 "start": "2026-03-19",
 "end": "2026-03-26",
 "base": "신규",
 "kind": "아티팩트",
-"name": "아티팩트 UP",
-"title": "【公告】3月18日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260317/7838.html"
+"name": "商神權杖",
+"nameKo": "헤르메스의 지팡이"
 },
 {
 "server": "台服",
-"date": "2026-03-24",
 "start": "2026-03-26",
 "end": "2026-04-09",
 "base": "신규",
 "kind": "환령",
 "name": "示巴女王",
-"title": "【公告】3月25日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260324/7851.html",
 "nameKo": "待翻译"
 },
 {
 "server": "台服",
-"date": "2026-03-24",
 "start": "2026-03-26",
 "end": "2026-04-02",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】3月25日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260324/7851.html"
+"name": "物魔光環",
+"nameKo": "물리·마법오라"
 },
 {
 "server": "台服",
-"date": "2026-04-02",
-"start": "2026-04-02",
-"end": "",
+"start": "2026-03-26",
+"end": "2026-04-02",
 "base": "신규",
-"kind": "보구",
-"name": "卓越效果",
-"title": "【公告】4月2日臨時維護",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260402/7880.html"
+"kind": "마법",
+"name": "盾擋光環",
+"nameKo": "방패·막기오라"
 },
 {
 "server": "台服",
-"date": "2026-04-02",
-"start": "2026-04-02",
-"end": "",
+"start": "2026-03-26",
+"end": "2026-04-02",
 "base": "신규",
-"kind": "보구",
-"name": "技能效果及說明文本，詳細如下",
-"title": "【公告】4月2日臨時維護",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260402/7880.html"
+"kind": "마법",
+"name": "魂承咆哮(彼岸 )",
+"nameKo": "계승의포효"
 },
 {
 "server": "台服",
-"date": "2026-04-02",
 "start": "2026-04-02",
-"end": "",
-"base": "신규",
-"kind": "보구",
-"name": "【朱雀羽扇】 卓越 修改前",
-"title": "【公告】4月2日臨時維護",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260402/7880.html",
+"end": "2026-04-16",
+"base": "복각",
+"kind": "환령",
+"name": "智慧女神",
+"nameKo": "지혜의여신"
+},
+{
+"server": "台服",
+"start": "2026-04-02",
+"end": "2026-04-16",
+"base": "복각",
+"kind": "환령",
+"name": "愛神",
+"nameKo": "사랑의여신"
+},
+{
+"server": "台服",
+"start": "2026-04-02",
+"end": "2026-04-16",
+"base": "복각",
+"kind": "환령",
+"name": "太陽神",
+"nameKo": "태양신"
+},
+{
+"server": "台服",
+"start": "2026-04-02",
+"end": "2026-04-09",
+"base": "복각",
+"kind": "환령",
+"name": "四聖‧朱雀",
 "nameKo": "주작"
 },
 {
 "server": "台服",
-"date": "2026-04-02",
-"start": "2026-04-02",
-"end": "",
-"base": "신규",
-"kind": "보구",
-"name": "【聖劍碎片】 卓越 修改前",
-"title": "【公告】4月2日臨時維護",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260402/7880.html"
-},
-{
-"server": "台服",
-"date": "2026-03-31",
 "start": "2026-04-02",
 "end": "2026-04-09",
-"base": "신규",
-"kind": "마물",
-"name": "마물 UP",
-"title": "【公告】4月1日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260331/7871.html"
+"base": "복각",
+"kind": "환령",
+"name": "霜星獵手‧俄里翁",
+"nameKo": "오리온"
 },
 {
 "server": "台服",
-"date": "2026-04-08",
+"start": "2026-04-02",
+"end": "2026-04-16",
+"base": "신규",
+"kind": "보구",
+"name": "전용 보구",
+"nameKo": ""
+},
+{
+"server": "台服",
 "start": "2026-04-09",
 "end": "2026-04-23",
 "base": "신규",
 "kind": "환령",
 "name": "絕代妖狐",
-"title": "【公告】4月9日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260408/7890.html",
 "nameKo": "절세 요호"
 },
 {
 "server": "台服",
-"date": "2026-04-14",
+"start": "2026-04-09",
+"end": "2026-04-16",
+"base": "신규",
+"kind": "아티팩트",
+"name": "金剛杵",
+"nameKo": "바즈라"
+},
+{
+"server": "台服",
+"start": "2026-04-16",
+"end": "2026-04-30",
+"base": "복각",
+"kind": "환령",
+"name": "大力神",
+"nameKo": "헤라클레스"
+},
+{
+"server": "台服",
+"start": "2026-04-16",
+"end": "2026-04-30",
+"base": "복각",
+"kind": "환령",
+"name": "盜火之神",
+"nameKo": "불을훔친신"
+},
+{
+"server": "台服",
+"start": "2026-04-16",
+"end": "2026-04-30",
+"base": "복각",
+"kind": "환령",
+"name": "冥府之王",
+"nameKo": "저승의지배자"
+},
+{
+"server": "台服",
 "start": "2026-04-16",
 "end": "2026-04-23",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】4月15日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260414/7911.html"
+"name": "暴中光環",
+"nameKo": "치명 오라"
 },
 {
 "server": "台服",
-"date": "2026-04-21",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마법",
+"name": "魔抗光環",
+"nameKo": "마법저항 오라"
+},
+{
+"server": "台服",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마법",
+"name": "恩澤咆哮",
+"nameKo": "은총 포효"
+},
+{
+"server": "台服",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마법",
+"name": "奧法傳承",
+"nameKo": "전승"
+},
+{
+"server": "台服",
 "start": "2026-04-23",
 "end": "2026-05-07",
 "base": "신규",
 "kind": "환령",
 "name": "英魂統領",
-"title": "【公告】4月22日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260421/7928.html",
 "nameKo": "영혼 통령"
 },
 {
 "server": "台服",
-"date": "2026-04-21",
 "start": "2026-04-23",
 "end": "2026-04-30",
 "base": "신규",
 "kind": "마물",
-"name": "마물 UP",
-"title": "【公告】4月22日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260421/7928.html"
+"name": "大蟒神",
+"nameKo": "마후라가"
 },
 {
 "server": "台服",
-"date": "2026-04-28",
+"start": "2026-04-23",
+"end": "2026-04-30",
+"base": "신규",
+"kind": "마물",
+"name": "大鵬金翅鳥",
+"nameKo": "금시조"
+},
+{
+"server": "台服",
+"start": "2026-04-23",
+"end": "2026-04-30",
+"base": "신규",
+"kind": "마물",
+"name": "乾達天女",
+"nameKo": "간다르바천녀"
+},
+{
+"server": "台服",
+"start": "2026-04-30",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "환령",
+"name": "死亡女神",
+"nameKo": "죽음의여신"
+},
+{
+"server": "台服",
+"start": "2026-04-30",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "환령",
+"name": "大力神",
+"nameKo": "헤라클레스"
+},
+{
+"server": "台服",
+"start": "2026-04-30",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "환령",
+"name": "詭計之神",
+"nameKo": "계략의신"
+},
+{
+"server": "台服",
+"start": "2026-04-30",
+"end": "2026-05-07",
+"base": "복각",
+"kind": "환령",
+"name": "鍛火龍姬‧杜瓦林",
+"nameKo": "두발린"
+},
+{
+"server": "台服",
+"start": "2026-04-30",
+"end": "2026-05-07",
+"base": "복각",
+"kind": "환령",
+"name": "斷罪之翼‧安達瓦莉",
+"nameKo": "단죄의날개"
+},
+{
+"server": "台服",
+"start": "2026-04-30",
+"end": "2026-05-07",
+"base": "복각",
+"kind": "환령",
+"name": "七紗舞孃‧莎樂美",
+"nameKo": "살로메"
+},
+{
+"server": "台服",
 "start": "2026-04-30",
 "end": "2026-05-07",
 "base": "신규",
 "kind": "아티팩트",
-"name": "아티팩트 UP",
-"title": "【公告】4月29日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260428/7948.html"
+"name": "安卡神符",
+"nameKo": "앙크 부적"
 },
 {
 "server": "台服",
-"date": "2026-05-05",
 "start": "2026-05-07",
 "end": "2026-05-21",
 "base": "신규",
 "kind": "환령",
 "name": "破魔巫女",
-"title": "【公告】5月6日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260505/7968.html",
 "nameKo": "파마 무녀"
 },
 {
 "server": "台服",
-"date": "2026-05-05",
 "start": "2026-05-07",
 "end": "2026-05-14",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】5月6日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260505/7968.html"
+"name": "奧魔光環",
+"nameKo": "궁극·마법오라"
 },
 {
 "server": "台服",
-"date": "2026-05-13",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "신규",
+"kind": "마법",
+"name": "閃療光環",
+"nameKo": "회피·치유오라"
+},
+{
+"server": "台服",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "신규",
+"kind": "마법",
+"name": "瓦解咆哮(元素 )",
+"nameKo": "붕괴의포효"
+},
+{
+"server": "台服",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "신규",
+"kind": "마법",
+"name": "疾雷幻身(元素)",
+"nameKo": "질뢰의환영"
+},
+{
+"server": "台服",
+"start": "2026-05-14",
+"end": "2026-05-28",
+"base": "복각",
+"kind": "환령",
+"name": "雷神",
+"nameKo": "천둥의신"
+},
+{
+"server": "台服",
+"start": "2026-05-14",
+"end": "2026-05-28",
+"base": "복각",
+"kind": "환령",
+"name": "智慧女神",
+"nameKo": "지혜의여신"
+},
+{
+"server": "台服",
+"start": "2026-05-14",
+"end": "2026-05-28",
+"base": "복각",
+"kind": "환령",
+"name": "太陽神",
+"nameKo": "태양신"
+},
+{
+"server": "台服",
 "start": "2026-05-14",
 "end": "2026-05-21",
-"base": "신규",
-"kind": "마물",
-"name": "마물 UP",
-"title": "【公告】5月13日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260513/7984.html"
+"base": "복각",
+"kind": "환령",
+"name": "幽冥公主‧札格柔絲",
+"nameKo": "저승의공주"
 },
 {
 "server": "台服",
-"date": "2026-05-19",
+"start": "2026-05-14",
+"end": "2026-05-21",
+"base": "복각",
+"kind": "환령",
+"name": "青銅神姬‧塔蘿絲",
+"nameKo": "탈로스"
+},
+{
+"server": "台服",
+"start": "2026-05-14",
+"end": "2026-05-28",
+"base": "신규",
+"kind": "보구",
+"name": "전용 보구",
+"nameKo": ""
+},
+{
+"server": "台服",
 "start": "2026-05-21",
 "end": "2026-06-04",
 "base": "신규",
 "kind": "환령",
 "name": "鷹之勇者",
-"title": "【公告】5月20日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260519/7997.html",
 "nameKo": "빛매의용사"
 },
 {
 "server": "台服",
-"date": "2026-05-27",
-"start": "2026-05-27",
-"end": "",
+"start": "2026-05-21",
+"end": "2026-05-28",
 "base": "신규",
-"kind": "보구",
-"name": "【夜譚神燈】極致效果錯誤生效問題",
-"title": "【公告】5月27日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260527/8012.html"
+"kind": "아티팩트",
+"name": "商神權杖",
+"nameKo": "헤르메스의 지팡이"
 },
 {
 "server": "台服",
-"date": "2026-05-27",
+"start": "2026-05-28",
+"end": "2026-06-11",
+"base": "복각",
+"kind": "환령",
+"name": "眾神之王",
+"nameKo": "제우스"
+},
+{
+"server": "台服",
+"start": "2026-05-28",
+"end": "2026-06-11",
+"base": "복각",
+"kind": "환령",
+"name": "愛神",
+"nameKo": "사랑의여신"
+},
+{
+"server": "台服",
+"start": "2026-05-28",
+"end": "2026-06-11",
+"base": "복각",
+"kind": "환령",
+"name": "戰神",
+"nameKo": "전쟁의신"
+},
+{
+"server": "台服",
+"start": "2026-05-28",
+"end": "2026-06-11",
+"base": "복각",
+"kind": "환령",
+"name": "眾神之王 ‧宙斯 ！",
+"nameKo": "제우스"
+},
+{
+"server": "台服",
 "start": "2026-05-28",
 "end": "2026-06-04",
 "base": "신규",
 "kind": "마법",
-"name": "마법 UP",
-"title": "【公告】5月27日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260527/8012.html"
+"name": "破中光環",
+"nameKo": "관통 오라"
 },
 {
 "server": "台服",
-"date": "2026-06-02",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마법",
+"name": "擋抗光環",
+"nameKo": "막기 오라"
+},
+{
+"server": "台服",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마법",
+"name": "淨癒咆哮",
+"nameKo": "정화 포효"
+},
+{
+"server": "台服",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마법",
+"name": "堅毅不倒",
+"nameKo": "불굴"
+},
+{
+"server": "台服",
 "start": "2026-06-04",
 "end": "2026-06-18",
 "base": "신규",
 "kind": "환령",
 "name": "四聖玄武",
-"title": "【公告】6月3日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260602/8026.html",
 "nameKo": "사성수"
 },
 {
 "server": "台服",
-"date": "2026-06-02",
 "start": "2026-06-04",
 "end": "2026-06-11",
 "base": "신규",
 "kind": "마물",
-"name": "마물 UP",
-"title": "【公告】6月3日維護更新",
-"url": "https://sod.game-beans.com/jx/sodNotice/20260602/8026.html"
+"name": "有求必應帽",
+"nameKo": ""
+},
+{
+"server": "台服",
+"start": "2026-06-04",
+"end": "2026-06-11",
+"base": "신규",
+"kind": "마물",
+"name": "問答魔鏡",
+"nameKo": ""
+},
+{
+"server": "台服",
+"start": "2026-06-04",
+"end": "2026-06-11",
+"base": "신규",
+"kind": "마물",
+"name": "送信貓頭鷹",
+"nameKo": ""
 }
 ]
