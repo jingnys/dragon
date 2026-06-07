@@ -7,7 +7,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813001_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 9,
+"max": 45
+},
+{
+"name": "아레나 피해 감소",
+"min": 27,
+"max": 135
+}
+]
 },
 {
 "id": 813002,
@@ -17,7 +29,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813002_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 12,
+"max": 60
+},
+{
+"name": "아레나 피해 감소",
+"min": 24,
+"max": 120
+}
+]
 },
 {
 "id": 813003,
@@ -27,7 +51,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813003_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 18,
+"max": 90
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 813004,
@@ -37,7 +73,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813004_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 24,
+"max": 120
+},
+{
+"name": "아레나 피해 감소",
+"min": 12,
+"max": 60
+}
+]
 },
 {
 "id": 813005,
@@ -47,7 +95,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813005_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 27,
+"max": 135
+},
+{
+"name": "아레나 피해 감소",
+"min": 9,
+"max": 45
+}
+]
 },
 {
 "id": 813006,
@@ -57,7 +117,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813006_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 9,
+"max": 45
+},
+{
+"name": "아레나 피해 감소",
+"min": 27,
+"max": 135
+}
+]
 },
 {
 "id": 813007,
@@ -67,7 +139,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813007_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 12,
+"max": 60
+},
+{
+"name": "아레나 피해 감소",
+"min": 24,
+"max": 120
+}
+]
 },
 {
 "id": 813008,
@@ -77,7 +161,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813008_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 18,
+"max": 90
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 813009,
@@ -87,7 +183,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813009_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 24,
+"max": 120
+},
+{
+"name": "아레나 피해 감소",
+"min": 12,
+"max": 60
+}
+]
 },
 {
 "id": 813010,
@@ -97,7 +205,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813010_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 27,
+"max": 135
+},
+{
+"name": "아레나 피해 감소",
+"min": 9,
+"max": 45
+}
+]
 },
 {
 "id": 813011,
@@ -107,7 +227,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813011_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 9,
+"max": 45
+},
+{
+"name": "아레나 피해 감소",
+"min": 27,
+"max": 135
+}
+]
 },
 {
 "id": 813012,
@@ -117,7 +249,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813012_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 12,
+"max": 60
+},
+{
+"name": "아레나 피해 감소",
+"min": 24,
+"max": 120
+}
+]
 },
 {
 "id": 813013,
@@ -127,7 +271,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813013_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 18,
+"max": 90
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 813014,
@@ -137,7 +293,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813014_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 24,
+"max": 120
+},
+{
+"name": "아레나 피해 감소",
+"min": 12,
+"max": 60
+}
+]
 },
 {
 "id": 813015,
@@ -147,7 +315,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813015_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 27,
+"max": 135
+},
+{
+"name": "아레나 피해 감소",
+"min": 9,
+"max": 45
+}
+]
 },
 {
 "id": 813016,
@@ -157,7 +337,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_813016_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 18,
+"max": 90
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 814001,
@@ -167,7 +359,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814001_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 18,
+"max": 90
+},
+{
+"name": "아레나 피해 감소",
+"min": 54,
+"max": 270
+}
+]
 },
 {
 "id": 814002,
@@ -177,7 +381,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814002_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 24,
+"max": 120
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 240
+}
+]
 },
 {
 "id": 814003,
@@ -187,7 +403,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814003_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 240
+},
+{
+"name": "아레나 피해 감소",
+"min": 24,
+"max": 120
+}
+]
 },
 {
 "id": 814004,
@@ -197,7 +425,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814004_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 54,
+"max": 270
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 814005,
@@ -207,7 +447,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814005_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 18,
+"max": 90
+},
+{
+"name": "아레나 피해 감소",
+"min": 54,
+"max": 270
+}
+]
 },
 {
 "id": 814006,
@@ -217,7 +469,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814006_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 24,
+"max": 120
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 240
+}
+]
 },
 {
 "id": 814007,
@@ -227,7 +491,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814007_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 180
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 180
+}
+]
 },
 {
 "id": 814008,
@@ -237,7 +513,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814008_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 240
+},
+{
+"name": "아레나 피해 감소",
+"min": 24,
+"max": 120
+}
+]
 },
 {
 "id": 814009,
@@ -247,7 +535,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814009_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 54,
+"max": 270
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 814010,
@@ -257,7 +557,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814010_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 180
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 180
+}
+]
 },
 {
 "id": 814011,
@@ -267,7 +579,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814011_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 18,
+"max": 90
+},
+{
+"name": "아레나 피해 감소",
+"min": 54,
+"max": 270
+}
+]
 },
 {
 "id": 814012,
@@ -277,7 +601,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814012_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 24,
+"max": 120
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 240
+}
+]
 },
 {
 "id": 814013,
@@ -287,7 +623,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814013_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 240
+},
+{
+"name": "아레나 피해 감소",
+"min": 24,
+"max": 120
+}
+]
 },
 {
 "id": 814014,
@@ -297,7 +645,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814014_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 54,
+"max": 270
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 814015,
@@ -307,7 +667,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814015_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 24,
+"max": 120
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 240
+}
+]
 },
 {
 "id": 814016,
@@ -317,7 +689,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814016_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 18,
+"max": 90
+},
+{
+"name": "아레나 피해 감소",
+"min": 54,
+"max": 270
+}
+]
 },
 {
 "id": 814017,
@@ -327,7 +711,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814017_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 54,
+"max": 270
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 814018,
@@ -337,7 +733,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814018_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 54,
+"max": 270
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 814019,
@@ -347,7 +755,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814019_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 240
+},
+{
+"name": "아레나 피해 감소",
+"min": 24,
+"max": 120
+}
+]
 },
 {
 "id": 814020,
@@ -357,7 +777,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814020_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 240
+},
+{
+"name": "아레나 피해 감소",
+"min": 24,
+"max": 120
+}
+]
 },
 {
 "id": 814021,
@@ -367,7 +799,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814021_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 180
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 180
+}
+]
 },
 {
 "id": 814022,
@@ -377,7 +821,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814022_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 180
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 180
+}
+]
 },
 {
 "id": 814023,
@@ -387,7 +843,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814023_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 24,
+"max": 120
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 240
+}
+]
 },
 {
 "id": 814024,
@@ -397,7 +865,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814024_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 18,
+"max": 90
+},
+{
+"name": "아레나 피해 감소",
+"min": 54,
+"max": 270
+}
+]
 },
 {
 "id": 814025,
@@ -407,7 +887,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814025_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 24,
+"max": 120
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 240
+}
+]
 },
 {
 "id": 814026,
@@ -417,7 +909,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814026_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 180
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 180
+}
+]
 },
 {
 "id": 814027,
@@ -427,7 +931,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814027_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 18,
+"max": 90
+},
+{
+"name": "아레나 피해 감소",
+"min": 54,
+"max": 270
+}
+]
 },
 {
 "id": 814028,
@@ -437,7 +953,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814028_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 54,
+"max": 270
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 814029,
@@ -447,7 +975,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814029_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 180
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 180
+}
+]
 },
 {
 "id": 814030,
@@ -457,7 +997,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814030_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 24,
+"max": 120
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 240
+}
+]
 },
 {
 "id": 814031,
@@ -467,7 +1019,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814031_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 240
+},
+{
+"name": "아레나 피해 감소",
+"min": 24,
+"max": 120
+}
+]
 },
 {
 "id": 814032,
@@ -477,7 +1041,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_814032_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 54,
+"max": 270
+},
+{
+"name": "아레나 피해 감소",
+"min": 18,
+"max": 90
+}
+]
 },
 {
 "id": 815001,
@@ -487,7 +1063,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815001_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 815002,
@@ -497,7 +1085,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815002_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 312
+},
+{
+"name": "아레나 피해 감소",
+"min": 96,
+"max": 624
+}
+]
 },
 {
 "id": 815003,
@@ -507,7 +1107,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815003_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 815004,
@@ -517,7 +1129,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815004_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 96,
+"max": 624
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 312
+}
+]
 },
 {
 "id": 815005,
@@ -527,7 +1151,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815005_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 815006,
@@ -537,7 +1173,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815006_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 815007,
@@ -547,7 +1195,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815007_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 312
+},
+{
+"name": "아레나 피해 감소",
+"min": 96,
+"max": 624
+}
+]
 },
 {
 "id": 815008,
@@ -557,7 +1217,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815008_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 815009,
@@ -567,7 +1239,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815009_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 96,
+"max": 624
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 312
+}
+]
 },
 {
 "id": 815010,
@@ -577,7 +1261,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815010_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 815011,
@@ -587,7 +1283,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815011_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 815012,
@@ -597,7 +1305,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815012_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 815013,
@@ -607,7 +1327,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815013_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 96,
+"max": 624
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 312
+}
+]
 },
 {
 "id": 815014,
@@ -617,7 +1349,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815014_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 815015,
@@ -627,7 +1371,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815015_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 96,
+"max": 624
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 312
+}
+]
 },
 {
 "id": 815016,
@@ -637,7 +1393,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815016_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 815017,
@@ -647,7 +1415,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815017_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 815018,
@@ -657,7 +1437,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815018_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 312
+},
+{
+"name": "아레나 피해 감소",
+"min": 96,
+"max": 624
+}
+]
 },
 {
 "id": 815019,
@@ -667,7 +1459,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815019_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 312
+},
+{
+"name": "아레나 피해 감소",
+"min": 96,
+"max": 624
+}
+]
 },
 {
 "id": 815020,
@@ -677,7 +1481,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815020_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 96,
+"max": 624
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 312
+}
+]
 },
 {
 "id": 815021,
@@ -687,7 +1503,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815021_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 815022,
@@ -697,7 +1525,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815022_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 815024,
@@ -707,7 +1547,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815024_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 815025,
@@ -717,7 +1569,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815025_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 815026,
@@ -727,7 +1591,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815026_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 312
+},
+{
+"name": "아레나 피해 감소",
+"min": 96,
+"max": 624
+}
+]
 },
 {
 "id": 815027,
@@ -737,7 +1613,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815027_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 815028,
@@ -747,7 +1635,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815028_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 312
+},
+{
+"name": "아레나 피해 감소",
+"min": 96,
+"max": 624
+}
+]
 },
 {
 "id": 815029,
@@ -757,7 +1657,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815029_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 312
+},
+{
+"name": "아레나 피해 감소",
+"min": 96,
+"max": 624
+}
+]
 },
 {
 "id": 815030,
@@ -767,7 +1679,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815030_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 815031,
@@ -777,7 +1701,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815031_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 96,
+"max": 624
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 312
+}
+]
 },
 {
 "id": 815032,
@@ -787,7 +1723,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815032_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 815033,
@@ -797,7 +1745,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815033_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 815034,
@@ -807,7 +1767,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815034_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 48,
+"max": 312
+},
+{
+"name": "아레나 피해 감소",
+"min": 96,
+"max": 624
+}
+]
 },
 {
 "id": 815035,
@@ -817,7 +1789,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815035_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 96,
+"max": 624
+},
+{
+"name": "아레나 피해 감소",
+"min": 48,
+"max": 312
+}
+]
 },
 {
 "id": 815036,
@@ -827,7 +1811,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815036_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 815037,
@@ -837,7 +1833,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815037_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 815038,
@@ -847,7 +1855,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_815038_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816001,
@@ -857,7 +1877,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816001_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 180,
+"max": 1170
+}
+]
 },
 {
 "id": 816002,
@@ -867,7 +1899,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816002_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 180,
+"max": 1170
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816003,
@@ -877,7 +1921,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816003_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 180,
+"max": 1170
+}
+]
 },
 {
 "id": 816004,
@@ -887,7 +1943,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816004_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 144,
+"max": 936
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 816005,
@@ -897,7 +1965,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816005_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 180,
+"max": 1170
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816006,
@@ -907,7 +1987,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816006_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 144,
+"max": 936
+}
+]
 },
 {
 "id": 816007,
@@ -917,7 +2009,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816007_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 816008,
@@ -927,7 +2031,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816008_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 180,
+"max": 1170
+}
+]
 },
 {
 "id": 816009,
@@ -937,7 +2053,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816009_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 144,
+"max": 936
+}
+]
 },
 {
 "id": 816010,
@@ -947,7 +2075,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816010_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 816011,
@@ -957,7 +2097,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816011_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 144,
+"max": 936
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 816012,
@@ -967,7 +2119,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816012_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 180,
+"max": 1170
+}
+]
 },
 {
 "id": 816013,
@@ -977,7 +2141,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816013_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 180,
+"max": 1170
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816014,
@@ -987,7 +2163,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816014_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 816015,
@@ -997,7 +2185,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816015_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 180,
+"max": 1170
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816016,
@@ -1007,7 +2207,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816016_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 180,
+"max": 1170
+}
+]
 },
 {
 "id": 816017,
@@ -1017,7 +2229,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816017_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 144,
+"max": 936
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 816018,
@@ -1027,7 +2251,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816018_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 144,
+"max": 936
+}
+]
 },
 {
 "id": 816019,
@@ -1037,7 +2273,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816019_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 816020,
@@ -1047,7 +2295,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816020_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 180,
+"max": 1170
+}
+]
 },
 {
 "id": 816021,
@@ -1057,7 +2317,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816021_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 180,
+"max": 1170
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816022,
@@ -1067,7 +2339,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816022_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 144,
+"max": 936
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 816023,
@@ -1077,7 +2361,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816023_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 144,
+"max": 936
+}
+]
 },
 {
 "id": 816024,
@@ -1087,7 +2383,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816024_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 816025,
@@ -1097,7 +2405,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816025_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 180,
+"max": 1170
+}
+]
 },
 {
 "id": 816026,
@@ -1107,7 +2427,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816026_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 180,
+"max": 1170
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816027,
@@ -1117,7 +2449,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816027_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 180,
+"max": 1170
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816028,
@@ -1127,7 +2471,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816028_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 144,
+"max": 936
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 816029,
@@ -1137,7 +2493,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816029_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 144,
+"max": 936
+}
+]
 },
 {
 "id": 816030,
@@ -1147,7 +2515,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816030_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 816031,
@@ -1157,7 +2537,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816031_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 180,
+"max": 1170
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816032,
@@ -1167,7 +2559,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816032_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 144,
+"max": 936
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 816033,
@@ -1177,7 +2581,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816033_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 108,
+"max": 702
+},
+{
+"name": "아레나 피해 감소",
+"min": 108,
+"max": 702
+}
+]
 },
 {
 "id": 816034,
@@ -1187,7 +2603,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816034_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 144,
+"max": 936
+}
+]
 },
 {
 "id": 816035,
@@ -1197,7 +2625,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816035_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 180,
+"max": 1170
+}
+]
 },
 {
 "id": 816036,
@@ -1207,7 +2647,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816036_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 144,
+"max": 936
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 816037,
@@ -1217,7 +2669,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816037_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 180,
+"max": 1170
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816038,
@@ -1227,7 +2691,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816038_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 36,
+"max": 234
+},
+{
+"name": "아레나 피해 감소",
+"min": 180,
+"max": 1170
+}
+]
 },
 {
 "id": 816039,
@@ -1237,7 +2713,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816039_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 72,
+"max": 468
+},
+{
+"name": "아레나 피해 감소",
+"min": 144,
+"max": 936
+}
+]
 },
 {
 "id": 816040,
@@ -1247,7 +2735,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816040_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 180,
+"max": 1170
+},
+{
+"name": "아레나 피해 감소",
+"min": 36,
+"max": 234
+}
+]
 },
 {
 "id": 816041,
@@ -1257,7 +2757,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_816041_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 144,
+"max": 936
+},
+{
+"name": "아레나 피해 감소",
+"min": 72,
+"max": 468
+}
+]
 },
 {
 "id": 818001,
@@ -1267,7 +2779,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_818001_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 720,
+"max": 3600
+},
+{
+"name": "아레나 피해 감소",
+"min": 144,
+"max": 720
+}
+]
 },
 {
 "id": 818002,
@@ -1277,7 +2801,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_818002_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 144,
+"max": 720
+},
+{
+"name": "아레나 피해 감소",
+"min": 720,
+"max": 3600
+}
+]
 },
 {
 "id": 818003,
@@ -1287,7 +2823,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_818003_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 576,
+"max": 2880
+},
+{
+"name": "아레나 피해 감소",
+"min": 288,
+"max": 1440
+}
+]
 },
 {
 "id": 818004,
@@ -1297,7 +2845,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_818004_custom.webp",
 "star": 7,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 288,
+"max": 1440
+},
+{
+"name": "아레나 피해 감소",
+"min": 576,
+"max": 2880
+}
+]
 },
 {
 "id": 819001,
@@ -1307,7 +2867,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819001_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 576,
+"max": 3744
+},
+{
+"name": "아레나 피해 감소",
+"min": 288,
+"max": 1872
+}
+]
 },
 {
 "id": 819002,
@@ -1317,7 +2889,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819002_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 432,
+"max": 2808
+},
+{
+"name": "아레나 피해 감소",
+"min": 432,
+"max": 2808
+}
+]
 },
 {
 "id": 819003,
@@ -1327,7 +2911,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819003_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 288,
+"max": 1872
+},
+{
+"name": "아레나 피해 감소",
+"min": 576,
+"max": 3744
+}
+]
 },
 {
 "id": 819004,
@@ -1337,7 +2933,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819004_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 576,
+"max": 3744
+},
+{
+"name": "아레나 피해 감소",
+"min": 288,
+"max": 1872
+}
+]
 },
 {
 "id": 819005,
@@ -1347,7 +2955,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819005_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 432,
+"max": 2808
+},
+{
+"name": "아레나 피해 감소",
+"min": 432,
+"max": 2808
+}
+]
 },
 {
 "id": 819006,
@@ -1357,7 +2977,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819006_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 288,
+"max": 1872
+},
+{
+"name": "아레나 피해 감소",
+"min": 576,
+"max": 3744
+}
+]
 },
 {
 "id": 819007,
@@ -1367,7 +2999,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819007_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 576,
+"max": 3744
+},
+{
+"name": "아레나 피해 감소",
+"min": 288,
+"max": 1872
+}
+]
 },
 {
 "id": 819008,
@@ -1377,7 +3021,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819008_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 432,
+"max": 2808
+},
+{
+"name": "아레나 피해 감소",
+"min": 432,
+"max": 2808
+}
+]
 },
 {
 "id": 819009,
@@ -1387,7 +3043,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819009_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 288,
+"max": 1872
+},
+{
+"name": "아레나 피해 감소",
+"min": 576,
+"max": 3744
+}
+]
 },
 {
 "id": 819010,
@@ -1397,7 +3065,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819010_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 576,
+"max": 3744
+},
+{
+"name": "아레나 피해 감소",
+"min": 288,
+"max": 1872
+}
+]
 },
 {
 "id": 819011,
@@ -1407,7 +3087,19 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819011_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 288,
+"max": 1872
+},
+{
+"name": "아레나 피해 감소",
+"min": 576,
+"max": 3744
+}
+]
 },
 {
 "id": 819012,
@@ -1417,6 +3109,18 @@
 "des": "",
 "icon": "demon/Sprite_Demon_819012_custom.webp",
 "star": 13,
-"level": 10
+"level": 10,
+"baseStats": [
+{
+"name": "아레나 피해 증가",
+"min": 432,
+"max": 2808
+},
+{
+"name": "아레나 피해 감소",
+"min": 432,
+"max": 2808
+}
+]
 }
 ]
