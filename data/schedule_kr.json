@@ -289,17 +289,6 @@
 "server": "한국",
 "start": "2026-01-12",
 "end": "",
-"base": "업데이트",
-"kind": "점검",
-"name": "PC 클라이언트 사전 예약 관련 업데이트 안내",
-"title": "PC 클라이언트 사전 예약 관련 업데이트 안내",
-"menu": "공지",
-"url": "https://cafe.naver.com/sodkr/797"
-},
-{
-"server": "한국",
-"start": "2026-01-12",
-"end": "",
 "base": "공지",
 "kind": "공지",
 "name": "[지크의 속닥속닥] 충전 환급 보상에 관하여! 지크가 전부 알려드릴게요!",
@@ -331,14 +320,14 @@
 },
 {
 "server": "한국",
-"start": "2026-01-13",
+"start": "2026-01-12",
 "end": "",
 "base": "업데이트",
 "kind": "점검",
-"name": "1월 13일(화) 무점검 패치 안내",
-"title": "1월 13일(화) 무점검 패치 안내",
+"name": "PC 클라이언트 사전 예약 관련 업데이트 안내",
+"title": "PC 클라이언트 사전 예약 관련 업데이트 안내",
 "menu": "공지",
-"url": "https://cafe.naver.com/sodkr/1001"
+"url": "https://cafe.naver.com/sodkr/797"
 },
 {
 "server": "한국",
@@ -372,6 +361,17 @@
 "title": "공식 PV로 보는 1월 13일(화) 정식 런칭 혜택 미리보기!",
 "menu": "공지",
 "url": "https://cafe.naver.com/sodkr/754"
+},
+{
+"server": "한국",
+"start": "2026-01-13",
+"end": "",
+"base": "업데이트",
+"kind": "점검",
+"name": "1월 13일(화) 무점검 패치 안내",
+"title": "1월 13일(화) 무점검 패치 안내",
+"menu": "공지",
+"url": "https://cafe.naver.com/sodkr/1001"
 },
 {
 "server": "한국",
@@ -409,17 +409,6 @@
 {
 "server": "한국",
 "start": "2026-01-16",
-"end": "2026-01-30",
-"base": "신규",
-"kind": "환령",
-"name": "가브리엘",
-"title": "1월 16일(금) 신규 이벤트 관련 안내",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/1305"
-},
-{
-"server": "한국",
-"start": "2026-01-16",
 "end": "",
 "base": "공지",
 "kind": "공지",
@@ -438,6 +427,18 @@
 "title": "[지크의 속닥속닥] 첫 충전 10%?! 혜택 가득 공식 결제 센터 오픈! 🎊(1월 16일 12:13 공식 결제 센터 링크 추가)",
 "menu": "공지",
 "url": "https://cafe.naver.com/sodkr/863"
+},
+{
+"server": "한국",
+"start": "2026-01-16",
+"end": "2026-01-30",
+"base": "신규",
+"kind": "환령",
+"name": "가브리엘",
+"title": "1월 16일(금) 신규 이벤트 관련 안내",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/1305",
+"nameKo": "가브리엘"
 },
 {
 "server": "한국",
@@ -475,17 +476,6 @@
 {
 "server": "한국",
 "start": "2026-01-27",
-"end": "2026-02-05",
-"base": "신규",
-"kind": "아티팩트",
-"name": "롱기누스의 창",
-"title": "1월 27일(화) 신규 이벤트 관련 안내 (교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/1876"
-},
-{
-"server": "한국",
-"start": "2026-01-27",
 "end": "",
 "base": "공지",
 "kind": "공지",
@@ -496,6 +486,18 @@
 },
 {
 "server": "한국",
+"start": "2026-01-27",
+"end": "2026-02-05",
+"base": "신규",
+"kind": "아티팩트",
+"name": "롱기누스의 창",
+"title": "1월 27일(화) 신규 이벤트 관련 안내 (교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/1876",
+"nameKo": "롱기누스의 창"
+},
+{
+"server": "한국",
 "start": "2026-01-29",
 "end": "2026-02-12",
 "base": "신규",
@@ -503,7 +505,8 @@
 "name": "비비안",
 "title": "1월 28일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/2153"
+"url": "https://cafe.naver.com/sodkr/2153",
+"nameKo": "비비안"
 },
 {
 "server": "한국",
@@ -525,7 +528,8 @@
 "name": "궁극 명중 오라",
 "title": "2월 4일(수) 업데이트 점검 안내 (교환 코드 포함!!) (2/6 19:06 내용 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/2624"
+"url": "https://cafe.naver.com/sodkr/2624",
+"nameKo": "궁극 명중 오라"
 },
 {
 "server": "한국",
@@ -536,7 +540,8 @@
 "name": "보호막 저항 오라",
 "title": "2월 4일(수) 업데이트 점검 안내 (교환 코드 포함!!) (2/6 19:06 내용 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/2624"
+"url": "https://cafe.naver.com/sodkr/2624",
+"nameKo": "보호막 저항 오라"
 },
 {
 "server": "한국",
@@ -547,7 +552,8 @@
 "name": "궁극의 포효",
 "title": "2월 4일(수) 업데이트 점검 안내 (교환 코드 포함!!) (2/6 19:06 내용 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/2624"
+"url": "https://cafe.naver.com/sodkr/2624",
+"nameKo": "궁극의 포효"
 },
 {
 "server": "한국",
@@ -558,7 +564,8 @@
 "name": "비법의 가호",
 "title": "2월 4일(수) 업데이트 점검 안내 (교환 코드 포함!!) (2/6 19:06 내용 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/2624"
+"url": "https://cafe.naver.com/sodkr/2624",
+"nameKo": "비법의 가호"
 },
 {
 "server": "한국",
@@ -602,7 +609,8 @@
 "name": "청룡",
 "title": "2월 11일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3009"
+"url": "https://cafe.naver.com/sodkr/3009",
+"nameKo": "청룡"
 },
 {
 "server": "한국",
@@ -613,7 +621,8 @@
 "name": "아마존 여전사",
 "title": "2월 11일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3009"
+"url": "https://cafe.naver.com/sodkr/3009",
+"nameKo": "아마존 여전사"
 },
 {
 "server": "한국",
@@ -624,7 +633,8 @@
 "name": "네메아의 사자",
 "title": "2월 11일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3009"
+"url": "https://cafe.naver.com/sodkr/3009",
+"nameKo": "네메아의 사자"
 },
 {
 "server": "한국",
@@ -635,7 +645,8 @@
 "name": "알페이오스 강신",
 "title": "2월 11일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3009"
+"url": "https://cafe.naver.com/sodkr/3009",
+"nameKo": "알페이오스 강신"
 },
 {
 "server": "한국",
@@ -646,7 +657,8 @@
 "name": "그림 속 인물",
 "title": "2월 11일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3009"
+"url": "https://cafe.naver.com/sodkr/3009",
+"nameKo": "그림 속 인물"
 },
 {
 "server": "한국",
@@ -657,7 +669,8 @@
 "name": "스팀팔로스의 새",
 "title": "2월 11일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3009"
+"url": "https://cafe.naver.com/sodkr/3009",
+"nameKo": "스팀팔로스의 새"
 },
 {
 "server": "한국",
@@ -668,7 +681,8 @@
 "name": "네모 선장",
 "title": "2월 11일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3009"
+"url": "https://cafe.naver.com/sodkr/3009",
+"nameKo": "네모 선장"
 },
 {
 "server": "한국",
@@ -701,7 +715,8 @@
 "name": "올림포스 성화",
 "title": "2월 18일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3500"
+"url": "https://cafe.naver.com/sodkr/3500",
+"nameKo": "올림포스 성화"
 },
 {
 "server": "한국",
@@ -712,7 +727,8 @@
 "name": "폼페이",
 "title": "2월 25일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3882"
+"url": "https://cafe.naver.com/sodkr/3882",
+"nameKo": "폼페이"
 },
 {
 "server": "한국",
@@ -723,7 +739,8 @@
 "name": "치명타 폭발 오라",
 "title": "2월 25일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3882"
+"url": "https://cafe.naver.com/sodkr/3882",
+"nameKo": "치명타 폭발 오라"
 },
 {
 "server": "한국",
@@ -734,7 +751,8 @@
 "name": "회피 흡수 오라",
 "title": "2월 25일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3882"
+"url": "https://cafe.naver.com/sodkr/3882",
+"nameKo": "회피 흡수 오라"
 },
 {
 "server": "한국",
@@ -745,7 +763,8 @@
 "name": "강타의 포효",
 "title": "2월 25일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3882"
+"url": "https://cafe.naver.com/sodkr/3882",
+"nameKo": "강타의 포효"
 },
 {
 "server": "한국",
@@ -756,7 +775,8 @@
 "name": "은총의 축복",
 "title": "2월 25일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/3882"
+"url": "https://cafe.naver.com/sodkr/3882",
+"nameKo": "은총의 축복"
 },
 {
 "server": "한국",
@@ -772,13 +792,73 @@
 {
 "server": "한국",
 "start": "2026-03-05",
+"end": "",
+"base": "공지",
+"kind": "공지",
+"name": "그놈은 드래곤  공동 창작 이벤트 종료 안내",
+"title": "그놈은 드래곤  공동 창작 이벤트 종료 안내",
+"menu": "공지",
+"url": "https://cafe.naver.com/sodkr/4443"
+},
+{
+"server": "한국",
+"start": "2026-03-05",
+"end": "2026-03-12",
+"base": "복각",
+"kind": "환령",
+"name": "이프리트",
+"title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "이프리트"
+},
+{
+"server": "한국",
+"start": "2026-03-05",
+"end": "2026-03-12",
+"base": "복각",
+"kind": "환령",
+"name": "마릴리스",
+"title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "마릴리스"
+},
+{
+"server": "한국",
+"start": "2026-03-05",
+"end": "2026-03-12",
+"base": "복각",
+"kind": "환령",
+"name": "가브리엘",
+"title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "가브리엘"
+},
+{
+"server": "한국",
+"start": "2026-03-05",
+"end": "2026-03-12",
+"base": "복각",
+"kind": "환령",
+"name": "헬베르",
+"title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "헬베르"
+},
+{
+"server": "한국",
+"start": "2026-03-05",
 "end": "2026-03-12",
 "base": "신규",
 "kind": "마물",
 "name": "마도 체스 킹",
 "title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "마도 체스 킹"
 },
 {
 "server": "한국",
@@ -789,7 +869,8 @@
 "name": "마도 체스 룩",
 "title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "마도 체스 룩"
 },
 {
 "server": "한국",
@@ -800,7 +881,8 @@
 "name": "티파티 주전자",
 "title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "티파티 주전자"
 },
 {
 "server": "한국",
@@ -811,7 +893,8 @@
 "name": "마도 체스 비숍",
 "title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "마도 체스 비숍"
 },
 {
 "server": "한국",
@@ -822,7 +905,8 @@
 "name": "마도 체스 나이트",
 "title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "마도 체스 나이트"
 },
 {
 "server": "한국",
@@ -833,7 +917,8 @@
 "name": "마도 체스 폰",
 "title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "마도 체스 폰"
 },
 {
 "server": "한국",
@@ -844,7 +929,8 @@
 "name": "티파티 캔들",
 "title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "티파티 캔들"
 },
 {
 "server": "한국",
@@ -855,7 +941,8 @@
 "name": "티파티 포크",
 "title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
+"url": "https://cafe.naver.com/sodkr/4295",
+"nameKo": "티파티 포크"
 },
 {
 "server": "한국",
@@ -870,58 +957,14 @@
 },
 {
 "server": "한국",
-"start": "2026-03-05",
-"end": "2026-03-12",
-"base": "복각",
-"kind": "환령",
-"name": "이프리트",
-"title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
-},
-{
-"server": "한국",
-"start": "2026-03-05",
-"end": "2026-03-12",
-"base": "복각",
-"kind": "환령",
-"name": "마릴리스",
-"title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
-},
-{
-"server": "한국",
-"start": "2026-03-05",
-"end": "2026-03-12",
-"base": "복각",
-"kind": "환령",
-"name": "가브리엘",
-"title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
-},
-{
-"server": "한국",
-"start": "2026-03-05",
-"end": "2026-03-12",
-"base": "복각",
-"kind": "환령",
-"name": "헬베르",
-"title": "3월 4일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4295"
-},
-{
-"server": "한국",
-"start": "2026-03-05",
+"start": "2026-03-06",
 "end": "",
 "base": "공지",
 "kind": "공지",
-"name": "그놈은 드래곤  공동 창작 이벤트 종료 안내",
-"title": "그놈은 드래곤  공동 창작 이벤트 종료 안내",
+"name": "🎊특별 소식🎊 WBC한국 대표팀 승리!! (교환 코드 포함!!)",
+"title": "🎊특별 소식🎊 WBC한국 대표팀 승리!! (교환 코드 포함!!)",
 "menu": "공지",
-"url": "https://cafe.naver.com/sodkr/4443"
+"url": "https://cafe.naver.com/sodkr/4519"
 },
 {
 "server": "한국",
@@ -944,17 +987,6 @@
 "title": "3월 6일(금) 임시 점검 안내",
 "menu": "업데이트&점검",
 "url": "https://cafe.naver.com/sodkr/4477"
-},
-{
-"server": "한국",
-"start": "2026-03-06",
-"end": "",
-"base": "공지",
-"kind": "공지",
-"name": "🎊특별 소식🎊 WBC한국 대표팀 승리!! (교환 코드 포함!!)",
-"title": "🎊특별 소식🎊 WBC한국 대표팀 승리!! (교환 코드 포함!!)",
-"menu": "공지",
-"url": "https://cafe.naver.com/sodkr/4519"
 },
 {
 "server": "한국",
@@ -998,7 +1030,8 @@
 "name": "홍",
 "title": "3월 11일(수) 업데이트 점검 안내 (3월 10일 20:00 업데이트 일시 변경&교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4711"
+"url": "https://cafe.naver.com/sodkr/4711",
+"nameKo": "홍"
 },
 {
 "server": "한국",
@@ -1009,7 +1042,8 @@
 "name": "성배",
 "title": "3월 11일(수) 업데이트 점검 안내 (3월 10일 20:00 업데이트 일시 변경&교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/4711"
+"url": "https://cafe.naver.com/sodkr/4711",
+"nameKo": "성배"
 },
 {
 "server": "한국",
@@ -1020,7 +1054,8 @@
 "name": "속공 오라",
 "title": "3월 18일(수) 업데이트 점검 안내(교환 코드 포함!!) (3/17 (수) 15:50 내용 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5042"
+"url": "https://cafe.naver.com/sodkr/5042",
+"nameKo": "속공 오라"
 },
 {
 "server": "한국",
@@ -1031,7 +1066,8 @@
 "name": "방패 치유 오라",
 "title": "3월 18일(수) 업데이트 점검 안내(교환 코드 포함!!) (3/17 (수) 15:50 내용 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5042"
+"url": "https://cafe.naver.com/sodkr/5042",
+"nameKo": "방패 치유 오라"
 },
 {
 "server": "한국",
@@ -1042,7 +1078,8 @@
 "name": "고무의 포효",
 "title": "3월 18일(수) 업데이트 점검 안내(교환 코드 포함!!) (3/17 (수) 15:50 내용 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5042"
+"url": "https://cafe.naver.com/sodkr/5042",
+"nameKo": "고무의 포효"
 },
 {
 "server": "한국",
@@ -1053,7 +1090,8 @@
 "name": "분노 연타",
 "title": "3월 18일(수) 업데이트 점검 안내(교환 코드 포함!!) (3/17 (수) 15:50 내용 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5042"
+"url": "https://cafe.naver.com/sodkr/5042",
+"nameKo": "분노 연타"
 },
 {
 "server": "한국",
@@ -1064,7 +1102,8 @@
 "name": "자그레우스",
 "title": "3월 25일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5402"
+"url": "https://cafe.naver.com/sodkr/5402",
+"nameKo": "자그레우스"
 },
 {
 "server": "한국",
@@ -1075,7 +1114,8 @@
 "name": "크레타 황소",
 "title": "3월 25일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5402"
+"url": "https://cafe.naver.com/sodkr/5402",
+"nameKo": "크레타 황소"
 },
 {
 "server": "한국",
@@ -1086,7 +1126,8 @@
 "name": "오페라의 유령",
 "title": "3월 25일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5402"
+"url": "https://cafe.naver.com/sodkr/5402",
+"nameKo": "오페라의 유령"
 },
 {
 "server": "한국",
@@ -1097,7 +1138,8 @@
 "name": "디오메데스의 암말",
 "title": "3월 25일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5402"
+"url": "https://cafe.naver.com/sodkr/5402",
+"nameKo": "디오메데스의 암말"
 },
 {
 "server": "한국",
@@ -1119,7 +1161,8 @@
 "name": "후크 선장",
 "title": "3월 25일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5402"
+"url": "https://cafe.naver.com/sodkr/5402",
+"nameKo": "후크 선장"
 },
 {
 "server": "한국",
@@ -1130,7 +1173,8 @@
 "name": "다람쥐 도적",
 "title": "3월 25일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5402"
+"url": "https://cafe.naver.com/sodkr/5402",
+"nameKo": "다람쥐 도적"
 },
 {
 "server": "한국",
@@ -1141,7 +1185,8 @@
 "name": "토끼 전령관",
 "title": "3월 25일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5402"
+"url": "https://cafe.naver.com/sodkr/5402",
+"nameKo": "토끼 전령관"
 },
 {
 "server": "한국",
@@ -1158,23 +1203,13 @@
 "server": "한국",
 "start": "2026-04-02",
 "end": "2026-04-09",
-"base": "신규",
-"kind": "아티팩트",
-"name": "포세이돈 삼지창",
-"title": "4월 1일(수) 업데이트 점검 안내",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5729"
-},
-{
-"server": "한국",
-"start": "2026-04-02",
-"end": "2026-04-09",
 "base": "복각",
 "kind": "환령",
 "name": "비비안",
 "title": "4월 1일(수) 업데이트 점검 안내",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5729"
+"url": "https://cafe.naver.com/sodkr/5729",
+"nameKo": "비비안"
 },
 {
 "server": "한국",
@@ -1185,7 +1220,8 @@
 "name": "청룡",
 "title": "4월 1일(수) 업데이트 점검 안내",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5729"
+"url": "https://cafe.naver.com/sodkr/5729",
+"nameKo": "청룡"
 },
 {
 "server": "한국",
@@ -1196,7 +1232,8 @@
 "name": "티르빙",
 "title": "4월 1일(수) 업데이트 점검 안내",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5729"
+"url": "https://cafe.naver.com/sodkr/5729",
+"nameKo": "티르빙"
 },
 {
 "server": "한국",
@@ -1207,7 +1244,44 @@
 "name": "두발린",
 "title": "4월 1일(수) 업데이트 점검 안내",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/5729"
+"url": "https://cafe.naver.com/sodkr/5729",
+"nameKo": "두발린"
+},
+{
+"server": "한국",
+"start": "2026-04-02",
+"end": "2026-04-09",
+"base": "신규",
+"kind": "아티팩트",
+"name": "포세이돈 삼지창",
+"title": "4월 1일(수) 업데이트 점검 안내",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/5729",
+"nameKo": "포세이돈 삼지창"
+},
+{
+"server": "한국",
+"start": "2026-04-09",
+"end": "2026-04-16",
+"base": "복각",
+"kind": "마법",
+"name": "궁극 명중 오라",
+"title": "4월 8일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6096",
+"nameKo": "궁극 명중 오라"
+},
+{
+"server": "한국",
+"start": "2026-04-09",
+"end": "2026-04-16",
+"base": "복각",
+"kind": "마법",
+"name": "보호막 저항 오라",
+"title": "4월 8일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6096",
+"nameKo": "보호막 저항 오라"
 },
 {
 "server": "한국",
@@ -1218,29 +1292,8 @@
 "name": "주작",
 "title": "4월 8일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6096"
-},
-{
-"server": "한국",
-"start": "2026-04-09",
-"end": "2026-04-16",
-"base": "신규",
-"kind": "마법",
-"name": "궁극 명중 오라",
-"title": "4월 8일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6096"
-},
-{
-"server": "한국",
-"start": "2026-04-09",
-"end": "2026-04-16",
-"base": "신규",
-"kind": "마법",
-"name": "보호막 저항 오라",
-"title": "4월 8일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6096"
+"url": "https://cafe.naver.com/sodkr/6096",
+"nameKo": "주작"
 },
 {
 "server": "한국",
@@ -1251,7 +1304,8 @@
 "name": "응축된 포효",
 "title": "4월 8일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6096"
+"url": "https://cafe.naver.com/sodkr/6096",
+"nameKo": "응축된 포효"
 },
 {
 "server": "한국",
@@ -1262,7 +1316,8 @@
 "name": "혹한의 위압",
 "title": "4월 8일(수) 업데이트 점검 안내 (교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6096"
+"url": "https://cafe.naver.com/sodkr/6096",
+"nameKo": "혹한의 위압"
 },
 {
 "server": "한국",
@@ -1278,189 +1333,14 @@
 {
 "server": "한국",
 "start": "2026-04-16",
-"end": "2026-04-30",
-"base": "신규",
-"kind": "보구",
-"name": "불꽃의 마법 주전자",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-30",
-"base": "신규",
-"kind": "보구",
-"name": "뱀의 신 칼날",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-30",
-"base": "신규",
-"kind": "보구",
-"name": "호부",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-30",
-"base": "신규",
-"kind": "보구",
-"name": "탄식의 창",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-30",
-"base": "신규",
-"kind": "보구",
-"name": "사랑의 영약",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-30",
-"base": "신규",
-"kind": "보구",
-"name": "사신의 두건",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-30",
-"base": "신규",
-"kind": "보구",
-"name": "리치의 혼 상자",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-23",
-"base": "신규",
-"kind": "마물",
-"name": "번개 검룡",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-23",
-"base": "신규",
-"kind": "마물",
-"name": "참천 거룡",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-23",
-"base": "신규",
-"kind": "마물",
-"name": "거대 검룡",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-23",
-"base": "신규",
-"kind": "마물",
-"name": "섬광룡",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-23",
-"base": "신규",
-"kind": "마물",
-"name": "호수 괴룡",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-23",
-"base": "신규",
-"kind": "마물",
-"name": "야만 각룡",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-23",
-"base": "신규",
-"kind": "마물",
-"name": "알 도둑 드래곤",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-23",
-"base": "신규",
-"kind": "마물",
-"name": "익룡",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
-"end": "2026-04-23",
-"base": "신규",
-"kind": "마물",
-"name": "마물",
-"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
-},
-{
-"server": "한국",
-"start": "2026-04-16",
 "end": "2026-04-23",
 "base": "복각",
 "kind": "환령",
 "name": "이프리트",
 "title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "이프리트"
 },
 {
 "server": "한국",
@@ -1471,7 +1351,8 @@
 "name": "마릴리스",
 "title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6497"
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "마릴리스"
 },
 {
 "server": "한국",
@@ -1480,6 +1361,198 @@
 "base": "복각",
 "kind": "환령",
 "name": "굴베이그",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "굴베이그"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-30",
+"base": "신규",
+"kind": "보구",
+"name": "불꽃의 마법 주전자",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "불꽃의 마법 주전자"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-30",
+"base": "신규",
+"kind": "보구",
+"name": "뱀의 신 칼날",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "뱀의 신 칼날"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-30",
+"base": "신규",
+"kind": "보구",
+"name": "호부",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "호부"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-30",
+"base": "신규",
+"kind": "보구",
+"name": "탄식의 창",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "탄식의 창"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-30",
+"base": "신규",
+"kind": "보구",
+"name": "사랑의 영약",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "사랑의 영약"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-30",
+"base": "신규",
+"kind": "보구",
+"name": "사신의 두건",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "사신의 두건"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-30",
+"base": "신규",
+"kind": "보구",
+"name": "리치의 혼 상자",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "리치의 혼 상자"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마물",
+"name": "번개 검룡",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "번개 검룡"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마물",
+"name": "참천 거룡",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "참천 거룡"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마물",
+"name": "거대 검룡",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "거대 검룡"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마물",
+"name": "섬광룡",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "섬광룡"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마물",
+"name": "호수 괴룡",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "호수 괴룡"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마물",
+"name": "야만 각룡",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "야만 각룡"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마물",
+"name": "알 도둑 드래곤",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "알 도둑 드래곤"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마물",
+"name": "익룡",
+"title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6497",
+"nameKo": "익룡"
+},
+{
+"server": "한국",
+"start": "2026-04-16",
+"end": "2026-04-23",
+"base": "신규",
+"kind": "마물",
+"name": "마물",
 "title": "4월 15일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
 "url": "https://cafe.naver.com/sodkr/6497"
@@ -1499,6 +1572,17 @@
 "server": "한국",
 "start": "2026-04-22",
 "end": "",
+"base": "공지",
+"kind": "공지",
+"name": "클라우드 업체 서버 장애로 인한 접속 불가 현상 복구 및 보상 안내",
+"title": "클라우드 업체 서버 장애로 인한 접속 불가 현상 복구 및 보상 안내",
+"menu": "공지",
+"url": "https://cafe.naver.com/sodkr/7055"
+},
+{
+"server": "한국",
+"start": "2026-04-22",
+"end": "",
 "base": "업데이트",
 "kind": "점검",
 "name": "4월 22일(수) 업데이트 점검 기간 연장 안내",
@@ -1508,14 +1592,15 @@
 },
 {
 "server": "한국",
-"start": "2026-04-22",
-"end": "",
-"base": "공지",
-"kind": "공지",
-"name": "클라우드 업체 서버 장애로 인한 접속 불가 현상 복구 및 보상 안내",
-"title": "클라우드 업체 서버 장애로 인한 접속 불가 현상 복구 및 보상 안내",
-"menu": "공지",
-"url": "https://cafe.naver.com/sodkr/7055"
+"start": "2026-04-23",
+"end": "2026-04-30",
+"base": "복각",
+"kind": "아티팩트",
+"name": "올림포스 성화",
+"title": "4월 22일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/6929",
+"nameKo": "올림포스 성화"
 },
 {
 "server": "한국",
@@ -1526,18 +1611,8 @@
 "name": "승전의 황녀 - 카이사르",
 "title": "4월 22일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6929"
-},
-{
-"server": "한국",
-"start": "2026-04-23",
-"end": "2026-04-30",
-"base": "신규",
-"kind": "아티팩트",
-"name": "올림포스 성화",
-"title": "4월 22일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/6929"
+"url": "https://cafe.naver.com/sodkr/6929",
+"nameKo": "카이사르"
 },
 {
 "server": "한국",
@@ -1548,7 +1623,8 @@
 "name": "신속한 마법 오라",
 "title": "4월 29일(수) 업데이트 점검 안내(교환 코드 포함!!) (4/28(화) 13:40 내용 수정)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7467"
+"url": "https://cafe.naver.com/sodkr/7467",
+"nameKo": "신속한 마법 오라"
 },
 {
 "server": "한국",
@@ -1559,7 +1635,8 @@
 "name": "막기 흡수 오라",
 "title": "4월 29일(수) 업데이트 점검 안내(교환 코드 포함!!) (4/28(화) 13:40 내용 수정)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7467"
+"url": "https://cafe.naver.com/sodkr/7467",
+"nameKo": "막기 흡수 오라"
 },
 {
 "server": "한국",
@@ -1570,7 +1647,8 @@
 "name": "정체의 포효",
 "title": "4월 29일(수) 업데이트 점검 안내(교환 코드 포함!!) (4/28(화) 13:40 내용 수정)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7467"
+"url": "https://cafe.naver.com/sodkr/7467",
+"nameKo": "정체의 포효"
 },
 {
 "server": "한국",
@@ -1581,7 +1659,104 @@
 "name": "교란 피로",
 "title": "4월 29일(수) 업데이트 점검 안내(교환 코드 포함!!) (4/28(화) 13:40 내용 수정)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7467"
+"url": "https://cafe.naver.com/sodkr/7467",
+"nameKo": "교란 피로"
+},
+{
+"server": "한국",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "마물",
+"name": "마도 체스 킹",
+"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/7865",
+"nameKo": "마도 체스 킹"
+},
+{
+"server": "한국",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "마물",
+"name": "마도 체스 룩",
+"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/7865",
+"nameKo": "마도 체스 룩"
+},
+{
+"server": "한국",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "마물",
+"name": "티파티 주전자",
+"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/7865",
+"nameKo": "티파티 주전자"
+},
+{
+"server": "한국",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "마물",
+"name": "마도 체스 비숍",
+"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/7865",
+"nameKo": "마도 체스 비숍"
+},
+{
+"server": "한국",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "마물",
+"name": "마도 체스 나이트",
+"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/7865",
+"nameKo": "마도 체스 나이트"
+},
+{
+"server": "한국",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "마물",
+"name": "마도 체스 폰",
+"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/7865",
+"nameKo": "마도 체스 폰"
+},
+{
+"server": "한국",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "마물",
+"name": "티파티 캔들",
+"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/7865",
+"nameKo": "티파티 캔들"
+},
+{
+"server": "한국",
+"start": "2026-05-07",
+"end": "2026-05-14",
+"base": "복각",
+"kind": "마물",
+"name": "티파티 포크",
+"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/7865",
+"nameKo": "티파티 포크"
 },
 {
 "server": "한국",
@@ -1592,95 +1767,8 @@
 "name": "시비모",
 "title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7865"
-},
-{
-"server": "한국",
-"start": "2026-05-07",
-"end": "2026-05-14",
-"base": "신규",
-"kind": "마물",
-"name": "마도 체스 킹",
-"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7865"
-},
-{
-"server": "한국",
-"start": "2026-05-07",
-"end": "2026-05-14",
-"base": "신규",
-"kind": "마물",
-"name": "마도 체스 룩",
-"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7865"
-},
-{
-"server": "한국",
-"start": "2026-05-07",
-"end": "2026-05-14",
-"base": "신규",
-"kind": "마물",
-"name": "티파티 주전자",
-"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7865"
-},
-{
-"server": "한국",
-"start": "2026-05-07",
-"end": "2026-05-14",
-"base": "신규",
-"kind": "마물",
-"name": "마도 체스 비숍",
-"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7865"
-},
-{
-"server": "한국",
-"start": "2026-05-07",
-"end": "2026-05-14",
-"base": "신규",
-"kind": "마물",
-"name": "마도 체스 나이트",
-"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7865"
-},
-{
-"server": "한국",
-"start": "2026-05-07",
-"end": "2026-05-14",
-"base": "신규",
-"kind": "마물",
-"name": "마도 체스 폰",
-"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7865"
-},
-{
-"server": "한국",
-"start": "2026-05-07",
-"end": "2026-05-14",
-"base": "신규",
-"kind": "마물",
-"name": "티파티 캔들",
-"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7865"
-},
-{
-"server": "한국",
-"start": "2026-05-07",
-"end": "2026-05-14",
-"base": "신규",
-"kind": "마물",
-"name": "티파티 포크",
-"title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/7865"
+"url": "https://cafe.naver.com/sodkr/7865",
+"nameKo": "시비모"
 },
 {
 "server": "한국",
@@ -1692,17 +1780,6 @@
 "title": "5월 6일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
 "url": "https://cafe.naver.com/sodkr/7865"
-},
-{
-"server": "한국",
-"start": "2026-05-14",
-"end": "2026-05-21",
-"base": "신규",
-"kind": "아티팩트",
-"name": "새로운 아티팩트 큐피드의 화살",
-"title": "5월 13일(수) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8246"
 },
 {
 "server": "한국",
@@ -1713,7 +1790,8 @@
 "name": "폼페이",
 "title": "5월 13일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8246"
+"url": "https://cafe.naver.com/sodkr/8246",
+"nameKo": "폼페이"
 },
 {
 "server": "한국",
@@ -1724,7 +1802,8 @@
 "name": "파우스트",
 "title": "5월 13일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8246"
+"url": "https://cafe.naver.com/sodkr/8246",
+"nameKo": "파우스트"
 },
 {
 "server": "한국",
@@ -1735,7 +1814,68 @@
 "name": "오리온",
 "title": "5월 13일(수) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8246"
+"url": "https://cafe.naver.com/sodkr/8246",
+"nameKo": "오리온"
+},
+{
+"server": "한국",
+"start": "2026-05-14",
+"end": "2026-05-21",
+"base": "신규",
+"kind": "아티팩트",
+"name": "새로운 아티팩트 큐피드의 화살",
+"title": "5월 13일(수) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8246",
+"nameKo": "큐피드의 화살"
+},
+{
+"server": "한국",
+"start": "2026-05-21",
+"end": "2026-05-28",
+"base": "복각",
+"kind": "마법",
+"name": "속공 오라",
+"title": "5월 19일(화) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8532",
+"nameKo": "속공 오라"
+},
+{
+"server": "한국",
+"start": "2026-05-21",
+"end": "2026-05-28",
+"base": "복각",
+"kind": "마법",
+"name": "방패 치유 오라",
+"title": "5월 19일(화) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8532",
+"nameKo": "방패 치유 오라"
+},
+{
+"server": "한국",
+"start": "2026-05-21",
+"end": "2026-05-28",
+"base": "복각",
+"kind": "마법",
+"name": "고무의 포효",
+"title": "5월 19일(화) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8532",
+"nameKo": "고무의 포효"
+},
+{
+"server": "한국",
+"start": "2026-05-21",
+"end": "2026-05-28",
+"base": "복각",
+"kind": "마법",
+"name": "분노 연타",
+"title": "5월 19일(화) 업데이트 점검 안내(교환 코드 포함!!)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8532",
+"nameKo": "분노 연타"
 },
 {
 "server": "한국",
@@ -1746,183 +1886,8 @@
 "name": "아스모데우스",
 "title": "5월 19일(화) 업데이트 점검 안내(교환 코드 포함!!)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8532"
-},
-{
-"server": "한국",
-"start": "2026-05-21",
-"end": "2026-05-28",
-"base": "신규",
-"kind": "마법",
-"name": "속공 오라",
-"title": "5월 19일(화) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8532"
-},
-{
-"server": "한국",
-"start": "2026-05-21",
-"end": "2026-05-28",
-"base": "신규",
-"kind": "마법",
-"name": "방패 치유 오라",
-"title": "5월 19일(화) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8532"
-},
-{
-"server": "한국",
-"start": "2026-05-21",
-"end": "2026-05-28",
-"base": "신규",
-"kind": "마법",
-"name": "고무의 포효",
-"title": "5월 19일(화) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8532"
-},
-{
-"server": "한국",
-"start": "2026-05-21",
-"end": "2026-05-28",
-"base": "신규",
-"kind": "마법",
-"name": "분노 연타",
-"title": "5월 19일(화) 업데이트 점검 안내(교환 코드 포함!!)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8532"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-11",
-"base": "신규",
-"kind": "보구",
-"name": "심판의 호각",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-11",
-"base": "신규",
-"kind": "보구",
-"name": "환계의 마검",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-11",
-"base": "신규",
-"kind": "보구",
-"name": "호수의 여인 성검",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-04",
-"base": "신규",
-"kind": "마물",
-"name": "가라스텐구",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-04",
-"base": "신규",
-"kind": "마물",
-"name": "오오무카데",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-04",
-"base": "신규",
-"kind": "마물",
-"name": "금강 원숭이",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-04",
-"base": "신규",
-"kind": "마물",
-"name": "거대 두꺼비",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-04",
-"base": "신규",
-"kind": "마물",
-"name": "적귀",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-04",
-"base": "신규",
-"kind": "마물",
-"name": "와뉴도",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-04",
-"base": "신규",
-"kind": "마물",
-"name": "카라카사 소승",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-04",
-"base": "신규",
-"kind": "마물",
-"name": "복고양이",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
-},
-{
-"server": "한국",
-"start": "2026-05-28",
-"end": "2026-06-04",
-"base": "신규",
-"kind": "마물",
-"name": "마물",
-"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
+"url": "https://cafe.naver.com/sodkr/8532",
+"nameKo": "아스모데우스"
 },
 {
 "server": "한국",
@@ -1933,7 +1898,8 @@
 "name": "가브리엘",
 "title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "가브리엘"
 },
 {
 "server": "한국",
@@ -1944,7 +1910,8 @@
 "name": "요르문간드",
 "title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "요르문간드"
 },
 {
 "server": "한국",
@@ -1955,40 +1922,56 @@
 "name": "비비안",
 "title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "비비안"
 },
 {
 "server": "한국",
 "start": "2026-05-28",
 "end": "2026-06-11",
-"base": "신규",
+"base": "복각",
 "kind": "보구",
 "name": "탄식의 창",
 "title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "탄식의 창"
 },
 {
 "server": "한국",
 "start": "2026-05-28",
 "end": "2026-06-11",
-"base": "신규",
+"base": "복각",
 "kind": "보구",
 "name": "불꽃의 마법 주전자",
 "title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "불꽃의 마법 주전자"
 },
 {
 "server": "한국",
 "start": "2026-05-28",
 "end": "2026-06-11",
-"base": "신규",
+"base": "복각",
 "kind": "보구",
 "name": "뱀의 신 칼날",
 "title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
 "menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/8860"
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "뱀의 신 칼날"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-11",
+"base": "복각",
+"kind": "보구",
+"name": "리치의 혼 상자",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "리치의 혼 상자"
 },
 {
 "server": "한국",
@@ -1996,7 +1979,139 @@
 "end": "2026-06-11",
 "base": "신규",
 "kind": "보구",
-"name": "리치의 혼 상자",
+"name": "심판의 호각",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "심판의 호각"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-11",
+"base": "신규",
+"kind": "보구",
+"name": "환계의 마검",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "환계의 마검"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-11",
+"base": "신규",
+"kind": "보구",
+"name": "호수의 여인 성검",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "호수의 여인 성검"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마물",
+"name": "가라스텐구",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "가라스텐구"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마물",
+"name": "오오무카데",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "오오무카데"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마물",
+"name": "금강 원숭이",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "금강 원숭이"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마물",
+"name": "거대 두꺼비",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "거대 두꺼비"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마물",
+"name": "적귀",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "적귀"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마물",
+"name": "와뉴도",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "와뉴도"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마물",
+"name": "카라카사 소승",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "카라카사 소승"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마물",
+"name": "복고양이",
+"title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/8860",
+"nameKo": "복고양이"
+},
+{
+"server": "한국",
+"start": "2026-05-28",
+"end": "2026-06-04",
+"base": "신규",
+"kind": "마물",
+"name": "마물",
 "title": "5월 27일(수) 업데이트 점검 안내 (교환 코드 포함!!) (5/26(화) 16:15 내용 삭제 및 추가)",
 "menu": "업데이트&점검",
 "url": "https://cafe.naver.com/sodkr/8860"
@@ -2011,6 +2126,52 @@
 "title": "📢 D-1!  킥오프!그놈드FC  드래곤컵 & 0.5주년 특별방송 즐길 준비 완료? 특별 응원 이벤트까지!",
 "menu": "공지",
 "url": "https://cafe.naver.com/sodkr/9288"
+},
+{
+"server": "한국",
+"start": "2026-06-04",
+"end": "",
+"base": "공지",
+"kind": "공지",
+"name": "📺  킥오프! 그놈드FC  드래곤컵 & 0.5주년 특별 방송 진행중!",
+"title": "📺  킥오프! 그놈드FC  드래곤컵 & 0.5주년 특별 방송 진행중!",
+"menu": "공지",
+"url": "https://cafe.naver.com/sodkr/9380"
+},
+{
+"server": "한국",
+"start": "2026-06-04",
+"end": "",
+"base": "공지",
+"kind": "공지",
+"name": "⚽ 뜨거운 열정 그리고 시원한 혜택! 6월 4일  킥오프!그놈드FC  드",
+"title": "⚽ 뜨거운 열정 그리고 시원한 혜택! 6월 4일  킥오프!그놈드FC  드래곤컵 & 0.5주년 특별방송!!",
+"menu": "공지",
+"url": "https://cafe.naver.com/sodkr/9063"
+},
+{
+"server": "한국",
+"start": "2026-06-04",
+"end": "2026-06-11",
+"base": "복각",
+"kind": "아티팩트",
+"name": "포세이돈 삼지창",
+"title": "6월 3일(수) 업데이트 점검 안내(교환 코드 포함!!) (6/3(수) 13:45 내용 수정)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/9231",
+"nameKo": "포세이돈 삼지창"
+},
+{
+"server": "한국",
+"start": "2026-06-04",
+"end": "2026-06-18",
+"base": "신규",
+"kind": "환령",
+"name": "현무",
+"title": "6월 3일(수) 업데이트 점검 안내(교환 코드 포함!!) (6/3(수) 13:45 내용 수정)",
+"menu": "업데이트&점검",
+"url": "https://cafe.naver.com/sodkr/9231",
+"nameKo": "현무"
 },
 {
 "server": "한국",
@@ -2037,28 +2198,6 @@
 {
 "server": "한국",
 "start": "2026-06-04",
-"end": "2026-06-18",
-"base": "신규",
-"kind": "환령",
-"name": "현무",
-"title": "6월 3일(수) 업데이트 점검 안내(교환 코드 포함!!) (6/3(수) 13:45 내용 수정)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/9231"
-},
-{
-"server": "한국",
-"start": "2026-06-04",
-"end": "2026-06-11",
-"base": "신규",
-"kind": "아티팩트",
-"name": "포세이돈 삼지창",
-"title": "6월 3일(수) 업데이트 점검 안내(교환 코드 포함!!) (6/3(수) 13:45 내용 수정)",
-"menu": "업데이트&점검",
-"url": "https://cafe.naver.com/sodkr/9231"
-},
-{
-"server": "한국",
-"start": "2026-06-04",
 "end": "",
 "base": "이벤트",
 "kind": "이벤트",
@@ -2066,39 +2205,6 @@
 "title": "공식 결제 센터 이벤트「별빛의 메아리」✨ 진행중!",
 "menu": "이벤트",
 "url": "https://cafe.naver.com/sodkr/9343"
-},
-{
-"server": "한국",
-"start": "2026-06-04",
-"end": "",
-"base": "공지",
-"kind": "공지",
-"name": "📺  킥오프! 그놈드FC  드래곤컵 & 0.5주년 특별 방송 진행중!",
-"title": "📺  킥오프! 그놈드FC  드래곤컵 & 0.5주년 특별 방송 진행중!",
-"menu": "공지",
-"url": "https://cafe.naver.com/sodkr/9380"
-},
-{
-"server": "한국",
-"start": "2026-06-04",
-"end": "",
-"base": "공지",
-"kind": "공지",
-"name": "⚽ 뜨거운 열정 그리고 시원한 혜택! 6월 4일  킥오프!그놈드FC  드",
-"title": "⚽ 뜨거운 열정 그리고 시원한 혜택! 6월 4일  킥오프!그놈드FC  드래곤컵 & 0.5주년 특별방송!!",
-"menu": "공지",
-"url": "https://cafe.naver.com/sodkr/9063"
-},
-{
-"server": "한국",
-"start": "2026-06-05",
-"end": "",
-"base": "이벤트",
-"kind": "이벤트",
-"name": "⚽ 드래곤컵 기념 특별 이벤트 - 반지의 소유자 마음 속 MVP는 누구?",
-"title": "⚽ 드래곤컵 기념 특별 이벤트 - 반지의 소유자 마음 속 MVP는 누구?!",
-"menu": "이벤트",
-"url": "https://cafe.naver.com/sodkr/9411"
 },
 {
 "server": "한국",
@@ -2121,5 +2227,16 @@
 "title": "지크의 깜짝 선물🎁 보상 가득 ✨교환 쿠폰 대공개✨ (6월 5일 12:00 교환 코드 추가)",
 "menu": "공지",
 "url": "https://cafe.naver.com/sodkr/966"
+},
+{
+"server": "한국",
+"start": "2026-06-05",
+"end": "",
+"base": "이벤트",
+"kind": "이벤트",
+"name": "⚽ 드래곤컵 기념 특별 이벤트 - 반지의 소유자 마음 속 MVP는 누구?",
+"title": "⚽ 드래곤컵 기념 특별 이벤트 - 반지의 소유자 마음 속 MVP는 누구?!",
+"menu": "이벤트",
+"url": "https://cafe.naver.com/sodkr/9411"
 }
 ]
