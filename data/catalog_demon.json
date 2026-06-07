@@ -25,6 +25,7 @@
 "base": 360,
 "max": 1152,
 "maxStar": 7,
+"pct": false,
 "cond": "아레나 모드에서"
 }
 },
@@ -54,6 +55,7 @@
 "base": 3600,
 "max": 11520,
 "maxStar": 7,
+"pct": false,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -83,6 +85,7 @@
 "base": 3600,
 "max": 11520,
 "maxStar": 7,
+"pct": false,
 "cond": "아레나 모드에서"
 }
 },
@@ -112,6 +115,7 @@
 "base": 180,
 "max": 576,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -141,6 +145,7 @@
 "base": 1800,
 "max": 5760,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -170,6 +175,7 @@
 "base": 180,
 "max": 576,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -199,6 +205,7 @@
 "base": 360,
 "max": 1152,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -228,6 +235,7 @@
 "base": 1800,
 "max": 5760,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -257,6 +265,7 @@
 "base": 720,
 "max": 2304,
 "maxStar": 7,
+"pct": false,
 "cond": "아레나 모드에서"
 }
 },
@@ -286,6 +295,7 @@
 "base": 180,
 "max": 576,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -315,6 +325,7 @@
 "base": 180,
 "max": 576,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -344,6 +355,7 @@
 "base": 720,
 "max": 2304,
 "maxStar": 7,
+"pct": false,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -373,6 +385,7 @@
 "base": 360,
 "max": 1152,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -402,6 +415,7 @@
 "base": 360,
 "max": 1152,
 "maxStar": 7,
+"pct": false,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -431,6 +445,7 @@
 "base": 720,
 "max": 2304,
 "maxStar": 7,
+"pct": false,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -460,6 +475,7 @@
 "base": 720,
 "max": 2304,
 "maxStar": 7,
+"pct": false,
 "cond": "아레나 모드에서"
 }
 },
@@ -486,9 +502,10 @@
 ],
 "passive": {
 "stat": "물리 피해",
-"base": 5,
-"max": 16,
+"base": 5.0,
+"max": 16.0,
 "maxStar": 7,
+"pct": true,
 "cond": "아레나 모드에서"
 }
 },
@@ -515,9 +532,10 @@
 ],
 "passive": {
 "stat": "물리 피해 면역",
-"base": 5,
-"max": 16,
+"base": 5.0,
+"max": 16.0,
 "maxStar": 7,
+"pct": true,
 "cond": "아레나 모드에서"
 }
 },
@@ -544,9 +562,10 @@
 ],
 "passive": {
 "stat": "마법 피해 면역",
-"base": 5,
-"max": 16,
+"base": 5.0,
+"max": 16.0,
 "maxStar": 7,
+"pct": true,
 "cond": "아레나 모드에서"
 }
 },
@@ -573,9 +592,10 @@
 ],
 "passive": {
 "stat": "마법 피해",
-"base": 5,
-"max": 16,
+"base": 5.0,
+"max": 16.0,
 "maxStar": 7,
+"pct": true,
 "cond": "아레나 모드에서"
 }
 },
@@ -605,6 +625,7 @@
 "base": 140,
 "max": 448,
 "maxStar": 7,
+"pct": false,
 "cond": "8일마다 접속 시"
 }
 },
@@ -634,6 +655,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "마법사"
 }
 },
@@ -663,6 +685,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "암살자"
 }
 },
@@ -692,6 +715,7 @@
 "base": 700,
 "max": 2240,
 "maxStar": 7,
+"pct": false,
 "cond": "드래곤 유적 50층클리어할 때마다"
 }
 },
@@ -721,6 +745,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "수호자"
 }
 },
@@ -750,6 +775,7 @@
 "base": 70,
 "max": 224,
 "maxStar": 7,
+"pct": false,
 "cond": "직업 총 레벨이 각 200레벨 상승할 때마다"
 }
 },
@@ -779,6 +805,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "사수"
 }
 },
@@ -808,6 +835,7 @@
 "base": 140,
 "max": 448,
 "maxStar": 7,
+"pct": false,
 "cond": "메인 스토리 5 챕터 클리어 시마다"
 }
 },
@@ -837,6 +865,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "전사"
 }
 },
@@ -866,6 +895,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "성직자"
 }
 },
@@ -895,6 +925,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "수호자"
 }
 },
@@ -924,6 +955,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "사수"
 }
 },
@@ -953,6 +985,7 @@
 "base": 3600,
 "max": 11520,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -982,6 +1015,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "암살자"
 }
 },
@@ -1011,6 +1045,7 @@
 "base": 360,
 "max": 1152,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -1040,6 +1075,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "성직자"
 }
 },
@@ -1069,6 +1105,7 @@
 "base": 360,
 "max": 1152,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -1098,6 +1135,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "전사"
 }
 },
@@ -1127,6 +1165,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "마법사"
 }
 },
@@ -1156,6 +1195,7 @@
 "base": 3600,
 "max": 11520,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -1185,6 +1225,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "수호자"
 }
 },
@@ -1214,6 +1255,7 @@
 "base": 360,
 "max": 1152,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -1243,6 +1285,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "사수"
 }
 },
@@ -1272,6 +1315,7 @@
 "base": 3600,
 "max": 11520,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -1301,6 +1345,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "전사"
 }
 },
@@ -1330,6 +1375,7 @@
 "base": 50,
 "max": 160,
 "maxStar": 7,
+"pct": false,
 "cond": "마법사"
 }
 },
@@ -1359,6 +1405,7 @@
 "base": 360,
 "max": 1152,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -1385,9 +1432,10 @@
 ],
 "passive": {
 "stat": "치명타 피해",
-"base": 3,
+"base": 3.0,
 "max": 9.6,
 "maxStar": 7,
+"pct": true,
 "cond": "암살자"
 }
 },
@@ -1417,6 +1465,7 @@
 "base": 140,
 "max": 616,
 "maxStar": 13,
+"pct": false,
 "cond": "직업 총 레벨이 각 250레벨 상승할 때마다"
 }
 },
@@ -1446,6 +1495,7 @@
 "base": 140,
 "max": 616,
 "maxStar": 13,
+"pct": false,
 "cond": "거대 드래곤 등급이 50단계 상승할 때마다"
 }
 },
@@ -1475,6 +1525,7 @@
 "base": 1400,
 "max": 6160,
 "maxStar": 13,
+"pct": false,
 "cond": "메인 스토리 6 챕터 클리어 시마다"
 }
 },
@@ -1501,9 +1552,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 6,
+"base": 6.0,
 "max": 26.4,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 모드에서"
 }
 },
@@ -1530,9 +1582,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 6,
+"base": 6.0,
 "max": 26.4,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -1559,9 +1612,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 6,
+"base": 6.0,
 "max": 26.4,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 모드에서"
 }
 },
@@ -1588,9 +1642,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 6,
+"base": 6.0,
 "max": 26.4,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -1620,6 +1675,7 @@
 "base": 140,
 "max": 616,
 "maxStar": 13,
+"pct": false,
 "cond": "10일마다 접속 시"
 }
 },
@@ -1649,6 +1705,7 @@
 "base": 720,
 "max": 3168,
 "maxStar": 13,
+"pct": false,
 "cond": ""
 }
 },
@@ -1678,6 +1735,7 @@
 "base": 140,
 "max": 616,
 "maxStar": 13,
+"pct": false,
 "cond": "드래곤 유적 60층클리어할 때마다"
 }
 },
@@ -1707,6 +1765,7 @@
 "base": 140,
 "max": 616,
 "maxStar": 13,
+"pct": false,
 "cond": "10일마다 접속 시"
 }
 },
@@ -1736,6 +1795,7 @@
 "base": 1440,
 "max": 6336,
 "maxStar": 13,
+"pct": false,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -1765,6 +1825,7 @@
 "base": 14400,
 "max": 63360,
 "maxStar": 13,
+"pct": false,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -1791,9 +1852,10 @@
 ],
 "passive": {
 "stat": "물리 피해 면역",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 모드에서"
 }
 },
@@ -1823,6 +1885,7 @@
 "base": 140,
 "max": 616,
 "maxStar": 13,
+"pct": false,
 "cond": "직업 총 레벨이 각 250레벨 상승할 때마다"
 }
 },
@@ -1849,9 +1912,10 @@
 ],
 "passive": {
 "stat": "마법 피해 면역",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -1881,6 +1945,7 @@
 "base": 280,
 "max": 1232,
 "maxStar": 13,
+"pct": false,
 "cond": "거대 드래곤 등급이 50단계 상승할 때마다"
 }
 },
@@ -1907,9 +1972,10 @@
 ],
 "passive": {
 "stat": "물리 피해",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 모드에서"
 }
 },
@@ -1939,6 +2005,7 @@
 "base": 7200,
 "max": 31680,
 "maxStar": 13,
+"pct": false,
 "cond": ""
 }
 },
@@ -1968,6 +2035,7 @@
 "base": 720,
 "max": 3168,
 "maxStar": 13,
+"pct": false,
 "cond": ""
 }
 },
@@ -1997,6 +2065,7 @@
 "base": 280,
 "max": 1232,
 "maxStar": 13,
+"pct": false,
 "cond": "드래곤 유적 60층클리어할 때마다"
 }
 },
@@ -2026,6 +2095,7 @@
 "base": 14400,
 "max": 63360,
 "maxStar": 13,
+"pct": false,
 "cond": "아레나 모드에서"
 }
 },
@@ -2052,9 +2122,10 @@
 ],
 "passive": {
 "stat": "마법 피해",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -2084,6 +2155,7 @@
 "base": 1440,
 "max": 6336,
 "maxStar": 13,
+"pct": false,
 "cond": "아레나 모드에서"
 }
 },
@@ -2113,6 +2185,7 @@
 "base": 1400,
 "max": 6160,
 "maxStar": 13,
+"pct": false,
 "cond": "메인 스토리 6 챕터 클리어 시마다"
 }
 },
@@ -2142,6 +2215,7 @@
 "base": 2880,
 "max": 12672,
 "maxStar": 13,
+"pct": false,
 "cond": "아레나 모드에서"
 }
 },
@@ -2171,6 +2245,7 @@
 "base": 1400,
 "max": 6160,
 "maxStar": 13,
+"pct": false,
 "cond": "메인 스토리 6 챕터 클리어 시마다"
 }
 },
@@ -2197,9 +2272,10 @@
 ],
 "passive": {
 "stat": "물리 피해",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 모드에서"
 }
 },
@@ -2229,6 +2305,7 @@
 "base": 280,
 "max": 1232,
 "maxStar": 13,
+"pct": false,
 "cond": "거대 드래곤 등급이 50단계 상승할 때마다"
 }
 },
@@ -2258,6 +2335,7 @@
 "base": 720,
 "max": 3168,
 "maxStar": 13,
+"pct": false,
 "cond": ""
 }
 },
@@ -2284,9 +2362,10 @@
 ],
 "passive": {
 "stat": "물리 피해 면역",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 모드에서"
 }
 },
@@ -2316,6 +2395,7 @@
 "base": 2880,
 "max": 12672,
 "maxStar": 13,
+"pct": false,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -2345,6 +2425,7 @@
 "base": 7200,
 "max": 31680,
 "maxStar": 13,
+"pct": false,
 "cond": ""
 }
 },
@@ -2374,6 +2455,7 @@
 "base": 140,
 "max": 616,
 "maxStar": 13,
+"pct": false,
 "cond": "직업 총 레벨이 각 250레벨 상승할 때마다"
 }
 },
@@ -2403,6 +2485,7 @@
 "base": 140,
 "max": 616,
 "maxStar": 13,
+"pct": false,
 "cond": "10일마다 접속 시"
 }
 },
@@ -2432,6 +2515,7 @@
 "base": 2880,
 "max": 12672,
 "maxStar": 13,
+"pct": false,
 "cond": "아레나 모드에서"
 }
 },
@@ -2458,9 +2542,10 @@
 ],
 "passive": {
 "stat": "마법 피해 면역",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": "아레나 아닌 모드에서"
 }
 },
@@ -2487,9 +2572,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "메인 스토리 6 챕터 클리어 시마다"
 }
 },
@@ -2516,9 +2602,10 @@
 ],
 "passive": {
 "stat": "피해 증가",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "10일마다 접속 시"
 }
 },
@@ -2545,9 +2632,10 @@
 ],
 "passive": {
 "stat": "피해 감소",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "10일마다 접속 시"
 }
 },
@@ -2574,9 +2662,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 5,
-"max": 22,
+"base": 5.0,
+"max": 22.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -2603,9 +2692,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "드래곤 유적 60층클리어할 때마다"
 }
 },
@@ -2632,9 +2722,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 5,
-"max": 22,
+"base": 5.0,
+"max": 22.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -2661,9 +2752,10 @@
 ],
 "passive": {
 "stat": "물리 방어",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -2690,9 +2782,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "거대 드래곤 등급이 50단계 상승할 때마다"
 }
 },
@@ -2722,6 +2815,7 @@
 "base": 50,
 "max": 220,
 "maxStar": 13,
+"pct": false,
 "cond": ""
 }
 },
@@ -2748,9 +2842,10 @@
 ],
 "passive": {
 "stat": "마법 방어",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -2780,6 +2875,7 @@
 "base": 50,
 "max": 220,
 "maxStar": 13,
+"pct": false,
 "cond": ""
 }
 },
@@ -2806,9 +2902,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "드래곤 유적 60층클리어할 때마다"
 }
 },
@@ -2835,9 +2932,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "메인 스토리 6 챕터 클리어 시마다"
 }
 },
@@ -2864,9 +2962,10 @@
 ],
 "passive": {
 "stat": "물리 방어",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -2896,6 +2995,7 @@
 "base": 100,
 "max": 440,
 "maxStar": 13,
+"pct": false,
 "cond": "사수"
 }
 },
@@ -2925,6 +3025,7 @@
 "base": 100,
 "max": 440,
 "maxStar": 13,
+"pct": false,
 "cond": "전사"
 }
 },
@@ -2954,6 +3055,7 @@
 "base": 100,
 "max": 440,
 "maxStar": 13,
+"pct": false,
 "cond": "마법사"
 }
 },
@@ -2983,6 +3085,7 @@
 "base": 100,
 "max": 440,
 "maxStar": 13,
+"pct": false,
 "cond": "수호자"
 }
 },
@@ -3012,6 +3115,7 @@
 "base": 100,
 "max": 440,
 "maxStar": 13,
+"pct": false,
 "cond": "전사"
 }
 },
@@ -3038,9 +3142,10 @@
 ],
 "passive": {
 "stat": "마법 피해",
-"base": 8,
+"base": 8.0,
 "max": 35.2,
 "maxStar": 13,
+"pct": true,
 "cond": "마법사"
 }
 },
@@ -3070,6 +3175,7 @@
 "base": 100,
 "max": 440,
 "maxStar": 13,
+"pct": false,
 "cond": "성직자"
 }
 },
@@ -3099,6 +3205,7 @@
 "base": 100,
 "max": 440,
 "maxStar": 13,
+"pct": false,
 "cond": "암살자"
 }
 },
@@ -3125,9 +3232,10 @@
 ],
 "passive": {
 "stat": "물리 피해",
-"base": 8,
+"base": 8.0,
 "max": 35.2,
 "maxStar": 13,
+"pct": true,
 "cond": "사수"
 }
 },
@@ -3154,9 +3262,10 @@
 ],
 "passive": {
 "stat": "치명타 피해",
-"base": 7,
+"base": 7.0,
 "max": 30.8,
 "maxStar": 13,
+"pct": true,
 "cond": "암살자"
 }
 },
@@ -3186,6 +3295,7 @@
 "base": 100,
 "max": 440,
 "maxStar": 13,
+"pct": false,
 "cond": "수호자"
 }
 },
@@ -3212,9 +3322,10 @@
 ],
 "passive": {
 "stat": "치유",
-"base": 7,
+"base": 7.0,
 "max": 30.8,
 "maxStar": 13,
+"pct": true,
 "cond": "성직자"
 }
 },
@@ -3241,9 +3352,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "직업 총 레벨이 각 250레벨 상승할 때마다"
 }
 },
@@ -3270,9 +3382,10 @@
 ],
 "passive": {
 "stat": "물리 방어",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -3299,9 +3412,10 @@
 ],
 "passive": {
 "stat": "마법 방어",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -3328,9 +3442,10 @@
 ],
 "passive": {
 "stat": "물리 방어",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -3357,9 +3472,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "드래곤 유적 60층클리어할 때마다"
 }
 },
@@ -3386,9 +3502,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 5,
-"max": 22,
+"base": 5.0,
+"max": 22.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -3415,9 +3532,10 @@
 ],
 "passive": {
 "stat": "마법 방어",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -3444,9 +3562,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 5,
-"max": 22,
+"base": 5.0,
+"max": 22.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -3473,9 +3592,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "메인 스토리 6 챕터 클리어 시마다"
 }
 },
@@ -3502,9 +3622,10 @@
 ],
 "passive": {
 "stat": "물리 방어",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -3531,9 +3652,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "메인 스토리 6 챕터 클리어 시마다"
 }
 },
@@ -3560,9 +3682,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "거대 드래곤 등급이 50단계 상승할 때마다"
 }
 },
@@ -3589,9 +3712,10 @@
 ],
 "passive": {
 "stat": "마법 방어",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -3618,9 +3742,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 1,
+"base": 1.0,
 "max": 4.4,
 "maxStar": 13,
+"pct": true,
 "cond": "직업 총 레벨이 각 250레벨 상승할 때마다"
 }
 },
@@ -3647,9 +3772,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 5,
-"max": 22,
+"base": 5.0,
+"max": 22.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -3679,6 +3805,7 @@
 "base": 200,
 "max": 640,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -3708,6 +3835,7 @@
 "base": 200,
 "max": 640,
 "maxStar": 7,
+"pct": false,
 "cond": ""
 }
 },
@@ -3734,9 +3862,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 20,
-"max": 64,
+"base": 20.0,
+"max": 64.0,
 "maxStar": 7,
+"pct": true,
 "cond": ""
 }
 },
@@ -3763,9 +3892,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 20,
-"max": 64,
+"base": 20.0,
+"max": 64.0,
 "maxStar": 7,
+"pct": true,
 "cond": ""
 }
 },
@@ -3795,6 +3925,7 @@
 "base": 4320,
 "max": 19008,
 "maxStar": 13,
+"pct": false,
 "cond": ""
 }
 },
@@ -3824,6 +3955,7 @@
 "base": 4320,
 "max": 19008,
 "maxStar": 13,
+"pct": false,
 "cond": ""
 }
 },
@@ -3853,6 +3985,7 @@
 "base": 43200,
 "max": 190080,
 "maxStar": 13,
+"pct": false,
 "cond": ""
 }
 },
@@ -3879,9 +4012,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 2,
+"base": 2.0,
 "max": 8.8,
 "maxStar": 13,
+"pct": true,
 "cond": "호감도 20레벨 환령 1명 보유 시마다"
 }
 },
@@ -3908,9 +4042,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -3937,9 +4072,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 2,
+"base": 2.0,
 "max": 8.8,
 "maxStar": 13,
+"pct": true,
 "cond": "전설 등급 아티팩트 레벨 8 상승 시마다"
 }
 },
@@ -3966,9 +4102,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 2,
+"base": 2.0,
 "max": 8.8,
 "maxStar": 13,
+"pct": true,
 "cond": "환령 스킨 3개 보유 시마다"
 }
 },
@@ -3995,9 +4132,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 2,
+"base": 2.0,
 "max": 8.8,
 "maxStar": 13,
+"pct": true,
 "cond": "각성 완료 환령 1명 보유 시마다"
 }
 },
@@ -4024,9 +4162,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 2,
+"base": 2.0,
 "max": 8.8,
 "maxStar": 13,
+"pct": true,
 "cond": "전설+ 등급 아티팩트 레벨 4 상승 시마다"
 }
 },
@@ -4053,9 +4192,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -4082,9 +4222,10 @@
 ],
 "passive": {
 "stat": "공격",
-"base": 10,
-"max": 44,
+"base": 10.0,
+"max": 44.0,
 "maxStar": 13,
+"pct": true,
 "cond": ""
 }
 },
@@ -4111,9 +4252,10 @@
 ],
 "passive": {
 "stat": "HP",
-"base": 2,
+"base": 2.0,
 "max": 8.8,
 "maxStar": 13,
+"pct": true,
 "cond": "시간의 틈 내 단계 누적 4개 클리어 시마다"
 }
 }
