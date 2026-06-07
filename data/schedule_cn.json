@@ -1502,7 +1502,7 @@
 "base": "신규",
 "kind": "스킨",
 "name": "退魔女高",
-"nameKo": ""
+"nameKo": "퇴마 여고"
 },
 {
 "server": "중국",
@@ -1576,7 +1576,7 @@
 "base": "신규",
 "kind": "마물",
 "name": "送信猫头鹰",
-"nameKo": "",
+"nameKo": "편지 부엉이",
 "src": "honor"
 },
 {
@@ -1586,7 +1586,7 @@
 "base": "신규",
 "kind": "마물",
 "name": "问答魔镜",
-"nameKo": "",
+"nameKo": "문답 마경",
 "src": "honor"
 },
 {
@@ -1596,7 +1596,7 @@
 "base": "신규",
 "kind": "마물",
 "name": "有求必应帽",
-"nameKo": "",
+"nameKo": "소원 성취 모자",
 "src": "honor"
 },
 {
@@ -1606,7 +1606,7 @@
 "base": "신규",
 "kind": "마물",
 "name": "强欲坩锅",
-"nameKo": "",
+"nameKo": "탐욕의 도가니",
 "src": "honor"
 },
 {
@@ -1616,7 +1616,7 @@
 "base": "신규",
 "kind": "마물",
 "name": "软糖蛙",
-"nameKo": "",
+"nameKo": "젤리 개구리",
 "src": "honor"
 },
 {
@@ -1783,7 +1783,7 @@
 "base": "복각",
 "kind": "환령",
 "name": "宙斯",
-"nameKo": "",
+"nameKo": "제우스",
 "src": "honor"
 },
 {
@@ -1850,7 +1850,7 @@
 "base": "신규",
 "kind": "스킨",
 "name": "不破门神",
-"nameKo": ""
+"nameKo": "불파 문신"
 },
 {
 "server": "중국",
