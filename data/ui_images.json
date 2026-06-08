@@ -431,6 +431,374 @@
 "group": "미래시",
 "size": "96x75",
 "bytes": 3838
+},
+{
+"original": "Sprite_icon_hero_4301.png",
+"file": "favicon.png",
+"label": "사이트 아이콘(지크프리트)",
+"group": "사이트",
+"size": "",
+"bytes": 0
+},
+{
+"original": "Sprite_card_myth_8301_custom.png",
+"file": "dragon/8301.webp",
+"label": "거대 드래곤 카드 8301",
+"group": "거대 드래곤",
+"size": "190x240",
+"bytes": 13132
+},
+{
+"original": "Sprite_card_myth_8302_custom.png",
+"file": "dragon/8302.webp",
+"label": "거대 드래곤 카드 8302",
+"group": "거대 드래곤",
+"size": "192x240",
+"bytes": 13550
+},
+{
+"original": "Sprite_card_myth_8303_custom.png",
+"file": "dragon/8303.webp",
+"label": "거대 드래곤 카드 8303",
+"group": "거대 드래곤",
+"size": "179x240",
+"bytes": 12898
+},
+{
+"original": "Sprite_card_myth_8304_custom.png",
+"file": "dragon/8304.webp",
+"label": "거대 드래곤 카드 8304",
+"group": "거대 드래곤",
+"size": "188x240",
+"bytes": 13916
+},
+{
+"original": "Sprite_card_myth_8305_custom.png",
+"file": "dragon/8305.webp",
+"label": "거대 드래곤 카드 8305",
+"group": "거대 드래곤",
+"size": "188x240",
+"bytes": 15644
+},
+{
+"original": "Sprite_card_myth_8306_custom.png",
+"file": "dragon/8306.webp",
+"label": "거대 드래곤 카드 8306",
+"group": "거대 드래곤",
+"size": "200x240",
+"bytes": 13066
+},
+{
+"original": "Sprite_card_myth_8307_custom.png",
+"file": "dragon/8307.webp",
+"label": "거대 드래곤 카드 8307",
+"group": "거대 드래곤",
+"size": "156x240",
+"bytes": 8488
+},
+{
+"original": "Sprite_card_myth_8308_custom.png",
+"file": "dragon/8308.webp",
+"label": "거대 드래곤 카드 8308",
+"group": "거대 드래곤",
+"size": "192x240",
+"bytes": 9538
+},
+{
+"original": "Sprite_card_myth_8401_custom.png",
+"file": "dragon/8401.webp",
+"label": "거대 드래곤 카드 8401",
+"group": "거대 드래곤",
+"size": "202x240",
+"bytes": 13356
+},
+{
+"original": "Sprite_card_myth_8402_custom.png",
+"file": "dragon/8402.webp",
+"label": "거대 드래곤 카드 8402",
+"group": "거대 드래곤",
+"size": "200x240",
+"bytes": 14524
+},
+{
+"original": "Sprite_card_myth_8403_custom.png",
+"file": "dragon/8403.webp",
+"label": "거대 드래곤 카드 8403",
+"group": "거대 드래곤",
+"size": "192x240",
+"bytes": 14720
+},
+{
+"original": "Sprite_card_myth_8404_custom.png",
+"file": "dragon/8404.webp",
+"label": "거대 드래곤 카드 8404",
+"group": "거대 드래곤",
+"size": "187x240",
+"bytes": 17864
+},
+{
+"original": "Sprite_card_myth_8405_custom.png",
+"file": "dragon/8405.webp",
+"label": "거대 드래곤 카드 8405",
+"group": "거대 드래곤",
+"size": "183x240",
+"bytes": 14776
+},
+{
+"original": "Sprite_card_myth_8406_custom.png",
+"file": "dragon/8406.webp",
+"label": "거대 드래곤 카드 8406",
+"group": "거대 드래곤",
+"size": "192x240",
+"bytes": 13830
+},
+{
+"original": "Sprite_card_myth_8501_custom.png",
+"file": "dragon/8501.webp",
+"label": "거대 드래곤 카드 8501",
+"group": "거대 드래곤",
+"size": "183x240",
+"bytes": 13760
+},
+{
+"original": "Sprite_card_myth_8502_custom.png",
+"file": "dragon/8502.webp",
+"label": "거대 드래곤 카드 8502",
+"group": "거대 드래곤",
+"size": "183x240",
+"bytes": 15402
+},
+{
+"original": "Sprite_card_myth_8503_custom.png",
+"file": "dragon/8503.webp",
+"label": "거대 드래곤 카드 8503",
+"group": "거대 드래곤",
+"size": "183x240",
+"bytes": 16464
+},
+{
+"original": "Sprite_card_myth_8504_custom.png",
+"file": "dragon/8504.webp",
+"label": "거대 드래곤 카드 8504",
+"group": "거대 드래곤",
+"size": "183x240",
+"bytes": 16560
+},
+{
+"original": "Sprite_card_myth_8505_custom.png",
+"file": "dragon/8505.webp",
+"label": "거대 드래곤 카드 8505",
+"group": "거대 드래곤",
+"size": "184x240",
+"bytes": 15508
+},
+{
+"original": "Sprite_card_myth_8506_custom.png",
+"file": "dragon/8506.webp",
+"label": "거대 드래곤 카드 8506",
+"group": "거대 드래곤",
+"size": "183x240",
+"bytes": 14364
+},
+{
+"original": "Sprite_Treasure_3201_custom.png",
+"file": "artifact/3201.webp",
+"label": "아티팩트(신기) 3201",
+"group": "아티팩트",
+"size": "200x199",
+"bytes": 15326
+},
+{
+"original": "Sprite_Treasure_3202_custom.png",
+"file": "artifact/3202.webp",
+"label": "아티팩트(신기) 3202",
+"group": "아티팩트",
+"size": "200x172",
+"bytes": 14374
+},
+{
+"original": "Sprite_Treasure_3301_custom.png",
+"file": "artifact/3301.webp",
+"label": "아티팩트(신기) 3301",
+"group": "아티팩트",
+"size": "131x200",
+"bytes": 12594
+},
+{
+"original": "Sprite_Treasure_3302_custom.png",
+"file": "artifact/3302.webp",
+"label": "아티팩트(신기) 3302",
+"group": "아티팩트",
+"size": "198x200",
+"bytes": 16504
+},
+{
+"original": "Sprite_Treasure_3303_custom.png",
+"file": "artifact/3303.webp",
+"label": "아티팩트(신기) 3303",
+"group": "아티팩트",
+"size": "131x200",
+"bytes": 10860
+},
+{
+"original": "Sprite_Treasure_3304_custom.png",
+"file": "artifact/3304.webp",
+"label": "아티팩트(신기) 3304",
+"group": "아티팩트",
+"size": "200x184",
+"bytes": 12886
+},
+{
+"original": "Sprite_Treasure_3401_custom.png",
+"file": "artifact/3401.webp",
+"label": "아티팩트(신기) 3401",
+"group": "아티팩트",
+"size": "200x143",
+"bytes": 12984
+},
+{
+"original": "Sprite_Treasure_3402_custom.png",
+"file": "artifact/3402.webp",
+"label": "아티팩트(신기) 3402",
+"group": "아티팩트",
+"size": "145x200",
+"bytes": 11304
+},
+{
+"original": "Sprite_Treasure_3403_custom.png",
+"file": "artifact/3403.webp",
+"label": "아티팩트(신기) 3403",
+"group": "아티팩트",
+"size": "199x200",
+"bytes": 24566
+},
+{
+"original": "Sprite_Treasure_3404_custom.png",
+"file": "artifact/3404.webp",
+"label": "아티팩트(신기) 3404",
+"group": "아티팩트",
+"size": "200x179",
+"bytes": 12800
+},
+{
+"original": "Sprite_Treasure_3501_custom.png",
+"file": "artifact/3501.webp",
+"label": "아티팩트(신기) 3501",
+"group": "아티팩트",
+"size": "191x200",
+"bytes": 15456
+},
+{
+"original": "Sprite_Treasure_3502_custom.png",
+"file": "artifact/3502.webp",
+"label": "아티팩트(신기) 3502",
+"group": "아티팩트",
+"size": "200x176",
+"bytes": 12406
+},
+{
+"original": "Sprite_Treasure_3503_custom.png",
+"file": "artifact/3503.webp",
+"label": "아티팩트(신기) 3503",
+"group": "아티팩트",
+"size": "200x142",
+"bytes": 10020
+},
+{
+"original": "Sprite_Treasure_3504_custom.png",
+"file": "artifact/3504.webp",
+"label": "아티팩트(신기) 3504",
+"group": "아티팩트",
+"size": "200x183",
+"bytes": 12962
+},
+{
+"original": "Sprite_Treasure_3505_custom.png",
+"file": "artifact/3505.webp",
+"label": "아티팩트(신기) 3505",
+"group": "아티팩트",
+"size": "180x200",
+"bytes": 13682
+},
+{
+"original": "Sprite_Treasure_3506_custom.png",
+"file": "artifact/3506.webp",
+"label": "아티팩트(신기) 3506",
+"group": "아티팩트",
+"size": "186x200",
+"bytes": 22454
+},
+{
+"original": "Sprite_Treasure_3601_custom.png",
+"file": "artifact/3601.webp",
+"label": "아티팩트(신기) 3601",
+"group": "아티팩트",
+"size": "161x200",
+"bytes": 8432
+},
+{
+"original": "Sprite_Treasure_3602_custom.png",
+"file": "artifact/3602.webp",
+"label": "아티팩트(신기) 3602",
+"group": "아티팩트",
+"size": "143x200",
+"bytes": 7418
+},
+{
+"original": "Sprite_Treasure_3603_custom.png",
+"file": "artifact/3603.webp",
+"label": "아티팩트(신기) 3603",
+"group": "아티팩트",
+"size": "200x200",
+"bytes": 9864
+},
+{
+"original": "Sprite_Treasure_3604_custom.png",
+"file": "artifact/3604.webp",
+"label": "아티팩트(신기) 3604",
+"group": "아티팩트",
+"size": "195x200",
+"bytes": 6108
+},
+{
+"original": "Sprite_Treasure_3605_custom.png",
+"file": "artifact/3605.webp",
+"label": "아티팩트(신기) 3605",
+"group": "아티팩트",
+"size": "179x200",
+"bytes": 9032
+},
+{
+"original": "Sprite_Treasure_3606_custom.png",
+"file": "artifact/3606.webp",
+"label": "아티팩트(신기) 3606",
+"group": "아티팩트",
+"size": "200x176",
+"bytes": 12406
+},
+{
+"original": "Sprite_Treasure_3607_custom.png",
+"file": "artifact/3607.webp",
+"label": "아티팩트(신기) 3607",
+"group": "아티팩트",
+"size": "199x200",
+"bytes": 24566
+},
+{
+"original": "Sprite_Treasure_3608_custom.png",
+"file": "artifact/3608.webp",
+"label": "아티팩트(신기) 3608",
+"group": "아티팩트",
+"size": "200x190",
+"bytes": 12886
+},
+{
+"original": "Sprite_Treasure_3611_custom.png",
+"file": "artifact/3611.webp",
+"label": "아티팩트(신기) 3611",
+"group": "아티팩트",
+"size": "150x200",
+"bytes": 8084
 }
 ]
 }
