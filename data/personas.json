@@ -1,0 +1,10 @@
+[
+  { "pid": 1, "name": "푸린", "role": "메타 분석가", "avatarImg": "persona_7046081.webp", "frame": "frame_9190423.webp" },
+  { "pid": 2, "name": "아인", "role": "아레나 스페셜리스트", "avatarImg": "persona_7066071.webp", "frame": "frame_9190423.webp" },
+  { "pid": 3, "name": "리베라", "role": "보스/PvE 공략러", "avatarImg": "persona_3501.webp", "frame": "frame_9190901.webp" },
+  { "pid": 4, "name": "떽뜨머신", "role": "무과금 효율충", "avatarImg": "persona_5604.webp", "frame": "frame_9190801.webp" },
+  { "pid": 5, "name": "동동", "role": "EX/신화 콜렉터", "avatarImg": "persona_3201.webp", "frame": "frame_league3.webp" },
+  { "pid": 6, "name": "징니", "role": "이론크래프터", "avatarImg": "persona_4301.webp", "frame": "frame_9200105.webp" },
+  { "pid": 7, "name": "동벌이2", "role": "진영 조합가", "avatarImg": "persona_2201.webp", "frame": "frame_9100102.webp" },
+  { "pid": 8, "name": "마르엔나", "role": "뉴비 멘토", "avatarImg": "persona_7016071.webp", "frame": "frame_9190901.webp" }
+]
