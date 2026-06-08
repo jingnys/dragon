@@ -1,4 +1,5 @@
-[
+{
+"star": [
 {
 "star": 1,
 "maxLevel": 40,
@@ -170,4 +171,67 @@
 "sameNum": 0,
 "sameStar": 0
 }
+],
+"awake": [
+{
+"star": 20,
+"god": 1,
+"isAwake": true,
+"maxLevel": 0,
+"selfPart": 1,
+"itemId": 62,
+"itemQty": 2,
+"itemName": "신의 빛 결정"
+},
+{
+"star": 21,
+"god": 2,
+"isAwake": true,
+"maxLevel": 0,
+"selfPart": 1,
+"itemId": 62,
+"itemQty": 3,
+"itemName": "신의 빛 결정"
+},
+{
+"star": 22,
+"god": 3,
+"isAwake": true,
+"maxLevel": 0,
+"selfPart": 1,
+"itemId": 62,
+"itemQty": 3,
+"itemName": "신의 빛 결정"
+},
+{
+"star": 23,
+"god": 4,
+"isAwake": true,
+"maxLevel": 0,
+"selfPart": 2,
+"itemId": 62,
+"itemQty": 4,
+"itemName": "신의 빛 결정"
+},
+{
+"star": 24,
+"god": 5,
+"isAwake": true,
+"maxLevel": 0,
+"selfPart": 2,
+"itemId": 62,
+"itemQty": 5,
+"itemName": "신의 빛 결정"
+},
+{
+"star": 25,
+"god": 6,
+"isAwake": true,
+"maxLevel": 0,
+"selfPart": 0,
+"itemId": 0,
+"itemQty": 0,
+"itemName": ""
+}
 ]
+}
