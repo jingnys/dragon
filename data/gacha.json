@@ -1,0 +1,11 @@
+{
+  "_comment": "환령 소환 확률(HeroGachaType DB 추출). rarity→환령 q: N=2,R=3,SR=4,SSR=5,SSR+=6,EX=7. cost=다이아(추정 300). 신화는 추정치.",
+  "banners": [
+    { "key": "normal", "name": "환령 소환", "cost": 300, "pitySR": 10, "pityTop": 40, "topTier": "SSR",
+      "rates": [["SSR+", 0.857], ["SSR", 2.143], ["SR", 12], ["R", 50], ["N", 35]] },
+    { "key": "limited", "name": "한정 소환", "cost": 300, "pitySR": 10, "pityTop": 50, "topTier": "SSR+",
+      "rates": [["SSR+", 2.2], ["SR", 12], ["R", 50], ["N", 35.8]] },
+    { "key": "mythic", "name": "신화 소환", "cost": 300, "pitySR": 10, "pityTop": 50, "topTier": "EX", "est": true,
+      "rates": [["EX", 1.0], ["SSR+", 2.2], ["SR", 12], ["R", 50], ["N", 34.8]] }
+  ]
+}
