@@ -1,0 +1,173 @@
+[
+{
+"star": 1,
+"maxLevel": 40,
+"selfFull": 0,
+"selfPart": 4,
+"selfPartStar": 1,
+"sameNum": 0,
+"sameStar": 0
+},
+{
+"star": 2,
+"maxLevel": 40,
+"selfFull": 0,
+"selfPart": 4,
+"selfPartStar": 2,
+"sameNum": 0,
+"sameStar": 0
+},
+{
+"star": 3,
+"maxLevel": 60,
+"selfFull": 0,
+"selfPart": 2,
+"selfPartStar": 3,
+"sameNum": 0,
+"sameStar": 0
+},
+{
+"star": 4,
+"maxLevel": 80,
+"selfFull": 0,
+"selfPart": 1,
+"selfPartStar": 4,
+"sameNum": 0,
+"sameStar": 0
+},
+{
+"star": 5,
+"maxLevel": 100,
+"selfFull": 1,
+"selfPart": 1,
+"selfPartStar": 5,
+"sameNum": 0,
+"sameStar": 0
+},
+{
+"star": 6,
+"maxLevel": 100,
+"selfFull": 2,
+"selfPart": 0,
+"selfPartStar": 0,
+"sameNum": 1,
+"sameStar": 6
+},
+{
+"star": 7,
+"maxLevel": 100,
+"selfFull": 2,
+"selfPart": 1,
+"selfPartStar": 6,
+"sameNum": 1,
+"sameStar": 6
+},
+{
+"star": 8,
+"maxLevel": 100,
+"selfFull": 4,
+"selfPart": 0,
+"selfPartStar": 0,
+"sameNum": 2,
+"sameStar": 6
+},
+{
+"star": 9,
+"maxLevel": 100,
+"selfFull": 4,
+"selfPart": 1,
+"selfPartStar": 6,
+"sameNum": 2,
+"sameStar": 6
+},
+{
+"star": 10,
+"maxLevel": 100,
+"selfFull": 6,
+"selfPart": 0,
+"selfPartStar": 0,
+"sameNum": 3,
+"sameStar": 6
+},
+{
+"star": 11,
+"maxLevel": 100,
+"selfFull": 6,
+"selfPart": 1,
+"selfPartStar": 6,
+"sameNum": 3,
+"sameStar": 6
+},
+{
+"star": 12,
+"maxLevel": 100,
+"selfFull": 8,
+"selfPart": 0,
+"selfPartStar": 0,
+"sameNum": 4,
+"sameStar": 6
+},
+{
+"star": 13,
+"maxLevel": 100,
+"selfFull": 8,
+"selfPart": 1,
+"selfPartStar": 6,
+"sameNum": 4,
+"sameStar": 6
+},
+{
+"star": 14,
+"maxLevel": 100,
+"selfFull": 10,
+"selfPart": 0,
+"selfPartStar": 0,
+"sameNum": 4,
+"sameStar": 6
+},
+{
+"star": 15,
+"maxLevel": 100,
+"selfFull": 10,
+"selfPart": 1,
+"selfPartStar": 6,
+"sameNum": 3,
+"sameStar": 6
+},
+{
+"star": 16,
+"maxLevel": 100,
+"selfFull": 12,
+"selfPart": 0,
+"selfPartStar": 0,
+"sameNum": 4,
+"sameStar": 6
+},
+{
+"star": 17,
+"maxLevel": 100,
+"selfFull": 12,
+"selfPart": 1,
+"selfPartStar": 6,
+"sameNum": 3,
+"sameStar": 6
+},
+{
+"star": 18,
+"maxLevel": 100,
+"selfFull": 14,
+"selfPart": 2,
+"selfPartStar": 6,
+"sameNum": 6,
+"sameStar": 6
+},
+{
+"star": 19,
+"maxLevel": 100,
+"selfFull": 18,
+"selfPart": 0,
+"selfPartStar": 0,
+"sameNum": 0,
+"sameStar": 0
+}
+]
