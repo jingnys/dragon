@@ -1,804 +1,884 @@
 {
-"images": [
-{
-"original": "Texture2D_Emoji_qigefei_guide.png",
-"file": "home.webp",
-"label": "HOME",
-"group": "하단바",
-"size": "128x92",
-"bytes": 4326
-},
-{
-"original": "Texture2D_Emoji_Salome_dress_7016061_aoyi.png",
-"file": "nav_salome.webp",
-"label": "임시(살로메)",
-"group": "하단바",
-"size": "128x128",
-"bytes": 7402
-},
-{
-"original": "Texture2D_Emoji_Salome_dress_7016061_cry.png",
-"file": "nav_salome_cry.webp",
-"label": "임시(살로메·클릭)",
-"group": "하단바",
-"size": "128x128",
-"bytes": 7492
-},
-{
-"original": "Texture2D_Emoji_Talos_dress_7066042_aoyi.png",
-"file": "nav_talos.webp",
-"label": "임시(탈로스)",
-"group": "하단바",
-"size": "128x128",
-"bytes": 6528
-},
-{
-"original": "Texture2D_Emoji_Talos_dress_7066042_cry.png",
-"file": "nav_talos_cry.webp",
-"label": "임시(탈로스·클릭)",
-"group": "하단바",
-"size": "128x128",
-"bytes": 6266
-},
-{
-"original": "Texture2D_Emoji_Xuanwu_dress_7016071_aoyi.png",
-"file": "nav_xuanwu.webp",
-"label": "임시(현무)",
-"group": "하단바",
-"size": "128x128",
-"bytes": 6990
-},
-{
-"original": "Texture2D_Emoji_Xuanwu_dress_7016071_cry.png",
-"file": "nav_xuanwu_cry.webp",
-"label": "임시(현무·클릭)",
-"group": "하단바",
-"size": "128x128",
-"bytes": 7176
-},
-{
-"original": "Texture2D_Emoji_apollo_aoyi.png",
-"file": "cell_apollo.webp",
-"label": "아폴론",
-"group": "메인 셀",
-"size": "220x220",
-"bytes": 8844
-},
-{
-"original": "Texture2D_Emoji_ares_aoyi.png",
-"file": "cell_ares.webp",
-"label": "아레스",
-"group": "메인 셀",
-"size": "220x220",
-"bytes": 10394
-},
-{
-"original": "Texture2D_Emoji_thor_aoyi.png",
-"file": "cell_thor.webp",
-"label": "토르",
-"group": "메인 셀",
-"size": "220x220",
-"bytes": 14056
-},
-{
-"original": "Texture2D_Emoji_Hela_aoyi.png",
-"file": "cell_hela.webp",
-"label": "헬라",
-"group": "메인 셀",
-"size": "220x220",
-"bytes": 13060
-},
-{
-"original": "Texture2D_Emoji_Hermes_aoyi.png",
-"file": "cell_hermes.webp",
-"label": "헤르메스",
-"group": "메인 셀",
-"size": "220x220",
-"bytes": 10764
-},
-{
-"original": "Texture2D_Emoji_loki_aoyi.png",
-"file": "cell_loki.webp",
-"label": "로키",
-"group": "메인 셀",
-"size": "220x220",
-"bytes": 12020
-},
-{
-"original": "Texture2D_Emoji_zhuque_aoyi.png",
-"file": "cell_zhuque.webp",
-"label": "주작",
-"group": "메인 셀",
-"size": "220x220",
-"bytes": 13004
-},
-{
-"original": "Texture2D_Emoji_anubisi_aoyi.png",
-"file": "cell_anubis.webp",
-"label": "아누비스",
-"group": "메인 셀",
-"size": "220x220",
-"bytes": 11836
-},
-{
-"original": "Sprite_HeroQualitySSR.png",
-"file": "q_ur.webp",
-"label": "등급 UR",
-"group": "등급",
-"size": "89x78",
-"bytes": 1418
-},
-{
-"original": "Sprite_HeroQualitySRPlus.png",
-"file": "q_ssrplus.webp",
-"label": "등급 SSR+",
-"group": "등급",
-"size": "89x78",
-"bytes": 2012
-},
-{
-"original": "Sprite_HeroQualitySR.png",
-"file": "q_ssr.webp",
-"label": "등급 SSR",
-"group": "등급",
-"size": "89x78",
-"bytes": 1888
-},
-{
-"original": "Sprite_HeroQualityRP.png",
-"file": "q_sr.webp",
-"label": "등급 SR",
-"group": "등급",
-"size": "89x78",
-"bytes": 1572
-},
-{
-"original": "Sprite_HeroQualityR.png",
-"file": "q_r.webp",
-"label": "등급 R",
-"group": "등급",
-"size": "89x78",
-"bytes": 1392
-},
-{
-"original": "Sprite_HeroQualityN.png",
-"file": "q_n.webp",
-"label": "등급 N",
-"group": "등급",
-"size": "89x78",
-"bytes": 1276
-},
-{
-"original": "Sprite_HeroQualityNS.png",
-"file": "q_c.webp",
-"label": "등급 C",
-"group": "등급",
-"size": "89x78",
-"bytes": 1062
-},
-{
-"original": "Sprite_common_Job_HeroIcon_1.png",
-"file": "job1.webp",
-"label": "직업 수호자",
-"group": "직업",
-"size": "62x72",
-"bytes": 4606
-},
-{
-"original": "Sprite_common_Job_HeroIcon_2.png",
-"file": "job2.webp",
-"label": "직업 사제",
-"group": "직업",
-"size": "72x72",
-"bytes": 4586
-},
-{
-"original": "Sprite_common_Job_HeroIcon_3.png",
-"file": "job3.webp",
-"label": "직업 암살자",
-"group": "직업",
-"size": "72x72",
-"bytes": 4776
-},
-{
-"original": "Sprite_common_Job_HeroIcon_4.png",
-"file": "job4.webp",
-"label": "직업 전사",
-"group": "직업",
-"size": "70x72",
-"bytes": 3988
-},
-{
-"original": "Sprite_common_Job_HeroIcon_5.png",
-"file": "job5.webp",
-"label": "직업 궁수",
-"group": "직업",
-"size": "70x72",
-"bytes": 4708
-},
-{
-"original": "Sprite_common_Job_HeroIcon_6.png",
-"file": "job6.webp",
-"label": "직업 마법사",
-"group": "직업",
-"size": "72x71",
-"bytes": 4392
-},
-{
-"original": "Sprite_Common_JobDepartment_yuansu.png",
-"file": "fac_101.webp",
-"label": "진영 원소의 울림",
-"group": "진영",
-"size": "64x64",
-"bytes": 2214
-},
-{
-"original": "Sprite_Common_JobDepartment_buqu.png",
-"file": "fac_102.webp",
-"label": "진영 광야의 영혼",
-"group": "진영",
-"size": "64x63",
-"bytes": 2400
-},
-{
-"original": "Sprite_Common_JobDepartment_aoshu.png",
-"file": "fac_103.webp",
-"label": "진영 비전의 지혜",
-"group": "진영",
-"size": "64x64",
-"bytes": 1974
-},
-{
-"original": "Sprite_Common_JobDepartment_xianzhen.png",
-"file": "fac_104.webp",
-"label": "진영 성당의 영광",
-"group": "진영",
-"size": "64x64",
-"bytes": 2540
-},
-{
-"original": "Sprite_Common_JobDepartment_bian.png",
-"file": "fac_105.webp",
-"label": "진영 피안의 재림",
-"group": "진영",
-"size": "64x64",
-"bytes": 2272
-},
-{
-"original": "Sprite_Common_JobDepartment_mofa.png",
-"file": "fac_106.webp",
-"label": "진영 환영 그림자",
-"group": "진영",
-"size": "64x64",
-"bytes": 2040
-},
-{
-"original": "Sprite_icon_hero_<id>.webp",
-"file": "faces/<id>.webp",
-"label": "환령 얼굴 ×115",
-"group": "환령 얼굴",
-"size": "-",
-"bytes": 0
-},
-{
-"original": "Sprite_Common_ItemQuality_CircleFrame_SSR.png",
-"file": "frame_ssr.webp",
-"label": "원형 프레임 SSR",
-"group": "등급 프레임",
-"size": "120x119",
-"bytes": 5672
-},
-{
-"original": "Sprite_Common_ItemQuality_CircleFrame_SR.png",
-"file": "frame_sr.webp",
-"label": "원형 프레임 SR",
-"group": "등급 프레임",
-"size": "120x119",
-"bytes": 5710
-},
-{
-"original": "Sprite_Common_ItemQuality_CircleFrame_RP.png",
-"file": "frame_rp.webp",
-"label": "원형 프레임 RP",
-"group": "등급 프레임",
-"size": "120x119",
-"bytes": 5758
-},
-{
-"original": "Sprite_Common_ItemQuality_CircleFrame_R.png",
-"file": "frame_r.webp",
-"label": "원형 프레임 R",
-"group": "등급 프레임",
-"size": "120x119",
-"bytes": 5740
-},
-{
-"original": "Sprite_Common_ItemQuality_CircleFrame_N.png",
-"file": "frame_n.webp",
-"label": "원형 프레임 N",
-"group": "등급 프레임",
-"size": "120x119",
-"bytes": 5654
-},
-{
-"original": "Sprite_Common_ItemQuality_CircleFrame_NS.png",
-"file": "frame_ns.webp",
-"label": "원형 프레임 NS",
-"group": "등급 프레임",
-"size": "120x119",
-"bytes": 5456
-},
-{
-"original": "Sprite_BigImg_HeroDress_Frame_custom.png",
-"file": "card_frame.webp",
-"label": "카드 프레임",
-"group": "상세 장식",
-"size": "272x296",
-"bytes": 5140
-},
-{
-"original": "Texture2D_card_hero_<dress>.webp",
-"file": "art/<id>.webp",
-"label": "환령 전신 ×114",
-"group": "환령 전신",
-"size": "328x446",
-"bytes": 0
-},
-{
-"original": "Sprite_common_HeroQualityBg_* / HeroQuality_* / ImgQualityTag_Icon2",
-"file": "qbg_*/qtxt_*/ex_tag.webp",
-"label": "등급+직업 합성 배지",
-"group": "등급 배지",
-"size": "-",
-"bytes": 0
-},
-{
-"original": "Texture2D_Emoji_jing_aoyi.png",
-"file": "nav_lab.webp",
-"label": "연구실",
-"group": "하단바",
-"size": "128x128",
-"bytes": 5960
-},
-{
-"original": "Texture2D_Emoji_jing_cry.png",
-"file": "nav_lab_cry.webp",
-"label": "연구실(활성)",
-"group": "하단바",
-"size": "128x128",
-"bytes": 6056
-},
-{
-"original": "Texture2D_Emoji_yifulite_aoyi.png",
-"file": "nav_misc.webp",
-"label": "임시",
-"group": "하단바",
-"size": "128x128",
-"bytes": 7718
-},
-{
-"original": "Texture2D_Emoji_yifulite_cry.png",
-"file": "nav_misc_cry.webp",
-"label": "임시(활성)",
-"group": "하단바",
-"size": "128x128",
-"bytes": 7960
-},
-{
-"original": "Sprite_Common_Icon_New_HeroList.png",
-"file": "icon_new.webp",
-"label": "신규 NEW 배지",
-"group": "미래시",
-"size": "71x67",
-"bytes": 2422
-},
-{
-"original": "Sprite_itemicon_chouka_mingyun.png",
-"file": "kind_hero.webp",
-"label": "환령(SSR+) 소환",
-"group": "미래시",
-"size": "78x96",
-"bytes": 4750
-},
-{
-"original": "Sprite_itemicon_chouka_shenhua.png",
-"file": "kind_hero_ex.webp",
-"label": "환령(EX) 신화소환",
-"group": "미래시",
-"size": "84x96",
-"bytes": 5378
-},
-{
-"original": "Sprite_itemicon_1018.png",
-"file": "kind_demon.webp",
-"label": "마물 연성",
-"group": "미래시",
-"size": "87x96",
-"bytes": 7090
-},
-{
-"original": "Sprite_itemicon_1016.png",
-"file": "kind_magic.webp",
-"label": "마법 창조",
-"group": "미래시",
-"size": "88x96",
-"bytes": 5566
-},
-{
-"original": "Sprite_itemicon_NormalGacha_02.png",
-"file": "kind_artifact.webp",
-"label": "아티팩트 보물사냥",
-"group": "미래시",
-"size": "96x75",
-"bytes": 3838
-},
-{
-"original": "Sprite_icon_hero_4301.png",
-"file": "favicon.png",
-"label": "사이트 아이콘(지크프리트)",
-"group": "사이트",
-"size": "",
-"bytes": 0
-},
-{
-"original": "Sprite_card_myth_8301_custom.png",
-"file": "dragon/8301.webp",
-"label": "거대 드래곤 카드 8301",
-"group": "거대 드래곤",
-"size": "190x240",
-"bytes": 13132
-},
-{
-"original": "Sprite_card_myth_8302_custom.png",
-"file": "dragon/8302.webp",
-"label": "거대 드래곤 카드 8302",
-"group": "거대 드래곤",
-"size": "192x240",
-"bytes": 13550
-},
-{
-"original": "Sprite_card_myth_8303_custom.png",
-"file": "dragon/8303.webp",
-"label": "거대 드래곤 카드 8303",
-"group": "거대 드래곤",
-"size": "179x240",
-"bytes": 12898
-},
-{
-"original": "Sprite_card_myth_8304_custom.png",
-"file": "dragon/8304.webp",
-"label": "거대 드래곤 카드 8304",
-"group": "거대 드래곤",
-"size": "188x240",
-"bytes": 13916
-},
-{
-"original": "Sprite_card_myth_8305_custom.png",
-"file": "dragon/8305.webp",
-"label": "거대 드래곤 카드 8305",
-"group": "거대 드래곤",
-"size": "188x240",
-"bytes": 15644
-},
-{
-"original": "Sprite_card_myth_8306_custom.png",
-"file": "dragon/8306.webp",
-"label": "거대 드래곤 카드 8306",
-"group": "거대 드래곤",
-"size": "200x240",
-"bytes": 13066
-},
-{
-"original": "Sprite_card_myth_8307_custom.png",
-"file": "dragon/8307.webp",
-"label": "거대 드래곤 카드 8307",
-"group": "거대 드래곤",
-"size": "156x240",
-"bytes": 8488
-},
-{
-"original": "Sprite_card_myth_8308_custom.png",
-"file": "dragon/8308.webp",
-"label": "거대 드래곤 카드 8308",
-"group": "거대 드래곤",
-"size": "192x240",
-"bytes": 9538
-},
-{
-"original": "Sprite_card_myth_8401_custom.png",
-"file": "dragon/8401.webp",
-"label": "거대 드래곤 카드 8401",
-"group": "거대 드래곤",
-"size": "202x240",
-"bytes": 13356
-},
-{
-"original": "Sprite_card_myth_8402_custom.png",
-"file": "dragon/8402.webp",
-"label": "거대 드래곤 카드 8402",
-"group": "거대 드래곤",
-"size": "200x240",
-"bytes": 14524
-},
-{
-"original": "Sprite_card_myth_8403_custom.png",
-"file": "dragon/8403.webp",
-"label": "거대 드래곤 카드 8403",
-"group": "거대 드래곤",
-"size": "192x240",
-"bytes": 14720
-},
-{
-"original": "Sprite_card_myth_8404_custom.png",
-"file": "dragon/8404.webp",
-"label": "거대 드래곤 카드 8404",
-"group": "거대 드래곤",
-"size": "187x240",
-"bytes": 17864
-},
-{
-"original": "Sprite_card_myth_8405_custom.png",
-"file": "dragon/8405.webp",
-"label": "거대 드래곤 카드 8405",
-"group": "거대 드래곤",
-"size": "183x240",
-"bytes": 14776
-},
-{
-"original": "Sprite_card_myth_8406_custom.png",
-"file": "dragon/8406.webp",
-"label": "거대 드래곤 카드 8406",
-"group": "거대 드래곤",
-"size": "192x240",
-"bytes": 13830
-},
-{
-"original": "Sprite_card_myth_8501_custom.png",
-"file": "dragon/8501.webp",
-"label": "거대 드래곤 카드 8501",
-"group": "거대 드래곤",
-"size": "183x240",
-"bytes": 13760
-},
-{
-"original": "Sprite_card_myth_8502_custom.png",
-"file": "dragon/8502.webp",
-"label": "거대 드래곤 카드 8502",
-"group": "거대 드래곤",
-"size": "183x240",
-"bytes": 15402
-},
-{
-"original": "Sprite_card_myth_8503_custom.png",
-"file": "dragon/8503.webp",
-"label": "거대 드래곤 카드 8503",
-"group": "거대 드래곤",
-"size": "183x240",
-"bytes": 16464
-},
-{
-"original": "Sprite_card_myth_8504_custom.png",
-"file": "dragon/8504.webp",
-"label": "거대 드래곤 카드 8504",
-"group": "거대 드래곤",
-"size": "183x240",
-"bytes": 16560
-},
-{
-"original": "Sprite_card_myth_8505_custom.png",
-"file": "dragon/8505.webp",
-"label": "거대 드래곤 카드 8505",
-"group": "거대 드래곤",
-"size": "184x240",
-"bytes": 15508
-},
-{
-"original": "Sprite_card_myth_8506_custom.png",
-"file": "dragon/8506.webp",
-"label": "거대 드래곤 카드 8506",
-"group": "거대 드래곤",
-"size": "183x240",
-"bytes": 14364
-},
-{
-"original": "Sprite_Treasure_3201_custom.png",
-"file": "artifact/3201.webp",
-"label": "아티팩트(신기) 3201",
-"group": "아티팩트",
-"size": "200x199",
-"bytes": 15326
-},
-{
-"original": "Sprite_Treasure_3202_custom.png",
-"file": "artifact/3202.webp",
-"label": "아티팩트(신기) 3202",
-"group": "아티팩트",
-"size": "200x172",
-"bytes": 14374
-},
-{
-"original": "Sprite_Treasure_3301_custom.png",
-"file": "artifact/3301.webp",
-"label": "아티팩트(신기) 3301",
-"group": "아티팩트",
-"size": "131x200",
-"bytes": 12594
-},
-{
-"original": "Sprite_Treasure_3302_custom.png",
-"file": "artifact/3302.webp",
-"label": "아티팩트(신기) 3302",
-"group": "아티팩트",
-"size": "198x200",
-"bytes": 16504
-},
-{
-"original": "Sprite_Treasure_3303_custom.png",
-"file": "artifact/3303.webp",
-"label": "아티팩트(신기) 3303",
-"group": "아티팩트",
-"size": "131x200",
-"bytes": 10860
-},
-{
-"original": "Sprite_Treasure_3304_custom.png",
-"file": "artifact/3304.webp",
-"label": "아티팩트(신기) 3304",
-"group": "아티팩트",
-"size": "200x184",
-"bytes": 12886
-},
-{
-"original": "Sprite_Treasure_3401_custom.png",
-"file": "artifact/3401.webp",
-"label": "아티팩트(신기) 3401",
-"group": "아티팩트",
-"size": "200x143",
-"bytes": 12984
-},
-{
-"original": "Sprite_Treasure_3402_custom.png",
-"file": "artifact/3402.webp",
-"label": "아티팩트(신기) 3402",
-"group": "아티팩트",
-"size": "145x200",
-"bytes": 11304
-},
-{
-"original": "Sprite_Treasure_3403_custom.png",
-"file": "artifact/3403.webp",
-"label": "아티팩트(신기) 3403",
-"group": "아티팩트",
-"size": "199x200",
-"bytes": 24566
-},
-{
-"original": "Sprite_Treasure_3404_custom.png",
-"file": "artifact/3404.webp",
-"label": "아티팩트(신기) 3404",
-"group": "아티팩트",
-"size": "200x179",
-"bytes": 12800
-},
-{
-"original": "Sprite_Treasure_3501_custom.png",
-"file": "artifact/3501.webp",
-"label": "아티팩트(신기) 3501",
-"group": "아티팩트",
-"size": "191x200",
-"bytes": 15456
-},
-{
-"original": "Sprite_Treasure_3502_custom.png",
-"file": "artifact/3502.webp",
-"label": "아티팩트(신기) 3502",
-"group": "아티팩트",
-"size": "200x176",
-"bytes": 12406
-},
-{
-"original": "Sprite_Treasure_3503_custom.png",
-"file": "artifact/3503.webp",
-"label": "아티팩트(신기) 3503",
-"group": "아티팩트",
-"size": "200x142",
-"bytes": 10020
-},
-{
-"original": "Sprite_Treasure_3504_custom.png",
-"file": "artifact/3504.webp",
-"label": "아티팩트(신기) 3504",
-"group": "아티팩트",
-"size": "200x183",
-"bytes": 12962
-},
-{
-"original": "Sprite_Treasure_3505_custom.png",
-"file": "artifact/3505.webp",
-"label": "아티팩트(신기) 3505",
-"group": "아티팩트",
-"size": "180x200",
-"bytes": 13682
-},
-{
-"original": "Sprite_Treasure_3506_custom.png",
-"file": "artifact/3506.webp",
-"label": "아티팩트(신기) 3506",
-"group": "아티팩트",
-"size": "186x200",
-"bytes": 22454
-},
-{
-"original": "Sprite_Treasure_3601_custom.png",
-"file": "artifact/3601.webp",
-"label": "아티팩트(신기) 3601",
-"group": "아티팩트",
-"size": "161x200",
-"bytes": 8432
-},
-{
-"original": "Sprite_Treasure_3602_custom.png",
-"file": "artifact/3602.webp",
-"label": "아티팩트(신기) 3602",
-"group": "아티팩트",
-"size": "143x200",
-"bytes": 7418
-},
-{
-"original": "Sprite_Treasure_3603_custom.png",
-"file": "artifact/3603.webp",
-"label": "아티팩트(신기) 3603",
-"group": "아티팩트",
-"size": "200x200",
-"bytes": 9864
-},
-{
-"original": "Sprite_Treasure_3604_custom.png",
-"file": "artifact/3604.webp",
-"label": "아티팩트(신기) 3604",
-"group": "아티팩트",
-"size": "195x200",
-"bytes": 6108
-},
-{
-"original": "Sprite_Treasure_3605_custom.png",
-"file": "artifact/3605.webp",
-"label": "아티팩트(신기) 3605",
-"group": "아티팩트",
-"size": "179x200",
-"bytes": 9032
-},
-{
-"original": "Sprite_Treasure_3606_custom.png",
-"file": "artifact/3606.webp",
-"label": "아티팩트(신기) 3606",
-"group": "아티팩트",
-"size": "200x176",
-"bytes": 12406
-},
-{
-"original": "Sprite_Treasure_3607_custom.png",
-"file": "artifact/3607.webp",
-"label": "아티팩트(신기) 3607",
-"group": "아티팩트",
-"size": "199x200",
-"bytes": 24566
-},
-{
-"original": "Sprite_Treasure_3608_custom.png",
-"file": "artifact/3608.webp",
-"label": "아티팩트(신기) 3608",
-"group": "아티팩트",
-"size": "200x190",
-"bytes": 12886
-},
-{
-"original": "Sprite_Treasure_3611_custom.png",
-"file": "artifact/3611.webp",
-"label": "아티팩트(신기) 3611",
-"group": "아티팩트",
-"size": "150x200",
-"bytes": 8084
-}
-]
+ "images": [
+  {
+   "original": "Texture2D_Emoji_qigefei_guide.png",
+   "file": "home.webp",
+   "label": "HOME",
+   "group": "하단바",
+   "size": "128x92",
+   "bytes": 4326
+  },
+  {
+   "original": "Texture2D_Emoji_Salome_dress_7016061_aoyi.png",
+   "file": "nav_salome.webp",
+   "label": "임시(살로메)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 7402
+  },
+  {
+   "original": "Texture2D_Emoji_Salome_dress_7016061_cry.png",
+   "file": "nav_salome_cry.webp",
+   "label": "임시(살로메·클릭)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 7492
+  },
+  {
+   "original": "Texture2D_Emoji_Talos_dress_7066042_aoyi.png",
+   "file": "nav_talos.webp",
+   "label": "임시(탈로스)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 6528
+  },
+  {
+   "original": "Texture2D_Emoji_Talos_dress_7066042_cry.png",
+   "file": "nav_talos_cry.webp",
+   "label": "임시(탈로스·클릭)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 6266
+  },
+  {
+   "original": "Texture2D_Emoji_Xuanwu_dress_7016071_aoyi.png",
+   "file": "nav_xuanwu.webp",
+   "label": "임시(현무)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 6990
+  },
+  {
+   "original": "Texture2D_Emoji_Xuanwu_dress_7016071_cry.png",
+   "file": "nav_xuanwu_cry.webp",
+   "label": "임시(현무·클릭)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 7176
+  },
+  {
+   "original": "Texture2D_Emoji_apollo_aoyi.png",
+   "file": "cell_apollo.webp",
+   "label": "아폴론",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 8844
+  },
+  {
+   "original": "Texture2D_Emoji_ares_aoyi.png",
+   "file": "cell_ares.webp",
+   "label": "아레스",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 10394
+  },
+  {
+   "original": "Texture2D_Emoji_thor_aoyi.png",
+   "file": "cell_thor.webp",
+   "label": "토르",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 14056
+  },
+  {
+   "original": "Texture2D_Emoji_Hela_aoyi.png",
+   "file": "cell_hela.webp",
+   "label": "헬라",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 13060
+  },
+  {
+   "original": "Texture2D_Emoji_Hermes_aoyi.png",
+   "file": "cell_hermes.webp",
+   "label": "헤르메스",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 10764
+  },
+  {
+   "original": "Texture2D_Emoji_loki_aoyi.png",
+   "file": "cell_loki.webp",
+   "label": "로키",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 12020
+  },
+  {
+   "original": "Texture2D_Emoji_zhuque_aoyi.png",
+   "file": "cell_zhuque.webp",
+   "label": "주작",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 13004
+  },
+  {
+   "original": "Texture2D_Emoji_anubisi_aoyi.png",
+   "file": "cell_anubis.webp",
+   "label": "아누비스",
+   "group": "메인 셀",
+   "size": "220x220",
+   "bytes": 11836
+  },
+  {
+   "original": "Sprite_HeroQualitySSR.png",
+   "file": "q_ur.webp",
+   "label": "등급 UR",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1418
+  },
+  {
+   "original": "Sprite_HeroQualitySRPlus.png",
+   "file": "q_ssrplus.webp",
+   "label": "등급 SSR+",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 2012
+  },
+  {
+   "original": "Sprite_HeroQualitySR.png",
+   "file": "q_ssr.webp",
+   "label": "등급 SSR",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1888
+  },
+  {
+   "original": "Sprite_HeroQualityRP.png",
+   "file": "q_sr.webp",
+   "label": "등급 SR",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1572
+  },
+  {
+   "original": "Sprite_HeroQualityR.png",
+   "file": "q_r.webp",
+   "label": "등급 R",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1392
+  },
+  {
+   "original": "Sprite_HeroQualityN.png",
+   "file": "q_n.webp",
+   "label": "등급 N",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1276
+  },
+  {
+   "original": "Sprite_HeroQualityNS.png",
+   "file": "q_c.webp",
+   "label": "등급 C",
+   "group": "등급",
+   "size": "89x78",
+   "bytes": 1062
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_1.png",
+   "file": "job1.webp",
+   "label": "직업 수호자",
+   "group": "직업",
+   "size": "62x72",
+   "bytes": 4606
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_2.png",
+   "file": "job2.webp",
+   "label": "직업 사제",
+   "group": "직업",
+   "size": "72x72",
+   "bytes": 4586
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_3.png",
+   "file": "job3.webp",
+   "label": "직업 암살자",
+   "group": "직업",
+   "size": "72x72",
+   "bytes": 4776
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_4.png",
+   "file": "job4.webp",
+   "label": "직업 전사",
+   "group": "직업",
+   "size": "70x72",
+   "bytes": 3988
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_5.png",
+   "file": "job5.webp",
+   "label": "직업 궁수",
+   "group": "직업",
+   "size": "70x72",
+   "bytes": 4708
+  },
+  {
+   "original": "Sprite_common_Job_HeroIcon_6.png",
+   "file": "job6.webp",
+   "label": "직업 마법사",
+   "group": "직업",
+   "size": "72x71",
+   "bytes": 4392
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_yuansu.png",
+   "file": "fac_101.webp",
+   "label": "진영 원소의 울림",
+   "group": "진영",
+   "size": "64x64",
+   "bytes": 2214
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_buqu.png",
+   "file": "fac_102.webp",
+   "label": "진영 광야의 영혼",
+   "group": "진영",
+   "size": "64x63",
+   "bytes": 2400
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_aoshu.png",
+   "file": "fac_103.webp",
+   "label": "진영 비전의 지혜",
+   "group": "진영",
+   "size": "64x64",
+   "bytes": 1974
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_xianzhen.png",
+   "file": "fac_104.webp",
+   "label": "진영 성당의 영광",
+   "group": "진영",
+   "size": "64x64",
+   "bytes": 2540
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_bian.png",
+   "file": "fac_105.webp",
+   "label": "진영 피안의 재림",
+   "group": "진영",
+   "size": "64x64",
+   "bytes": 2272
+  },
+  {
+   "original": "Sprite_Common_JobDepartment_mofa.png",
+   "file": "fac_106.webp",
+   "label": "진영 환영 그림자",
+   "group": "진영",
+   "size": "64x64",
+   "bytes": 2040
+  },
+  {
+   "original": "Sprite_icon_hero_<id>.webp",
+   "file": "faces/<id>.webp",
+   "label": "환령 얼굴 ×115",
+   "group": "환령 얼굴",
+   "size": "-",
+   "bytes": 0
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_SSR.png",
+   "file": "frame_ssr.webp",
+   "label": "원형 프레임 SSR",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5672
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_SR.png",
+   "file": "frame_sr.webp",
+   "label": "원형 프레임 SR",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5710
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_RP.png",
+   "file": "frame_rp.webp",
+   "label": "원형 프레임 RP",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5758
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_R.png",
+   "file": "frame_r.webp",
+   "label": "원형 프레임 R",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5740
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_N.png",
+   "file": "frame_n.webp",
+   "label": "원형 프레임 N",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5654
+  },
+  {
+   "original": "Sprite_Common_ItemQuality_CircleFrame_NS.png",
+   "file": "frame_ns.webp",
+   "label": "원형 프레임 NS",
+   "group": "등급 프레임",
+   "size": "120x119",
+   "bytes": 5456
+  },
+  {
+   "original": "Sprite_BigImg_HeroDress_Frame_custom.png",
+   "file": "card_frame.webp",
+   "label": "카드 프레임",
+   "group": "상세 장식",
+   "size": "272x296",
+   "bytes": 5140
+  },
+  {
+   "original": "Texture2D_card_hero_<dress>.webp",
+   "file": "art/<id>.webp",
+   "label": "환령 전신 ×114",
+   "group": "환령 전신",
+   "size": "328x446",
+   "bytes": 0
+  },
+  {
+   "original": "Sprite_common_HeroQualityBg_* / HeroQuality_* / ImgQualityTag_Icon2",
+   "file": "qbg_*/qtxt_*/ex_tag.webp",
+   "label": "등급+직업 합성 배지",
+   "group": "등급 배지",
+   "size": "-",
+   "bytes": 0
+  },
+  {
+   "original": "Texture2D_Emoji_jing_aoyi.png",
+   "file": "nav_lab.webp",
+   "label": "연구실",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 5960
+  },
+  {
+   "original": "Texture2D_Emoji_jing_cry.png",
+   "file": "nav_lab_cry.webp",
+   "label": "연구실(활성)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 6056
+  },
+  {
+   "original": "Texture2D_Emoji_yifulite_aoyi.png",
+   "file": "nav_misc.webp",
+   "label": "임시",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 7718
+  },
+  {
+   "original": "Texture2D_Emoji_yifulite_cry.png",
+   "file": "nav_misc_cry.webp",
+   "label": "임시(활성)",
+   "group": "하단바",
+   "size": "128x128",
+   "bytes": 7960
+  },
+  {
+   "original": "Sprite_Common_Icon_New_HeroList.png",
+   "file": "icon_new.webp",
+   "label": "신규 NEW 배지",
+   "group": "미래시",
+   "size": "71x67",
+   "bytes": 2422
+  },
+  {
+   "original": "Sprite_itemicon_chouka_mingyun.png",
+   "file": "kind_hero.webp",
+   "label": "환령(SSR+) 소환",
+   "group": "미래시",
+   "size": "78x96",
+   "bytes": 4750
+  },
+  {
+   "original": "Sprite_itemicon_chouka_shenhua.png",
+   "file": "kind_hero_ex.webp",
+   "label": "환령(EX) 신화소환",
+   "group": "미래시",
+   "size": "84x96",
+   "bytes": 5378
+  },
+  {
+   "original": "Sprite_itemicon_1018.png",
+   "file": "kind_demon.webp",
+   "label": "마물 연성",
+   "group": "미래시",
+   "size": "87x96",
+   "bytes": 7090
+  },
+  {
+   "original": "Sprite_itemicon_1016.png",
+   "file": "kind_magic.webp",
+   "label": "마법 창조",
+   "group": "미래시",
+   "size": "88x96",
+   "bytes": 5566
+  },
+  {
+   "original": "Sprite_itemicon_NormalGacha_02.png",
+   "file": "kind_artifact.webp",
+   "label": "아티팩트 보물사냥",
+   "group": "미래시",
+   "size": "96x75",
+   "bytes": 3838
+  },
+  {
+   "original": "Sprite_icon_hero_4301.png",
+   "file": "favicon.png",
+   "label": "사이트 아이콘(지크프리트)",
+   "group": "사이트",
+   "size": "",
+   "bytes": 0
+  },
+  {
+   "original": "Sprite_card_myth_8301_custom.png",
+   "file": "dragon/8301.webp",
+   "label": "거대 드래곤 카드 8301",
+   "group": "거대 드래곤",
+   "size": "190x240",
+   "bytes": 13132
+  },
+  {
+   "original": "Sprite_card_myth_8302_custom.png",
+   "file": "dragon/8302.webp",
+   "label": "거대 드래곤 카드 8302",
+   "group": "거대 드래곤",
+   "size": "192x240",
+   "bytes": 13550
+  },
+  {
+   "original": "Sprite_card_myth_8303_custom.png",
+   "file": "dragon/8303.webp",
+   "label": "거대 드래곤 카드 8303",
+   "group": "거대 드래곤",
+   "size": "179x240",
+   "bytes": 12898
+  },
+  {
+   "original": "Sprite_card_myth_8304_custom.png",
+   "file": "dragon/8304.webp",
+   "label": "거대 드래곤 카드 8304",
+   "group": "거대 드래곤",
+   "size": "188x240",
+   "bytes": 13916
+  },
+  {
+   "original": "Sprite_card_myth_8305_custom.png",
+   "file": "dragon/8305.webp",
+   "label": "거대 드래곤 카드 8305",
+   "group": "거대 드래곤",
+   "size": "188x240",
+   "bytes": 15644
+  },
+  {
+   "original": "Sprite_card_myth_8306_custom.png",
+   "file": "dragon/8306.webp",
+   "label": "거대 드래곤 카드 8306",
+   "group": "거대 드래곤",
+   "size": "200x240",
+   "bytes": 13066
+  },
+  {
+   "original": "Sprite_card_myth_8307_custom.png",
+   "file": "dragon/8307.webp",
+   "label": "거대 드래곤 카드 8307",
+   "group": "거대 드래곤",
+   "size": "156x240",
+   "bytes": 8488
+  },
+  {
+   "original": "Sprite_card_myth_8308_custom.png",
+   "file": "dragon/8308.webp",
+   "label": "거대 드래곤 카드 8308",
+   "group": "거대 드래곤",
+   "size": "192x240",
+   "bytes": 9538
+  },
+  {
+   "original": "Sprite_card_myth_8401_custom.png",
+   "file": "dragon/8401.webp",
+   "label": "거대 드래곤 카드 8401",
+   "group": "거대 드래곤",
+   "size": "202x240",
+   "bytes": 13356
+  },
+  {
+   "original": "Sprite_card_myth_8402_custom.png",
+   "file": "dragon/8402.webp",
+   "label": "거대 드래곤 카드 8402",
+   "group": "거대 드래곤",
+   "size": "200x240",
+   "bytes": 14524
+  },
+  {
+   "original": "Sprite_card_myth_8403_custom.png",
+   "file": "dragon/8403.webp",
+   "label": "거대 드래곤 카드 8403",
+   "group": "거대 드래곤",
+   "size": "192x240",
+   "bytes": 14720
+  },
+  {
+   "original": "Sprite_card_myth_8404_custom.png",
+   "file": "dragon/8404.webp",
+   "label": "거대 드래곤 카드 8404",
+   "group": "거대 드래곤",
+   "size": "187x240",
+   "bytes": 17864
+  },
+  {
+   "original": "Sprite_card_myth_8405_custom.png",
+   "file": "dragon/8405.webp",
+   "label": "거대 드래곤 카드 8405",
+   "group": "거대 드래곤",
+   "size": "183x240",
+   "bytes": 14776
+  },
+  {
+   "original": "Sprite_card_myth_8406_custom.png",
+   "file": "dragon/8406.webp",
+   "label": "거대 드래곤 카드 8406",
+   "group": "거대 드래곤",
+   "size": "192x240",
+   "bytes": 13830
+  },
+  {
+   "original": "Sprite_card_myth_8501_custom.png",
+   "file": "dragon/8501.webp",
+   "label": "거대 드래곤 카드 8501",
+   "group": "거대 드래곤",
+   "size": "183x240",
+   "bytes": 13760
+  },
+  {
+   "original": "Sprite_card_myth_8502_custom.png",
+   "file": "dragon/8502.webp",
+   "label": "거대 드래곤 카드 8502",
+   "group": "거대 드래곤",
+   "size": "183x240",
+   "bytes": 15402
+  },
+  {
+   "original": "Sprite_card_myth_8503_custom.png",
+   "file": "dragon/8503.webp",
+   "label": "거대 드래곤 카드 8503",
+   "group": "거대 드래곤",
+   "size": "183x240",
+   "bytes": 16464
+  },
+  {
+   "original": "Sprite_card_myth_8504_custom.png",
+   "file": "dragon/8504.webp",
+   "label": "거대 드래곤 카드 8504",
+   "group": "거대 드래곤",
+   "size": "183x240",
+   "bytes": 16560
+  },
+  {
+   "original": "Sprite_card_myth_8505_custom.png",
+   "file": "dragon/8505.webp",
+   "label": "거대 드래곤 카드 8505",
+   "group": "거대 드래곤",
+   "size": "184x240",
+   "bytes": 15508
+  },
+  {
+   "original": "Sprite_card_myth_8506_custom.png",
+   "file": "dragon/8506.webp",
+   "label": "거대 드래곤 카드 8506",
+   "group": "거대 드래곤",
+   "size": "183x240",
+   "bytes": 14364
+  },
+  {
+   "original": "Sprite_Treasure_3201_custom.png",
+   "file": "artifact/3201.webp",
+   "label": "아티팩트(신기) 3201",
+   "group": "아티팩트",
+   "size": "200x199",
+   "bytes": 15326
+  },
+  {
+   "original": "Sprite_Treasure_3202_custom.png",
+   "file": "artifact/3202.webp",
+   "label": "아티팩트(신기) 3202",
+   "group": "아티팩트",
+   "size": "200x172",
+   "bytes": 14374
+  },
+  {
+   "original": "Sprite_Treasure_3301_custom.png",
+   "file": "artifact/3301.webp",
+   "label": "아티팩트(신기) 3301",
+   "group": "아티팩트",
+   "size": "131x200",
+   "bytes": 12594
+  },
+  {
+   "original": "Sprite_Treasure_3302_custom.png",
+   "file": "artifact/3302.webp",
+   "label": "아티팩트(신기) 3302",
+   "group": "아티팩트",
+   "size": "198x200",
+   "bytes": 16504
+  },
+  {
+   "original": "Sprite_Treasure_3303_custom.png",
+   "file": "artifact/3303.webp",
+   "label": "아티팩트(신기) 3303",
+   "group": "아티팩트",
+   "size": "131x200",
+   "bytes": 10860
+  },
+  {
+   "original": "Sprite_Treasure_3304_custom.png",
+   "file": "artifact/3304.webp",
+   "label": "아티팩트(신기) 3304",
+   "group": "아티팩트",
+   "size": "200x184",
+   "bytes": 12886
+  },
+  {
+   "original": "Sprite_Treasure_3401_custom.png",
+   "file": "artifact/3401.webp",
+   "label": "아티팩트(신기) 3401",
+   "group": "아티팩트",
+   "size": "200x143",
+   "bytes": 12984
+  },
+  {
+   "original": "Sprite_Treasure_3402_custom.png",
+   "file": "artifact/3402.webp",
+   "label": "아티팩트(신기) 3402",
+   "group": "아티팩트",
+   "size": "145x200",
+   "bytes": 11304
+  },
+  {
+   "original": "Sprite_Treasure_3403_custom.png",
+   "file": "artifact/3403.webp",
+   "label": "아티팩트(신기) 3403",
+   "group": "아티팩트",
+   "size": "199x200",
+   "bytes": 24566
+  },
+  {
+   "original": "Sprite_Treasure_3404_custom.png",
+   "file": "artifact/3404.webp",
+   "label": "아티팩트(신기) 3404",
+   "group": "아티팩트",
+   "size": "200x179",
+   "bytes": 12800
+  },
+  {
+   "original": "Sprite_Treasure_3501_custom.png",
+   "file": "artifact/3501.webp",
+   "label": "아티팩트(신기) 3501",
+   "group": "아티팩트",
+   "size": "191x200",
+   "bytes": 15456
+  },
+  {
+   "original": "Sprite_Treasure_3502_custom.png",
+   "file": "artifact/3502.webp",
+   "label": "아티팩트(신기) 3502",
+   "group": "아티팩트",
+   "size": "200x176",
+   "bytes": 12406
+  },
+  {
+   "original": "Sprite_Treasure_3503_custom.png",
+   "file": "artifact/3503.webp",
+   "label": "아티팩트(신기) 3503",
+   "group": "아티팩트",
+   "size": "200x142",
+   "bytes": 10020
+  },
+  {
+   "original": "Sprite_Treasure_3504_custom.png",
+   "file": "artifact/3504.webp",
+   "label": "아티팩트(신기) 3504",
+   "group": "아티팩트",
+   "size": "200x183",
+   "bytes": 12962
+  },
+  {
+   "original": "Sprite_Treasure_3505_custom.png",
+   "file": "artifact/3505.webp",
+   "label": "아티팩트(신기) 3505",
+   "group": "아티팩트",
+   "size": "180x200",
+   "bytes": 13682
+  },
+  {
+   "original": "Sprite_Treasure_3506_custom.png",
+   "file": "artifact/3506.webp",
+   "label": "아티팩트(신기) 3506",
+   "group": "아티팩트",
+   "size": "186x200",
+   "bytes": 22454
+  },
+  {
+   "original": "Sprite_Treasure_3601_custom.png",
+   "file": "artifact/3601.webp",
+   "label": "아티팩트(신기) 3601",
+   "group": "아티팩트",
+   "size": "161x200",
+   "bytes": 8432
+  },
+  {
+   "original": "Sprite_Treasure_3602_custom.png",
+   "file": "artifact/3602.webp",
+   "label": "아티팩트(신기) 3602",
+   "group": "아티팩트",
+   "size": "143x200",
+   "bytes": 7418
+  },
+  {
+   "original": "Sprite_Treasure_3603_custom.png",
+   "file": "artifact/3603.webp",
+   "label": "아티팩트(신기) 3603",
+   "group": "아티팩트",
+   "size": "200x200",
+   "bytes": 9864
+  },
+  {
+   "original": "Sprite_Treasure_3604_custom.png",
+   "file": "artifact/3604.webp",
+   "label": "아티팩트(신기) 3604",
+   "group": "아티팩트",
+   "size": "195x200",
+   "bytes": 6108
+  },
+  {
+   "original": "Sprite_Treasure_3605_custom.png",
+   "file": "artifact/3605.webp",
+   "label": "아티팩트(신기) 3605",
+   "group": "아티팩트",
+   "size": "179x200",
+   "bytes": 9032
+  },
+  {
+   "original": "Sprite_Treasure_3606_custom.png",
+   "file": "artifact/3606.webp",
+   "label": "아티팩트(신기) 3606",
+   "group": "아티팩트",
+   "size": "200x176",
+   "bytes": 12406
+  },
+  {
+   "original": "Sprite_Treasure_3607_custom.png",
+   "file": "artifact/3607.webp",
+   "label": "아티팩트(신기) 3607",
+   "group": "아티팩트",
+   "size": "199x200",
+   "bytes": 24566
+  },
+  {
+   "original": "Sprite_Treasure_3608_custom.png",
+   "file": "artifact/3608.webp",
+   "label": "아티팩트(신기) 3608",
+   "group": "아티팩트",
+   "size": "200x190",
+   "bytes": 12886
+  },
+  {
+   "original": "Sprite_Treasure_3611_custom.png",
+   "file": "artifact/3611.webp",
+   "label": "아티팩트(신기) 3611",
+   "group": "아티팩트",
+   "size": "150x200",
+   "bytes": 8084
+  },
+  {
+   "original": "Texture2D_AKGlobal_TeamBg_01.png",
+   "file": "team_bg_0.webp",
+   "label": "아군 배치도 배경",
+   "group": "배치도",
+   "size": "628x469",
+   "bytes": 13144
+  },
+  {
+   "original": "Texture2D_AKGlobal_TeamBg_02.png",
+   "file": "team_bg_1.webp",
+   "label": "적군 배치도 배경",
+   "group": "배치도",
+   "size": "629x471",
+   "bytes": 12872
+  },
+  {
+   "original": "Texture2D_AKGlobal_TeamBg_01.png",
+   "file": "deck_bg.webp",
+   "label": "덱빌더 포메이션 배경",
+   "group": "배치도",
+   "size": "628x469",
+   "bytes": 13144
+  },
+  {
+   "original": "game-ui",
+   "file": "dragon_card_bg_ssr.webp",
+   "label": "드래곤 카드 SSR 배경",
+   "group": "거대 드래곤",
+   "size": "220x288",
+   "bytes": 3350
+  },
+  {
+   "original": "game-ui",
+   "file": "dragon_card_8501.webp",
+   "label": "드래곤 카드 8501",
+   "group": "거대 드래곤",
+   "size": "220x288",
+   "bytes": 14256
+  },
+  {
+   "original": "game-ui",
+   "file": "dragon_card_8502.webp",
+   "label": "드래곤 카드 8502",
+   "group": "거대 드래곤",
+   "size": "220x288",
+   "bytes": 16740
+  },
+  {
+   "original": "game-ui",
+   "file": "dragon_card_8503.webp",
+   "label": "드래곤 카드 8503",
+   "group": "거대 드래곤",
+   "size": "220x287",
+   "bytes": 18440
+  },
+  {
+   "original": "game-ui",
+   "file": "dragon_card_8504.webp",
+   "label": "드래곤 카드 8504",
+   "group": "거대 드래곤",
+   "size": "220x288",
+   "bytes": 17552
+  },
+  {
+   "original": "game-ui",
+   "file": "dragon_card_8505.webp",
+   "label": "드래곤 카드 8505",
+   "group": "거대 드래곤",
+   "size": "220x286",
+   "bytes": 17600
+  },
+  {
+   "original": "game-ui",
+   "file": "dragon_card_8506.webp",
+   "label": "드래곤 카드 8506",
+   "group": "거대 드래곤",
+   "size": "220x288",
+   "bytes": 15120
+  }
+ ]
 }
