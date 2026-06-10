@@ -879,6 +879,22 @@
    "group": "거대 드래곤",
    "size": "220x288",
    "bytes": 15120
+  },
+  {
+   "original": "Sprite_common_QualityFrame_Circle_R.png",
+   "file": "qframe_r.webp",
+   "label": "아군 유닛 프레임(R)",
+   "group": "배치도",
+   "size": "140x140",
+   "bytes": 4116
+  },
+  {
+   "original": "Sprite_common_QualityFrame_Circle_SR.png",
+   "file": "qframe_sr.webp",
+   "label": "적군 유닛 프레임(SR)",
+   "group": "배치도",
+   "size": "140x140",
+   "bytes": 5212
   }
  ]
 }
