@@ -895,6 +895,54 @@
    "group": "배치도",
    "size": "140x140",
    "bytes": 5212
+  },
+  {
+   "original": "Sprite_common_Job_1.png",
+   "file": "cjob1.webp",
+   "label": "직업 아이콘 수호자",
+   "group": "직업",
+   "size": "50x50",
+   "bytes": 1072
+  },
+  {
+   "original": "Sprite_common_Job_2.png",
+   "file": "cjob2.webp",
+   "label": "직업 아이콘 성직자",
+   "group": "직업",
+   "size": "50x50",
+   "bytes": 1034
+  },
+  {
+   "original": "Sprite_common_Job_3.png",
+   "file": "cjob3.webp",
+   "label": "직업 아이콘 암살자",
+   "group": "직업",
+   "size": "50x50",
+   "bytes": 1026
+  },
+  {
+   "original": "Sprite_common_Job_4.png",
+   "file": "cjob4.webp",
+   "label": "직업 아이콘 전사",
+   "group": "직업",
+   "size": "50x50",
+   "bytes": 994
+  },
+  {
+   "original": "Sprite_common_Job_5.png",
+   "file": "cjob5.webp",
+   "label": "직업 아이콘 사수",
+   "group": "직업",
+   "size": "50x50",
+   "bytes": 1088
+  },
+  {
+   "original": "Sprite_common_Job_6.png",
+   "file": "cjob6.webp",
+   "label": "직업 아이콘 마법사",
+   "group": "직업",
+   "size": "50x50",
+   "bytes": 948
   }
  ]
 }
