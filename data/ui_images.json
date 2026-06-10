@@ -809,12 +809,12 @@
    "bytes": 13144
   },
   {
-   "original": "Texture2D_AKGlobal_TeamBg_02.png",
+   "original": "team_bg_0(Texture2D_AKGlobal_TeamBg_01) 좌우반전+R/B스왑(붉은색)",
    "file": "team_bg_1.webp",
-   "label": "적군 배치도 배경",
+   "label": "B팀(적) 배치도 배경(A 반전·적색)",
    "group": "배치도",
-   "size": "629x471",
-   "bytes": 12872
+   "size": "628x469",
+   "bytes": 13064
   },
   {
    "original": "Texture2D_AKGlobal_TeamBg_01.png",
