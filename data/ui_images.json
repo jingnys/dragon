@@ -943,6 +943,22 @@
    "group": "직업",
    "size": "50x50",
    "bytes": 948
+  },
+  {
+   "original": "Sprite/dcard_frame_bottom",
+   "file": "dcard_frame_bottom.webp",
+   "label": "드래곤 카드 하단 프레임",
+   "group": "거대 드래곤",
+   "size": "76x74",
+   "bytes": 380
+  },
+  {
+   "original": "Sprite/dcard_frame_topleft",
+   "file": "dcard_frame_topleft.webp",
+   "label": "드래곤 카드 좌상단 프레임",
+   "group": "거대 드래곤",
+   "size": "68x62",
+   "bytes": 368
   }
  ]
 }
