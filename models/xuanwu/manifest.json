@@ -1,0 +1,31 @@
+{
+  "id": 1607,
+  "name": "현무",
+  "code": "xuanwu",
+  "mesh": "xuanwu.obj",
+  "albedo": "albedo.webp",
+  "note": "라이브 클라이언트에서 추출(UnityFS 디크립트). 현재 정적 메시+알베도. 스킨드 애니메이션 재생은 준비 중.",
+  "animations": [
+    { "clip": "idle_normal", "label": "대기" },
+    { "clip": "idle_battle", "label": "전투 대기" },
+    { "clip": "walk_normal", "label": "걷기" },
+    { "clip": "run_normal", "label": "달리기" },
+    { "clip": "run_battle", "label": "전투 달리기" },
+    { "clip": "skill_02_03", "label": "스킬 2" },
+    { "clip": "skill_03_01", "label": "스킬 3" },
+    { "clip": "skill_04_01", "label": "스킬 4-1" },
+    { "clip": "skill_04_02", "label": "스킬 4-2" },
+    { "clip": "skill_04_03", "label": "스킬 4-3" },
+    { "clip": "beat", "label": "공격" },
+    { "clip": "beatback_light", "label": "피격(약)" },
+    { "clip": "hitfly_behit", "label": "공중 피격" },
+    { "clip": "stun", "label": "기절" },
+    { "clip": "switch", "label": "교체" },
+    { "clip": "get_up", "label": "기상" },
+    { "clip": "dead", "label": "사망" },
+    { "clip": "zhengzha", "label": "발버둥" },
+    { "clip": "repel_start", "label": "밀려남 시작" },
+    { "clip": "repel_keep", "label": "밀려남 유지" },
+    { "clip": "repel_end", "label": "밀려남 종료" }
+  ]
+}
