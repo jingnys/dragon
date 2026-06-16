@@ -1,0 +1,840 @@
+{
+ "source": "대만(번체) 서버 티어표 · 환령명 한글 매핑",
+ "updated": "2026-06-16",
+ "count": 73,
+ "legend": [
+  {
+   "tier": "SS",
+   "desc": "버전의 주인공급 — 없으면 보유 유저와 경쟁이 거의 불가, 있고 없고가 게임이 다를 정도. 체감 최상."
+  },
+  {
+   "tier": "S+",
+   "desc": "진영을 묶으면 강하지만 타진영에선 발휘 어려움. SS는 보통 전진영 범용+강함."
+  },
+  {
+   "tier": "S",
+   "desc": "일정 강도 이상, 해당 색 덱의 핵심 구축 환령. 없으면 운영이 어렵고 체감 향상이 큼."
+  },
+  {
+   "tier": "A+",
+   "desc": "본체 강도는 파격까진 아니나 특정 대체불가 기능 보유 또는 육성 문턱이 매우 낮아 체감 향상."
+  },
+  {
+   "tier": "A",
+   "desc": "강도 평범, 쓸만하나 필수는 아님. 덱 깊이 보강용, 출전율은 낮음."
+  },
+  {
+   "tier": "B",
+   "desc": "투자 대비 체감 낮음, 겨우 합격. 소수 특정 덱에서 부득이 사용."
+  },
+  {
+   "tier": "C",
+   "desc": "투자 가치 낮음, 거의 사용 안 함."
+  }
+ ],
+ "tiers": [
+  {
+   "tier": "S",
+   "name": "아테나",
+   "id": 1701,
+   "twName": "智慧女神 • 雅典娜",
+   "cls": "수호자",
+   "quality": "신화",
+   "mainFac": "성당",
+   "subFac": "광야",
+   "role": "광역도발·적집결·자힐·반사피해"
+  },
+  {
+   "tier": "S",
+   "name": "프로메테우스",
+   "id": 1702,
+   "twName": "盜火之神 • 普羅米修士",
+   "cls": "수호자",
+   "quality": "신화",
+   "mainFac": "광야",
+   "subFac": "비술",
+   "role": ""
+  },
+  {
+   "tier": "S+",
+   "name": "카이사르",
+   "id": 1605,
+   "twName": "凱旋皇女 • 凱撤",
+   "cls": "수호자",
+   "quality": "한정   전설+",
+   "mainFac": "성당",
+   "subFac": "환영",
+   "role": "탄막차단·즉사방지"
+  },
+  {
+   "tier": "SS",
+   "name": "현무",
+   "id": 1607,
+   "twName": "四聖 • 玄武",
+   "cls": "수호자",
+   "quality": "한정   전설+",
+   "mainFac": "성당",
+   "subFac": "비술",
+   "role": ""
+  },
+  {
+   "tier": "S",
+   "name": "살로메",
+   "id": 1606,
+   "twName": "七紗舞孃 • 莎樂美",
+   "cls": "수호자",
+   "quality": "한정   전설+",
+   "mainFac": "원소",
+   "subFac": "피안",
+   "role": "매혹·감전·회피↑·감전증뎀"
+  },
+  {
+   "tier": "S",
+   "name": "헤르만",
+   "id": 1504,
+   "twName": "英魂統領 • 海德輪",
+   "cls": "수호자",
+   "quality": "한정   전설+",
+   "mainFac": "피안",
+   "subFac": "광야",
+   "role": "소환증뎀·버프해제·광야에너지차단"
+  },
+  {
+   "tier": "S",
+   "name": "두발린",
+   "id": 1604,
+   "twName": "鍛火龍姬 • 杜瓦林",
+   "cls": "수호자",
+   "quality": "한정   전설+",
+   "mainFac": "원소",
+   "subFac": "광야",
+   "role": "암속특공·전체물방↑"
+  },
+  {
+   "tier": "S+",
+   "name": "폼페이",
+   "id": 1603,
+   "twName": "鐵血統帥 • 龐培",
+   "cls": "수호자",
+   "quality": "한정   전설+",
+   "mainFac": "비술",
+   "subFac": "환영",
+   "role": "자힐·단일CC·징계·궁쿨초기화"
+  },
+  {
+   "tier": "A+",
+   "name": "헬베르",
+   "id": 1602,
+   "twName": "墮落女武神 • 赫爾維爾",
+   "cls": "수호자",
+   "quality": "한정   전설+",
+   "mainFac": "피안",
+   "subFac": "성당",
+   "role": "광역항폭·순수탱"
+  },
+  {
+   "tier": "A",
+   "name": "헤르만",
+   "id": 1504,
+   "twName": "野獸之王 • 海爾曼",
+   "cls": "수호자",
+   "quality": "전설",
+   "mainFac": "비술",
+   "subFac": "환영",
+   "role": "에너지지원·단일CC·자힐"
+  },
+  {
+   "tier": "A",
+   "name": "오베론니아",
+   "id": 1505,
+   "twName": "仲夏夜之夢 • 奧伯隆妮",
+   "cls": "수호자",
+   "quality": "동원 전설",
+   "mainFac": "원소",
+   "subFac": "광야",
+   "role": "회피·보호·고마방·원소반응"
+  },
+  {
+   "tier": "B+",
+   "name": "에우리티온",
+   "id": 1402,
+   "twName": "荒野暴徒 • 歐律提翁",
+   "cls": "수호자",
+   "quality": "서사",
+   "mainFac": "광야",
+   "subFac": "성당",
+   "role": "광역CC·물방·투지"
+  },
+  {
+   "tier": "A",
+   "name": "아누비스",
+   "id": 1601,
+   "twName": "冥界判官 • 阿努比斯",
+   "cls": "수호자",
+   "quality": "전설+",
+   "mainFac": "피안",
+   "subFac": "원소",
+   "role": "부활·후열감뎀"
+  },
+  {
+   "tier": "B",
+   "name": "드라실",
+   "id": 1501,
+   "twName": "古樹守衛 • 特拉希爾",
+   "cls": "수호자",
+   "quality": "전설",
+   "mainFac": "광야",
+   "subFac": "비술",
+   "role": "광역보호막·반사피해"
+  },
+  {
+   "tier": "B",
+   "name": "골렘",
+   "id": 1503,
+   "twName": "遠古魔像 • 戈輪",
+   "cls": "수호자",
+   "quality": "전설",
+   "mainFac": "성당",
+   "subFac": "원소",
+   "role": "CC면역·광역CC·투지"
+  },
+  {
+   "tier": "C",
+   "name": "퐁당",
+   "id": 1401,
+   "twName": "史萊姆王 • 咕咚",
+   "cls": "수호자",
+   "quality": "전설",
+   "mainFac": "피안",
+   "subFac": "환영",
+   "role": "둔화·단일CC·召喚"
+  },
+  {
+   "tier": "SS",
+   "name": "비너스",
+   "id": 2701,
+   "twName": "愛神 • 維納斯",
+   "cls": "성직자",
+   "quality": "신화",
+   "mainFac": "광야",
+   "subFac": "원소",
+   "role": "피해감소·균형·매혹·CC해제·디버프"
+  },
+  {
+   "tier": "S",
+   "name": "헬라",
+   "id": 2702,
+   "twName": "死亡女神 • 海拉",
+   "cls": "성직자",
+   "quality": "신화",
+   "mainFac": "성당",
+   "subFac": "피안",
+   "role": "放逐·增傷"
+  },
+  {
+   "tier": "A",
+   "name": "빌키스",
+   "id": 2608,
+   "twName": "示巴女王 • 碧綺絲",
+   "cls": "성직자",
+   "quality": "한정   전설+",
+   "mainFac": "광야",
+   "subFac": "비술",
+   "role": "치유치명·즉사면역"
+  },
+  {
+   "tier": "S+",
+   "name": "모르가나",
+   "id": 2606,
+   "twName": "繁星魔女 • 莫甘娜",
+   "cls": "성직자",
+   "quality": "한정   전설+",
+   "mainFac": "원소",
+   "subFac": "환영",
+   "role": "에너지지원·치유봉인·고위사제내장"
+  },
+  {
+   "tier": "SS",
+   "name": "비비안",
+   "id": 2604,
+   "twName": "湖中仙女 • 薇薇安",
+   "cls": "성직자",
+   "quality": "한정   전설+",
+   "mainFac": "원소",
+   "subFac": "성당",
+   "role": "공격↑·치명뎀↑·CC면역·빙의"
+  },
+  {
+   "tier": "S",
+   "name": "아타니스",
+   "id": 2501,
+   "twName": "奧法領主 • 阿塔妮絲",
+   "cls": "성직자",
+   "quality": "전설",
+   "mainFac": "환영",
+   "subFac": "비술",
+   "role": "광역침묵·에너지지원·징계·마법관통·흡혈"
+  },
+  {
+   "tier": "A+",
+   "name": "셰에라자드",
+   "id": 2601,
+   "twName": "祈願燈神 • 山魯佐德",
+   "cls": "성직자",
+   "quality": "전설+",
+   "mainFac": "비술",
+   "subFac": "성당",
+   "role": "에너지절감·광역회복·自身減傷"
+  },
+  {
+   "tier": "A+",
+   "name": "케이론",
+   "id": 2503,
+   "twName": "英雄導師 • 喀戎",
+   "cls": "성직자",
+   "quality": "전설",
+   "mainFac": "성당",
+   "subFac": "광야",
+   "role": "법구공증·디버프해제·광야공속"
+  },
+  {
+   "tier": "S",
+   "name": "시비모",
+   "id": 2605,
+   "twName": "護戒聖女 • 絲碧莫",
+   "cls": "성직자",
+   "quality": "한정   전설+",
+   "mainFac": "피안",
+   "subFac": "광야",
+   "role": "소환물복제·소환물강화·흥분(공속↑)·촉수"
+  },
+  {
+   "tier": "A+",
+   "name": "고블린 드러머",
+   "id": 2302,
+   "twName": "哥布林擂鼓手",
+   "cls": "성직자",
+   "quality": "정예",
+   "mainFac": "광야",
+   "subFac": "성당",
+   "role": "공격↑·공속↑·흥분(공속↑)"
+  },
+  {
+   "tier": "B+",
+   "name": "오필리아",
+   "id": 2603,
+   "twName": "聖劍主教 • 奧菲利亞",
+   "cls": "성직자",
+   "quality": "한정   전설+",
+   "mainFac": "성당",
+   "subFac": "환영",
+   "role": "공격↑·이상면역·징계·성가호·투지"
+  },
+  {
+   "tier": "B",
+   "name": "칼리굴라",
+   "id": 2502,
+   "twName": "鐵胃暴君 • 卡利古拉",
+   "cls": "성직자",
+   "quality": "전설",
+   "mainFac": "광야",
+   "subFac": "피안",
+   "role": "물방↑·흥분(공속↑)"
+  },
+  {
+   "tier": "B",
+   "name": "사이렌",
+   "id": 2401,
+   "twName": "遊弋歌姬 • 塞任",
+   "cls": "성직자",
+   "quality": "서사",
+   "mainFac": "비술",
+   "subFac": "원소",
+   "role": "개전에너지·원소반응"
+  },
+  {
+   "tier": "B",
+   "name": "티타니아",
+   "id": 2602,
+   "twName": "妖精仙后 • 提坦妮婭",
+   "cls": "성직자",
+   "quality": "전설+",
+   "mainFac": "광야",
+   "subFac": "원소",
+   "role": "원소반응·디버프해제"
+  },
+  {
+   "tier": "S",
+   "name": "하데스",
+   "id": 3701,
+   "twName": "冥府之王 • 哈迪斯",
+   "cls": "암살자",
+   "quality": "신화",
+   "mainFac": "비술",
+   "subFac": "피안",
+   "role": "처치시초기화·에너지회복·단일CC·즉사방지"
+  },
+  {
+   "tier": "SS",
+   "name": "릴리스",
+   "id": 3608,
+   "twName": "永夜女王 • 莉莉絲",
+   "cls": "암살자",
+   "quality": "한정   전설+",
+   "mainFac": "환영",
+   "subFac": "광야",
+   "role": "고통전파·공격흡취·추가피해"
+  },
+  {
+   "tier": "S",
+   "name": "지크룬트",
+   "id": 3602,
+   "twName": "鷹之勇者 • 齊格露德",
+   "cls": "암살자",
+   "quality": "한정   전설+",
+   "mainFac": "성당",
+   "subFac": "비술",
+   "role": "真傷·降療·沉默"
+  },
+  {
+   "tier": "S",
+   "name": "린",
+   "id": 3607,
+   "twName": "無雙劍豪 • 凜",
+   "cls": "암살자",
+   "quality": "한정   전설+",
+   "mainFac": "성당",
+   "subFac": "피안",
+   "role": "輔助增傷"
+  },
+  {
+   "tier": "S",
+   "name": "자그레우스",
+   "id": 3606,
+   "twName": "幽冥公主 • 扎格柔絲",
+   "cls": "암살자",
+   "quality": "한정   전설+",
+   "mainFac": "원소",
+   "subFac": "비술",
+   "role": "원소반응·連環控制"
+  },
+  {
+   "tier": "A",
+   "name": "네메시스",
+   "id": 3503,
+   "twName": "復仇女神 • 涅墨西斯",
+   "cls": "암살자",
+   "quality": "전설",
+   "mainFac": "비술",
+   "subFac": "환영",
+   "role": "單體沉默·징계·에너지회복·쿨감"
+  },
+  {
+   "tier": "A",
+   "name": "펜리르",
+   "id": 3501,
+   "twName": "魅夜之狩 • 芬里爾",
+   "cls": "암살자",
+   "quality": "동원 전설",
+   "mainFac": "원소",
+   "subFac": "비술",
+   "role": "처치시초기화·에너지회복·단일CC"
+  },
+  {
+   "tier": "A",
+   "name": "요르문간드",
+   "id": 3604,
+   "twName": "塵世巨蟒 • 耶夢加得",
+   "cls": "암살자",
+   "quality": "한정   전설+",
+   "mainFac": "성당",
+   "subFac": "환영",
+   "role": "單體爆發·단일CC·징계·쿨감"
+  },
+  {
+   "tier": "B",
+   "name": "판군바오",
+   "id": 3601,
+   "twName": "太極宗師 • 潘君寶",
+   "cls": "암살자",
+   "quality": "전설+",
+   "mainFac": "광야",
+   "subFac": "환영",
+   "role": "開場嘲諷·단일CC"
+  },
+  {
+   "tier": "B",
+   "name": "현무",
+   "id": 1607,
+   "twName": "四聖 • 白虎",
+   "cls": "암살자",
+   "quality": "전설+",
+   "mainFac": "광야",
+   "subFac": "피안",
+   "role": "?"
+  },
+  {
+   "tier": "C",
+   "name": "모드레드",
+   "id": 3605,
+   "twName": "死亡騎士 • 莫德雷德",
+   "cls": "암살자",
+   "quality": "한정   전설+",
+   "mainFac": "피안",
+   "subFac": "원소",
+   "role": "/"
+  },
+  {
+   "tier": "C",
+   "name": "랜슬롯",
+   "id": 3502,
+   "twName": "湖上騎士 • 蘭斯洛特",
+   "cls": "암살자",
+   "quality": "전설",
+   "mainFac": "성당",
+   "subFac": "원소",
+   "role": "/"
+  },
+  {
+   "tier": "S+",
+   "name": "아레스",
+   "id": 4701,
+   "twName": "戰神 • 阿瑞斯",
+   "cls": "전사",
+   "quality": "신화",
+   "mainFac": "환영",
+   "subFac": "비술",
+   "role": "광역CC·즉사방지·시간정지·징계"
+  },
+  {
+   "tier": "S",
+   "name": "토르",
+   "id": 4702,
+   "twName": "雷神 • 索爾",
+   "cls": "전사",
+   "quality": "신화",
+   "mainFac": "원소",
+   "subFac": "성당",
+   "role": "開場控制 高頻激爆"
+  },
+  {
+   "tier": "S",
+   "name": "히토미",
+   "id": 4610,
+   "twName": "亂世魔王 • 瞳",
+   "cls": "전사",
+   "quality": "한정   전설+",
+   "mainFac": "광야",
+   "subFac": "성당",
+   "role": "隊伍增益·持續收益·攻防雙向提升"
+  },
+  {
+   "tier": "A+",
+   "name": "안드바리",
+   "id": 4609,
+   "twName": "斷罪之翼 • 安德瓦莉",
+   "cls": "전사",
+   "quality": "한정   전설+",
+   "mainFac": "비술",
+   "subFac": "환영",
+   "role": "疊盾加攻 群體擊飛"
+  },
+  {
+   "tier": "S+",
+   "name": "아스모데우스",
+   "id": 4608,
+   "twName": "惡欲魔王 • 阿斯莫德",
+   "cls": "전사",
+   "quality": "한정   전설+",
+   "mainFac": "피안",
+   "subFac": "광야",
+   "role": "召喚物增益·群體回血"
+  },
+  {
+   "tier": "S",
+   "name": "현무",
+   "id": 1607,
+   "twName": "四聖 • 青龍",
+   "cls": "전사",
+   "quality": "한정   전설+",
+   "mainFac": "피안",
+   "subFac": "비술",
+   "role": "開場盾·克制AOE角色·疊遺言·물방↑"
+  },
+  {
+   "tier": "A+",
+   "name": "미노타우로스",
+   "id": 4501,
+   "twName": "迷宮魔王 • 米諾陶",
+   "cls": "전사",
+   "quality": "전설",
+   "mainFac": "광야",
+   "subFac": "피안",
+   "role": "綠主C·AOE·CC면역·분노"
+  },
+  {
+   "tier": "S+",
+   "name": "티르빙",
+   "id": 4606,
+   "twName": "嗜血魔劍 • 提爾鋒",
+   "cls": "전사",
+   "quality": "한정   전설+",
+   "mainFac": "환영",
+   "subFac": "광야",
+   "role": "暗主C·偷治療·懲戒減費"
+  },
+  {
+   "tier": "B+",
+   "name": "지크프리트",
+   "id": 4605,
+   "twName": "屠龍勇士 • 齊格菲",
+   "cls": "전사",
+   "quality": "동원 전설",
+   "mainFac": "원소",
+   "subFac": "광야",
+   "role": "서브탱·서브딜·자힐·원소반응"
+  },
+  {
+   "tier": "B",
+   "name": "지크프리트",
+   "id": 4301,
+   "twName": "戎裝公主 • 齊格菲",
+   "cls": "전사",
+   "quality": "동원 서사",
+   "mainFac": "원소",
+   "subFac": "광야",
+   "role": "推人配合牛牛轉"
+  },
+  {
+   "tier": "B",
+   "name": "마릴리스",
+   "id": 4602,
+   "twName": "六臂蛇魔 • 瑪麗莉絲",
+   "cls": "전사",
+   "quality": "한정   전설+",
+   "mainFac": "비술",
+   "subFac": "광야",
+   "role": "서브탱·서브딜·자힐·분노"
+  },
+  {
+   "tier": "B",
+   "name": "브륀힐드",
+   "id": 4601,
+   "twName": "女武神 • 布倫希爾德",
+   "cls": "전사",
+   "quality": "한정   전설+",
+   "mainFac": "성당",
+   "subFac": "피안",
+   "role": "群體加攻·清除恩賜"
+  },
+  {
+   "tier": "B",
+   "name": "베오울프",
+   "id": 4502,
+   "twName": "狂獵之王 • 貝奧武夫",
+   "cls": "전사",
+   "quality": "전설",
+   "mainFac": "피안",
+   "subFac": "비술",
+   "role": "부활·魔攻"
+  },
+  {
+   "tier": "C",
+   "name": "군느",
+   "id": 4503,
+   "twName": "英靈戰士 • 古娜",
+   "cls": "전사",
+   "quality": "전설",
+   "mainFac": "성당",
+   "subFac": "환영",
+   "role": ""
+  },
+  {
+   "tier": "C",
+   "name": "아서",
+   "id": 4603,
+   "twName": "永恆之王 • 亞瑟",
+   "cls": "전사",
+   "quality": "전설+",
+   "mainFac": "성당",
+   "subFac": "환영",
+   "role": "EX咖哩棒"
+  },
+  {
+   "tier": "S",
+   "name": "탈로스",
+   "id": 6604,
+   "twName": "青銅神姬 • 塔蘿絲",
+   "cls": "마법사",
+   "quality": "한정   전설+",
+   "mainFac": "비술",
+   "subFac": "광야",
+   "role": "指定降CD·후열즉살"
+  },
+  {
+   "tier": "S+",
+   "name": "제우스",
+   "id": null,
+   "twName": "眾神之王 • 宙斯",
+   "cls": "마법사",
+   "quality": "신화",
+   "mainFac": "성당",
+   "subFac": "원소",
+   "role": ""
+  },
+  {
+   "tier": "SS",
+   "name": "로키",
+   "id": 6702,
+   "twName": "詭計之神 • 洛基",
+   "cls": "마법사",
+   "quality": "신화",
+   "mainFac": "피안",
+   "subFac": "광야",
+   "role": "封印4技·分身·후열즉살"
+  },
+  {
+   "tier": "SS",
+   "name": "포세이돈",
+   "id": 6701,
+   "twName": "海神 • 波賽頓",
+   "cls": "마법사",
+   "quality": "신화",
+   "mainFac": "원소",
+   "subFac": "환영",
+   "role": "開場群傷·즉사방지·拖延交戰·에너지지원"
+  },
+  {
+   "tier": "SS",
+   "name": "옥조전",
+   "id": null,
+   "twName": "絕代妖狐 • 玉藻前",
+   "cls": "마법사",
+   "quality": "한정   전설+",
+   "mainFac": "광야",
+   "subFac": "성당",
+   "role": ""
+  },
+  {
+   "tier": "A+",
+   "name": "예카테리나",
+   "id": 6609,
+   "twName": "北境女王 • 葉卡捷琳娜",
+   "cls": "마법사",
+   "quality": "한정   전설+",
+   "mainFac": "원소",
+   "subFac": "비술",
+   "role": "冰凍控場·護盾增傷"
+  },
+  {
+   "tier": "S",
+   "name": "가브리엘",
+   "id": 6601,
+   "twName": "大天使 • 加百列",
+   "cls": "마법사",
+   "quality": "한정   전설+",
+   "mainFac": "성당",
+   "subFac": "피안",
+   "role": "主C·高爆發·高增益·無視防禦·範圍輸出"
+  },
+  {
+   "tier": "S",
+   "name": "크라수스",
+   "id": 6606,
+   "twName": "鐵腕執政官 • 克拉蘇",
+   "cls": "마법사",
+   "quality": "한정   전설+",
+   "mainFac": "환영",
+   "subFac": "비술",
+   "role": "大招擊退·버프해제·에너지지원"
+  },
+  {
+   "tier": "S",
+   "name": "현무",
+   "id": 1607,
+   "twName": "四聖 • 朱雀",
+   "cls": "마법사",
+   "quality": "한정   전설+",
+   "mainFac": "원소",
+   "subFac": "환영",
+   "role": "元素主C·範圍打擊"
+  },
+  {
+   "tier": "A+",
+   "name": "굴베이그",
+   "id": 6602,
+   "twName": "半神巫妖 • 古爾薇格",
+   "cls": "마법사",
+   "quality": "전설+",
+   "mainFac": "피안",
+   "subFac": "원소",
+   "role": "群體禁療"
+  },
+  {
+   "tier": "S+",
+   "name": "파우스트",
+   "id": 6603,
+   "twName": "惡魔支配者 • 浮士德",
+   "cls": "마법사",
+   "quality": "한정   전설+",
+   "mainFac": "피안",
+   "subFac": "환영",
+   "role": "菁英召喚物·징계"
+  },
+  {
+   "tier": "A",
+   "name": "나나리",
+   "id": 6505,
+   "twName": "四季鹿靈 • 娜娜莉",
+   "cls": "마법사",
+   "quality": "전설",
+   "mainFac": "광야",
+   "subFac": "비술",
+   "role": "群體CD減免·加怒"
+  },
+  {
+   "tier": "B",
+   "name": "클레오파트라",
+   "id": 6503,
+   "twName": "埃及豔后 • 克里奧佩特拉",
+   "cls": "마법사",
+   "quality": "전설",
+   "mainFac": "피안",
+   "subFac": "비술",
+   "role": "召喚物·疊加遺言"
+  },
+  {
+   "tier": "B",
+   "name": "멜리나",
+   "id": 6502,
+   "twName": "烈焰魔女 • 梅琳娜",
+   "cls": "마법사",
+   "quality": "전설",
+   "mainFac": "원소",
+   "subFac": "성당",
+   "role": "群體破魔"
+  },
+  {
+   "tier": "B",
+   "name": "텔페리엔",
+   "id": 6504,
+   "twName": "暗影元素 • 泰爾佩瑞恩",
+   "cls": "마법사",
+   "quality": "전설",
+   "mainFac": "원소",
+   "subFac": "환영",
+   "role": "多層感電·에너지지원"
+  },
+  {
+   "tier": "C",
+   "name": "케르베로스",
+   "id": 6501,
+   "twName": "地御三頭犬 • 刻爾柏洛斯",
+   "cls": "마법사",
+   "quality": "전설",
+   "mainFac": "환영",
+   "subFac": "원소",
+   "role": "/"
+  }
+ ]
+}
