@@ -1206,7 +1206,9 @@
 "base": "신규",
 "kind": "보구",
 "name": "전용 보구",
-"nameKo": ""
+"nameKo": "",
+"owner": "살로메",
+"ownerGuess": true
 },
 {
 "server": "중국",
@@ -1743,7 +1745,9 @@
 "base": "신규",
 "kind": "보구",
 "name": "전용 보구",
-"nameKo": ""
+"nameKo": "",
+"owner": "크라수스",
+"ownerGuess": true
 },
 {
 "server": "중국",
