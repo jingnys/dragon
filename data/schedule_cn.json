@@ -11,19 +11,22 @@
 {
 "server": "중국",
 "start": "2025-06-20",
-"end": "2025-06-27",
+"end": "2025-07-04",
 "base": "신규",
-"kind": "마법",
-"name": "마법 창조",
-"nameKo": ""
+"kind": "환령",
+"name": "耶梦加得",
+"nameKo": "요르문간드",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3670728876818433",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3670728876818433)"
 },
 {
 "server": "중국",
 "start": "2025-06-20",
-"end": "2025-07-04",
+"end": "2025-06-27",
 "base": "신규",
-"kind": "환령",
-"name": "환령 소환",
+"kind": "마법",
+"name": "마법 창조",
 "nameKo": ""
 },
 {
@@ -65,11 +68,86 @@
 {
 "server": "중국",
 "start": "2025-07-18",
-"end": "2025-07-25",
+"end": "2025-08-01",
 "base": "복각",
 "kind": "환령",
 "name": "维纳斯",
-"nameKo": "비너스"
+"nameKo": "비너스",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3675610233536513",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3675610233536513)"
+},
+{
+"server": "중국",
+"start": "2025-07-18",
+"end": "2025-08-01",
+"base": "복각",
+"kind": "환령",
+"name": "哈迪斯",
+"nameKo": "하데스",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3675610233536513",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3675610233536513)"
+},
+{
+"server": "중국",
+"start": "2025-07-18",
+"end": "2025-08-01",
+"base": "복각",
+"kind": "환령",
+"name": "通过主",
+"nameKo": "",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3675610233536513",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3675610233536513)"
+},
+{
+"server": "중국",
+"start": "2025-07-18",
+"end": "2025-08-01",
+"base": "복각",
+"kind": "환령",
+"name": "波塞冬 活动说明",
+"nameKo": "포세이돈",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3675610233536513",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3675610233536513)"
+},
+{
+"server": "중국",
+"start": "2025-07-18",
+"end": "2025-07-25",
+"base": "복각",
+"kind": "환령",
+"name": "玛丽莉丝",
+"nameKo": "마릴리스",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3675610233536513",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3675610233536513)"
+},
+{
+"server": "중국",
+"start": "2025-07-18",
+"end": "2025-07-25",
+"base": "복각",
+"kind": "환령",
+"name": "加百列",
+"nameKo": "가브리엘",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3675610233536513",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3675610233536513)"
+},
+{
+"server": "중국",
+"start": "2025-07-18",
+"end": "2025-07-25",
+"base": "복각",
+"kind": "환령",
+"name": "阿努比斯",
+"nameKo": "아누비스",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3675610233536513",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3675610233536513)"
 },
 {
 "server": "중국",
@@ -79,6 +157,18 @@
 "kind": "이벤트",
 "name": "이벤트",
 "nameKo": ""
+},
+{
+"server": "중국",
+"start": "2025-07-25",
+"end": "2025-08-08",
+"base": "신규",
+"kind": "환령",
+"name": "绯刃剑魂",
+"nameKo": "핏빛의검혼",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3676877222281217",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3676877222281217)"
 },
 {
 "server": "중국",
@@ -129,19 +219,22 @@
 "server": "중국",
 "start": "2025-08-15",
 "end": "2025-08-22",
-"base": "복각",
-"kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
-},
-{
-"server": "중국",
-"start": "2025-08-15",
-"end": "2025-08-22",
 "base": "신규",
 "kind": "아티팩트",
 "name": "보물 탐험",
 "nameKo": ""
+},
+{
+"server": "중국",
+"start": "2025-08-22",
+"end": "2025-09-05",
+"base": "신규",
+"kind": "환령",
+"name": "青龙",
+"nameKo": "청룡",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3682073634766849",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3682073634766849)"
 },
 {
 "server": "중국",
@@ -241,15 +334,6 @@
 },
 {
 "server": "중국",
-"start": "2025-08-22",
-"end": "2025-09-05",
-"base": "신규",
-"kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
-},
-{
-"server": "중국",
 "start": "2025-08-29",
 "end": "2025-09-05",
 "base": "신규",
@@ -259,12 +343,15 @@
 },
 {
 "server": "중국",
-"start": "2025-08-29",
-"end": "2025-10-10",
+"start": "2025-09-05",
+"end": "2025-09-19",
 "base": "신규",
 "kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
+"name": "浮士德",
+"nameKo": "파우스트",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3684493660127232",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3684493660127232)"
 },
 {
 "server": "중국",
@@ -273,15 +360,6 @@
 "base": "신규",
 "kind": "아티팩트",
 "name": "보물 탐험",
-"nameKo": ""
-},
-{
-"server": "중국",
-"start": "2025-09-05",
-"end": "2025-09-19",
-"base": "신규",
-"kind": "환령",
-"name": "환령 소환",
 "nameKo": ""
 },
 {
@@ -392,6 +470,18 @@
 {
 "server": "중국",
 "start": "2025-09-19",
+"end": "2025-10-03",
+"base": "신규",
+"kind": "환령",
+"name": "薇薇安",
+"nameKo": "비비안",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3687020979519488",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3687020979519488)"
+},
+{
+"server": "중국",
+"start": "2025-09-19",
 "end": "2025-09-26",
 "base": "신규",
 "kind": "마법",
@@ -400,12 +490,15 @@
 },
 {
 "server": "중국",
-"start": "2025-09-19",
+"start": "2025-09-26",
 "end": "2025-10-03",
-"base": "신규",
+"base": "복각",
 "kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
+"name": "伊芙利特",
+"nameKo": "이프리트",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3688474391871489",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3688474391871489)"
 },
 {
 "server": "중국",
@@ -413,8 +506,35 @@
 "end": "2025-10-03",
 "base": "복각",
 "kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
+"name": "玛丽莉丝",
+"nameKo": "마릴리스",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3688474391871489",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3688474391871489)"
+},
+{
+"server": "중국",
+"start": "2025-09-26",
+"end": "2025-10-03",
+"base": "복각",
+"kind": "환령",
+"name": "古尔薇格",
+"nameKo": "굴베이그",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3688474391871489",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3688474391871489)"
+},
+{
+"server": "중국",
+"start": "2025-09-26",
+"end": "2025-10-03",
+"base": "복각",
+"kind": "환령",
+"name": "白虎 活动说明",
+"nameKo": "백호",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3688474391871489",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3688474391871489)"
 },
 {
 "server": "중국",
@@ -432,7 +552,9 @@
 "base": "신규",
 "kind": "보구",
 "name": "전용 보구",
-"nameKo": ""
+"nameKo": "",
+"owner": "비비안",
+"ownerGuess": true
 },
 {
 "server": "중국",
@@ -441,15 +563,6 @@
 "base": "신규",
 "kind": "마물",
 "name": "마물 연성",
-"nameKo": ""
-},
-{
-"server": "중국",
-"start": "2025-10-03",
-"end": "2025-10-17",
-"base": "신규",
-"kind": "환령",
-"name": "환령 소환",
 "nameKo": ""
 },
 {
@@ -463,12 +576,15 @@
 },
 {
 "server": "중국",
-"start": "2025-10-10",
-"end": "2025-11-21",
+"start": "2025-10-17",
+"end": "2025-10-31",
 "base": "신규",
 "kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
+"name": "朱雀",
+"nameKo": "주작",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3692278709714944",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3692278709714944)"
 },
 {
 "server": "중국",
@@ -536,6 +652,18 @@
 {
 "server": "중국",
 "start": "2025-10-31",
+"end": "2025-11-14",
+"base": "신규",
+"kind": "환령",
+"name": "凯撒",
+"nameKo": "카이사르",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3694809936035840",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3694809936035840)"
+},
+{
+"server": "중국",
+"start": "2025-10-31",
 "end": "2025-11-07",
 "base": "신규",
 "kind": "마법",
@@ -563,11 +691,110 @@
 {
 "server": "중국",
 "start": "2025-11-14",
+"end": "2025-11-28",
+"base": "신규",
+"kind": "환령",
+"name": "扎格柔丝",
+"nameKo": "자그레우스",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3697332692484097",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3697332692484097)"
+},
+{
+"server": "중국",
+"start": "2025-11-14",
 "end": "2025-11-21",
 "base": "신규",
 "kind": "마물",
-"name": "마물 연성",
-"nameKo": ""
+"name": "亚马逊女战士",
+"nameKo": "아마존여전사",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3697332692484097",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3697332692484097)"
+},
+{
+"server": "중국",
+"start": "2025-11-14",
+"end": "2025-11-21",
+"base": "신규",
+"kind": "마물",
+"name": "尼米亚巨狮",
+"nameKo": "네메아의사자",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3697332692484097",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3697332692484097)"
+},
+{
+"server": "중국",
+"start": "2025-11-14",
+"end": "2025-11-21",
+"base": "신규",
+"kind": "마물",
+"name": "阿尔菲斯河神",
+"nameKo": "알페이오스강신",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3697332692484097",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3697332692484097)"
+},
+{
+"server": "중국",
+"start": "2025-11-14",
+"end": "2025-11-21",
+"base": "신규",
+"kind": "마물",
+"name": "画中人",
+"nameKo": "그림속인물",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3697332692484097",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3697332692484097)"
+},
+{
+"server": "중국",
+"start": "2025-11-14",
+"end": "2025-11-21",
+"base": "신규",
+"kind": "마물",
+"name": "斯廷湖怪鸟",
+"nameKo": "스팀팔로스의새",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3697332692484097",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3697332692484097)"
+},
+{
+"server": "중국",
+"start": "2025-11-14",
+"end": "2025-11-21",
+"base": "신규",
+"kind": "마물",
+"name": "尼莫船长",
+"nameKo": "네모선장",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3697332692484097",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3697332692484097)"
+},
+{
+"server": "중국",
+"start": "2025-11-14",
+"end": "2025-11-21",
+"base": "신규",
+"kind": "마물",
+"name": "厄律山野猪",
+"nameKo": "에리만토스의멧돼지",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3697332692484097",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3697332692484097)"
+},
+{
+"server": "중국",
+"start": "2025-11-14",
+"end": "2025-11-21",
+"base": "신규",
+"kind": "마물",
+"name": "三星鼠王",
+"nameKo": "3스타쥐슐랭",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3697332692484097",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3697332692484097)"
 },
 {
 "server": "중국",
@@ -806,8 +1033,20 @@
 "end": "2026-01-16",
 "base": "복각",
 "kind": "환령",
-"name": "阿波罗 活动说明",
+"name": "阿波罗",
 "nameKo": "아폴론",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3705858986967040",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3705858986967040)"
+},
+{
+"server": "중국",
+"start": "2026-01-02",
+"end": "2026-01-16",
+"base": "복각",
+"kind": "환령",
+"name": "通过主",
+"nameKo": "",
 "src": "honor",
 "url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3705858986967040",
 "title": "중국 국服 갱신 유지보수 공지 (topic 3705858986967040)"
@@ -996,7 +1235,21 @@
 "base": "신규",
 "kind": "보구",
 "name": "전용 보구",
-"nameKo": ""
+"nameKo": "",
+"owner": "아스모데우스",
+"ownerGuess": true
+},
+{
+"server": "중국",
+"start": "2026-01-23",
+"end": "2026-02-06",
+"base": "신규",
+"kind": "환령",
+"name": "阿斯莫德",
+"nameKo": "아스모데우스",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3709847990206465",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3709847990206465)"
 },
 {
 "server": "중국",
@@ -1005,15 +1258,6 @@
 "base": "신규",
 "kind": "마법",
 "name": "마법 창조",
-"nameKo": ""
-},
-{
-"server": "중국",
-"start": "2026-01-30",
-"end": "2026-02-06",
-"base": "복각",
-"kind": "환령",
-"name": "환령 소환",
 "nameKo": ""
 },
 {
@@ -1045,12 +1289,63 @@
 },
 {
 "server": "중국",
-"start": "2026-02-06",
-"end": "2026-02-20",
-"base": "신규",
+"start": "2026-02-13",
+"end": "2026-02-27",
+"base": "복각",
 "kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
+"name": "阿尔忒弥斯",
+"nameKo": "아르테미스",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3713650774999040",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3713650774999040)"
+},
+{
+"server": "중국",
+"start": "2026-02-13",
+"end": "2026-02-27",
+"base": "복각",
+"kind": "환령",
+"name": "维纳斯",
+"nameKo": "비너스",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3713650774999040",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3713650774999040)"
+},
+{
+"server": "중국",
+"start": "2026-02-13",
+"end": "2026-02-27",
+"base": "복각",
+"kind": "환령",
+"name": "索尔",
+"nameKo": "토르",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3713650774999040",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3713650774999040)"
+},
+{
+"server": "중국",
+"start": "2026-02-13",
+"end": "2026-02-27",
+"base": "복각",
+"kind": "환령",
+"name": "通过",
+"nameKo": "",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3713650774999040",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3713650774999040)"
+},
+{
+"server": "중국",
+"start": "2026-02-13",
+"end": "2026-02-27",
+"base": "복각",
+"kind": "환령",
+"name": "波塞冬 活动说明",
+"nameKo": "포세이돈",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3713650774999040",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3713650774999040)"
 },
 {
 "server": "중국",
@@ -1058,17 +1353,47 @@
 "end": "2026-02-20",
 "base": "신규",
 "kind": "마법",
-"name": "마법 창조",
-"nameKo": ""
+"name": "迅魔光环",
+"nameKo": "신속한마법오라",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3713650774999040",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3713650774999040)"
 },
 {
 "server": "중국",
 "start": "2026-02-13",
-"end": "2026-03-27",
+"end": "2026-02-20",
 "base": "신규",
-"kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
+"kind": "마법",
+"name": "挡吸光环",
+"nameKo": "막기흡수오라",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3713650774999040",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3713650774999040)"
+},
+{
+"server": "중국",
+"start": "2026-02-13",
+"end": "2026-02-20",
+"base": "신규",
+"kind": "마법",
+"name": "滞时咆哮",
+"nameKo": "정체의포효",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3713650774999040",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3713650774999040)"
+},
+{
+"server": "중국",
+"start": "2026-02-13",
+"end": "2026-02-20",
+"base": "신규",
+"kind": "마법",
+"name": "扰技疲敌",
+"nameKo": "교란피로",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3713650774999040",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3713650774999040)"
 },
 {
 "server": "중국",
@@ -1213,6 +1538,18 @@
 {
 "server": "중국",
 "start": "2026-03-06",
+"end": "2026-03-20",
+"base": "신규",
+"kind": "환령",
+"name": "莎乐美",
+"nameKo": "살로메",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3717462510862337",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3717462510862337)"
+},
+{
+"server": "중국",
+"start": "2026-03-06",
 "end": "2026-03-13",
 "base": "신규",
 "kind": "마법",
@@ -1260,15 +1597,6 @@
 },
 {
 "server": "중국",
-"start": "2026-03-06",
-"end": "2026-03-20",
-"base": "신규",
-"kind": "환령",
-"name": "莎乐美",
-"nameKo": "살로메"
-},
-{
-"server": "중국",
 "start": "2026-03-13",
 "end": "2026-03-20",
 "base": "복각",
@@ -1293,6 +1621,18 @@
 "kind": "이벤트",
 "name": "이벤트",
 "nameKo": ""
+},
+{
+"server": "중국",
+"start": "2026-03-20",
+"end": "2026-04-03",
+"base": "신규",
+"kind": "환령",
+"name": "密米尔",
+"nameKo": "미미르",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3720003764256769",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3720003764256769)"
 },
 {
 "server": "중국",
@@ -1392,15 +1732,6 @@
 },
 {
 "server": "중국",
-"start": "2026-03-20",
-"end": "2026-04-03",
-"base": "신규",
-"kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
-},
-{
-"server": "중국",
 "start": "2026-03-27",
 "end": "2026-05-08",
 "base": "복각",
@@ -1465,6 +1796,18 @@
 {
 "server": "중국",
 "start": "2026-04-17",
+"end": "2026-05-01",
+"base": "신규",
+"kind": "환령",
+"name": "乱世魔王",
+"nameKo": "난세의마왕",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3725067777474560",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3725067777474560)"
+},
+{
+"server": "중국",
+"start": "2026-04-17",
 "end": "2026-04-24",
 "base": "신규",
 "kind": "마법",
@@ -1509,24 +1852,6 @@
 "src": "honor",
 "url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3725067777474560",
 "title": "중국 국服 갱신 유지보수 공지 (topic 3725067777474560)"
-},
-{
-"server": "중국",
-"start": "2026-04-17",
-"end": "2026-05-01",
-"base": "신규",
-"kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
-},
-{
-"server": "중국",
-"start": "2026-04-24",
-"end": "2026-05-01",
-"base": "복각",
-"kind": "환령",
-"name": "환령 소환",
-"nameKo": ""
 },
 {
 "server": "중국",
@@ -2166,11 +2491,35 @@
 {
 "server": "중국",
 "start": "2026-06-12",
+"end": "2026-06-26",
+"base": "복각",
+"kind": "환령",
+"name": "通过",
+"nameKo": "",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3735208852455425",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3735208852455425)"
+},
+{
+"server": "중국",
+"start": "2026-06-12",
 "end": "2026-06-19",
 "base": "복각",
 "kind": "환령",
 "name": "玄武",
 "nameKo": "현무"
+},
+{
+"server": "중국",
+"start": "2026-06-19",
+"end": "2026-07-03",
+"base": "신규",
+"kind": "환령",
+"name": "叶卡捷琳娜",
+"nameKo": "예카테리나",
+"src": "honor",
+"url": "https://community-cn.honor.com/cngm/game/topicdetail/topicid-3736483183001601",
+"title": "중국 국服 갱신 유지보수 공지 (topic 3736483183001601)"
 },
 {
 "server": "중국",
