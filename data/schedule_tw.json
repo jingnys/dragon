@@ -1999,7 +1999,9 @@
 "name": "전용 보구",
 "nameKo": "",
 "url": "https://sod.game-beans.com/jx/sodNotice/20260107/7670.html",
-"title": "대만 sodNotice 공지"
+"title": "대만 sodNotice 공지",
+"owner": "살로메",
+"ownerGuess": true
 },
 {
 "server": "대만",
@@ -2712,7 +2714,7 @@
 "base": "신규",
 "kind": "환령",
 "name": "絕代妖狐",
-"nameKo": "절세 요호",
+"nameKo": "타마모노마에",
 "url": "https://sod.game-beans.com/jx/sodNotice/20260408/7890.html",
 "title": "대만 sodNotice 공지"
 },
@@ -2811,7 +2813,7 @@
 "base": "신규",
 "kind": "환령",
 "name": "英魂統領",
-"nameKo": "영혼 통령",
+"nameKo": "하이드렌",
 "url": "https://sod.game-beans.com/jx/sodNotice/20260421/7928.html",
 "title": "대만 sodNotice 공지"
 },
@@ -2932,7 +2934,7 @@
 "base": "신규",
 "kind": "환령",
 "name": "破魔巫女",
-"nameKo": "파마 무녀",
+"nameKo": "히미코",
 "url": "https://sod.game-beans.com/jx/sodNotice/20260505/7968.html",
 "title": "대만 sodNotice 공지"
 },
@@ -3077,7 +3079,9 @@
 "name": "전용 보구",
 "nameKo": "",
 "url": "https://sod.game-beans.com/jx/sodNotice/20260513/7984.html",
-"title": "대만 sodNotice 공지"
+"title": "대만 sodNotice 공지",
+"owner": "지크룬트",
+"ownerGuess": true
 },
 {
 "server": "대만",
@@ -3306,7 +3310,7 @@
 "base": "신규",
 "kind": "환령",
 "name": "紳士怪盜",
-"nameKo": "",
+"nameKo": "아르센루팡",
 "url": "https://sod.game-beans.com/jx/sodNotice/20260616/8060.html",
 "title": "대만 sodNotice 공지"
 },
@@ -3352,6 +3356,105 @@
 "name": "奧法傳承(奧術)",
 "nameKo": "전승",
 "url": "https://sod.game-beans.com/jx/sodNotice/20260616/8060.html",
+"title": "대만 sodNotice 공지"
+},
+{
+"server": "대만",
+"start": "2026-06-25",
+"end": "2026-07-09",
+"base": "복각",
+"kind": "환령",
+"name": "太陽神",
+"nameKo": "아폴론",
+"url": "https://sod.game-beans.com/jx/sodNotice/20260623/8070.html",
+"title": "대만 sodNotice 공지"
+},
+{
+"server": "대만",
+"start": "2026-06-25",
+"end": "2026-07-09",
+"base": "복각",
+"kind": "환령",
+"name": "冥府之王",
+"nameKo": "하데스",
+"url": "https://sod.game-beans.com/jx/sodNotice/20260623/8070.html",
+"title": "대만 sodNotice 공지"
+},
+{
+"server": "대만",
+"start": "2026-06-25",
+"end": "2026-07-09",
+"base": "복각",
+"kind": "환령",
+"name": "死亡女神",
+"nameKo": "헬라",
+"url": "https://sod.game-beans.com/jx/sodNotice/20260623/8070.html",
+"title": "대만 sodNotice 공지"
+},
+{
+"server": "대만",
+"start": "2026-06-25",
+"end": "2026-07-02",
+"base": "복각",
+"kind": "환령",
+"name": "凱旋皇女‧凱薩",
+"nameKo": "카이사르",
+"url": "https://sod.game-beans.com/jx/sodNotice/20260623/8070.html",
+"title": "대만 sodNotice 공지"
+},
+{
+"server": "대만",
+"start": "2026-06-25",
+"end": "2026-07-02",
+"base": "복각",
+"kind": "환령",
+"name": "護戒聖女‧絲碧莫",
+"nameKo": "시비모",
+"url": "https://sod.game-beans.com/jx/sodNotice/20260623/8070.html",
+"title": "대만 sodNotice 공지"
+},
+{
+"server": "대만",
+"start": "2026-06-25",
+"end": "2026-07-02",
+"base": "신규",
+"kind": "마물",
+"name": "無心鐵皮人",
+"nameKo": "없음",
+"url": "https://sod.game-beans.com/jx/sodNotice/20260623/8070.html",
+"title": "대만 sodNotice 공지"
+},
+{
+"server": "대만",
+"start": "2026-06-25",
+"end": "2026-07-02",
+"base": "신규",
+"kind": "마물",
+"name": "瘋帽子先生",
+"nameKo": "",
+"url": "https://sod.game-beans.com/jx/sodNotice/20260623/8070.html",
+"title": "대만 sodNotice 공지"
+},
+{
+"server": "대만",
+"start": "2026-06-25",
+"end": "2026-07-02",
+"base": "신규",
+"kind": "마물",
+"name": "微笑貓",
+"nameKo": "",
+"url": "https://sod.game-beans.com/jx/sodNotice/20260623/8070.html",
+"title": "대만 sodNotice 공지"
+},
+{
+"server": "대만",
+"start": "2026-06-25",
+"end": "2026-07-09",
+"base": "신규",
+"kind": "보구",
+"name": "전용 보구",
+"nameKo": "",
+"url": "https://sod.game-beans.com/jx/sodNotice/20260623/8070.html",
 "title": "대만 sodNotice 공지"
 }
 ]
